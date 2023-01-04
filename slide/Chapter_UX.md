@@ -269,9 +269,135 @@ Il traffico che arriva dai motori di ricerca, basato sul valore dei contenuti ch
 
 ---
 
+# Progettazione della UX
+
+1 Ricerca delle esigenze dei propri utenti
+2 Prototipazione del servizio
+3 Test su utenti reali
+4 Raccolta esigenze e reiterazione sul prototipo
+
+---
+
+# Best Practice - 1
+
+Partire dalle esigenze degli utenti: è importante comprendere le esigenze, i comportamenti e le sfide degli utenti per progettare un'esperienza utente efficace e soddisfacente.
+
+Raggiungere un equilibrio tra utilità, usabilità e piacevolezza: è importante che un prodotto, un servizio o un sistema sia utile, facile da usare e piacevole per gli utenti.
+
+Favorire l'accessibilità: è importante che un prodotto, un servizio o un sistema sia accessibile a tutti, indipendentemente dalle abilità o dalle limitazioni degli utenti.
+
+Sviluppare una solida architettura dell'informazione: è importante organizzare le informazioni in modo logico e coerente per facilitarne la comprensione e l'utilizzo da parte degli utenti.
+
+---
+
+# Best Practice - 2
+
+Testare con gli utenti: è importante testare il prodotto, il servizio o il sistema con gli utenti per identificare eventuali problemi e apportare miglioramenti.
+
+Fare un uso appropriato delle animazioni e dei suoni: le animazioni e i suoni possono essere utili per attirare l'attenzione degli utenti o per fornire feedback, ma è importante utilizzarli in modo appropriato e non eccessivo.
+
+Mantenere un design coerente: è importante mantenere un design coerente all'interno di un prodotto, un servizio o un sistema per facilitarne l'utilizzo e la comprensione da parte degli utenti.
+
+---
+
+# Scuse per non lavorare sulla UX
+
+- Mancanza di tempo
+- Mancanza di soldi
+- Non dobbiamo fare dei test perché conosciamo già i problemi
+- Non servono degli utenti reali per i test
+- Conosciamo i nostri utenti e sappiamo cosa vogliono
+
+---
+
+# 
+
+---
 
 
 ---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
 
 ---
 
