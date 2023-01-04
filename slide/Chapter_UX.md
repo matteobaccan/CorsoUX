@@ -101,11 +101,31 @@ Il primo impatto con l'azienda viene dato dalla UX di prodotto: è inutile inves
 
 ---
 
+# Design di servizi
+
+Come devono essere strutturati i servizi?
+
+## Design thinking
+
+Approccio basato su empatia, sperimentazione e creatività
+
+## Service design
+
+Efficienza dei servizi in base all'esperienza utente
+
+## UX Design
+
+Rendere intuitivi e facili da usare i servizi
+
+---
+
 # Design thinking
 
 Il design thinking è un approccio metodologico alla risoluzione dei problemi e alla creazione di nuove soluzioni basato sull'empatia verso gli utenti, la sperimentazione rapida e il pensiero creativo.
 
 Il design thinking si basa sull'idea che sia possibile trovare soluzioni innovative ai problemi attraverso il coinvolgimento attivo degli utenti e la sperimentazione di diverse opzioni. In questo modo, il design thinking cerca di coniugare la creatività con il pensiero strategico e l'analisi dei dati.
+
+Occorre rompere la segregazione dei dipartimenti per trovare insieme nuove soluzioni.
 
 ---
 
@@ -129,7 +149,21 @@ Lo UX design viene spesso utilizzato in ambito informatico per progettare interf
 
 ---
 
+Le metriche di valutazione del design sono degli strumenti che vengono utilizzati per misurare l'efficacia di un prodotto, di un servizio o di un sistema dal punto di vista dell'esperienza utente. Tra le principali metriche di valutazione del design troviamo
+
 ---
+
+    Soddisfazione utente: si tratta di una misura della soddisfazione degli utenti rispetto al prodotto, al servizio o al sistema. La soddisfazione utente può essere misurata attraverso sondaggi o interviste a campione, o utilizzando strumenti di analisi delle prestazioni come il Net Promoter Score (NPS).
+
+    Tasso di conversione: si tratta di una misura del numero di utenti che completano un'azione desiderata (ad esempio, il completamento di un modulo di registrazione o l'acquisto di un prodotto) rispetto al numero totale di utenti che hanno visitato il sito.
+
+    Tasso di abbandono: si tratta di una misura del numero di utenti che abbandonano il sito o l'applicazione prima di completare un'azione desiderata. Il tasso di abbandono può essere utilizzato per identificare problemi con la facilità d'uso o con la soddisfazione degli utenti.
+
+    Tempo di permanenza: si tratta di una misura del tempo che gli utenti trascorrono sul sito o sull'applicazione. Il tempo di permanenza può essere utilizzato per valutare l'interesse degli utenti per il contenuto o per il prodotto/servizio offerto.
+
+    Tasso di rimbalzo: si tratta di una misura del numero di utenti che lasciano il sito dopo aver visitato solo una pagina. Il tasso di rimbalzo può essere utilizzato per valutare l'attrattività del sito o dell'applicazione per gli utenti.
+
+Queste sono solo alcune delle metriche di valutazione del design che possono essere utilizzate per misurare l'efficacia di un prodotto, di un servizio o di un sistema dal punto di vista dell'esperienza utente. Ogni azienda o progetto potrebbe avere esigenze specifiche e quindi utilizzare altre metriche o combinare diverse metriche per ottenere una valutazione più accurata.
 
 ---
 
