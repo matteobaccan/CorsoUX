@@ -149,41 +149,127 @@ Lo UX design viene spesso utilizzato in ambito informatico per progettare interf
 
 ---
 
-Le metriche di valutazione del design sono degli strumenti che vengono utilizzati per misurare l'efficacia di un prodotto, di un servizio o di un sistema dal punto di vista dell'esperienza utente. Tra le principali metriche di valutazione del design troviamo
+# Metriche 
+
+Le metriche di valutazione del design sono degli strumenti che vengono utilizzati per misurare l'efficacia di un prodotto, di un servizio o di un sistema dal punto di vista dell'esperienza utente. 
 
 ---
 
-    Soddisfazione utente: si tratta di una misura della soddisfazione degli utenti rispetto al prodotto, al servizio o al sistema. La soddisfazione utente può essere misurata attraverso sondaggi o interviste a campione, o utilizzando strumenti di analisi delle prestazioni come il Net Promoter Score (NPS).
+# Metriche principali - 1 
 
-    Tasso di conversione: si tratta di una misura del numero di utenti che completano un'azione desiderata (ad esempio, il completamento di un modulo di registrazione o l'acquisto di un prodotto) rispetto al numero totale di utenti che hanno visitato il sito.
+Soddisfazione utente: si tratta di una misura della soddisfazione degli utenti rispetto al prodotto, al servizio o al sistema. La soddisfazione utente può essere misurata attraverso sondaggi o interviste a campione, o utilizzando strumenti di analisi delle prestazioni come il Net Promoter Score (NPS).
 
-    Tasso di abbandono: si tratta di una misura del numero di utenti che abbandonano il sito o l'applicazione prima di completare un'azione desiderata. Il tasso di abbandono può essere utilizzato per identificare problemi con la facilità d'uso o con la soddisfazione degli utenti.
-
-    Tempo di permanenza: si tratta di una misura del tempo che gli utenti trascorrono sul sito o sull'applicazione. Il tempo di permanenza può essere utilizzato per valutare l'interesse degli utenti per il contenuto o per il prodotto/servizio offerto.
-
-    Tasso di rimbalzo: si tratta di una misura del numero di utenti che lasciano il sito dopo aver visitato solo una pagina. Il tasso di rimbalzo può essere utilizzato per valutare l'attrattività del sito o dell'applicazione per gli utenti.
-
-Queste sono solo alcune delle metriche di valutazione del design che possono essere utilizzate per misurare l'efficacia di un prodotto, di un servizio o di un sistema dal punto di vista dell'esperienza utente. Ogni azienda o progetto potrebbe avere esigenze specifiche e quindi utilizzare altre metriche o combinare diverse metriche per ottenere una valutazione più accurata.
+Tasso di conversione: si tratta di una misura del numero di utenti che completano un'azione desiderata (ad esempio, il completamento di un modulo di registrazione o l'acquisto di un prodotto) rispetto al numero totale di utenti che hanno visitato il sito.
 
 ---
 
----
+# Metriche principali - 2
+
+Tasso di abbandono: si tratta di una misura del numero di utenti che abbandonano il sito o l'applicazione prima di completare un'azione desiderata. Il tasso di abbandono può essere utilizzato per identificare problemi con la facilità d'uso o con la soddisfazione degli utenti.
+
+Tempo di permanenza: si tratta di una misura del tempo che gli utenti trascorrono sul sito o sull'applicazione. Il tempo di permanenza può essere utilizzato per valutare l'interesse degli utenti per il contenuto o per il prodotto/servizio offerto.
+
+Tasso di rimbalzo: si tratta di una misura del numero di utenti che lasciano il sito dopo aver visitato solo una pagina. Il tasso di rimbalzo può essere utilizzato per valutare l'attrattività del sito o dell'applicazione per gli utenti.
 
 ---
 
----
+# UX ROI
+
+UX ROI (acronimo di User Experience Return on Investment) si riferisce al ritorno economico ottenuto dall'investimento in UX (User Experience). Lo UX ROI può essere utilizzato per misurare il valore ottenuto da un progetto di UX o per confrontare il ritorno ottenuto da diversi progetti di UX.
+
+Calcolare l'UX ROI può essere utile per determinare se un investimento in UX sia stato profittevole e per identificare le aree di UX su cui concentrarsi per ottenere il massimo ritorno. Tuttavia, il calcolo dell'UX ROI può essere complesso in quanto può essere difficile quantificare il valore dell'esperienza utente in termini monetari.
+
+Per calcolare l'UX ROI, è necessario prima determinare il costo del progetto di UX e poi misurare l'impatto dell'investimento in UX sulla performance aziendale.
 
 ---
 
----
+# UX ROI interno
+
+Miglioramento dell'efficienza iterna
+
+- Riduzione del tempo per effettuare un task
+- Ridurre il numero degli errori di un utente col miglioramento di testi o con la scelta di immagini più intuitive
+- Riduzione delle richieste di supporto
+- Riduzione del tempo legato alla formazione
 
 ---
 
----
+# Analisi dei dati
+
+Occorrono degli strumenti per capire meglio come si stanno comportando gli utenti: dove si sbloccano, su quali pagine entrano ed escono dal sito e così via.
 
 ---
 
+# Visual Analytics
+
+Le __click head map__, le __scroll map__ e le __mouse movement heatmap__ sono tutte tecniche di visual analytics utilizzate per analizzare l'attività degli utenti su un sito web o su un'applicazione.
+
 ---
+
+# Click heat map
+
+Le __click heat map__ mostrano le aree del sito o dell'applicazione che vengono cliccate con maggiore frequenza dagli utenti. Le "click heat map" possono essere utilizzate per identificare le aree più popolari del sito o dell'applicazione e per valutare l'efficacia del layout delle pagine.
+
+---
+
+# Scroll map
+
+Le __scroll map__ mostrano fino a che punto gli utenti scorrono una pagina del sito o dell'applicazione. Le "scroll map" possono essere utilizzate per valutare l'interesse degli utenti per il contenuto di una pagina e per identificare eventuali problemi di usabilità che potrebbero impedire agli utenti di accedere a tutto il contenuto.
+
+---
+
+# Mouse movement heatmap
+
+Le __mouse movement heatmap__ mostrano i movimenti del mouse degli utenti durante la navigazione sul sito o sull'applicazione. Le "mouse movement heatmap" possono essere utilizzate per valutare l'attenzione degli utenti su determinate aree del sito o dell'applicazione e per identificare eventuali problemi di usabilità o di interesse degli utenti.
+
+---
+
+# Intervista contestuale
+
+L'intervista contestuale è una tecnica di raccolta dei dati utilizzata nell'analisi UX (User Experience) per comprendere meglio come gli utenti interagiscono con un prodotto, un servizio o un sistema in contesto reale.
+
+L'intervista contestuale consiste nel condurre un'intervista con gli utenti mentre questi utilizzano il prodotto, il servizio o il sistema in questione, al fine di ottenere una comprensione più approfondita delle loro esigenze, dei loro comportamenti e delle loro sfide.
+
+Le interviste contestuali sono particolarmente utili per identificare problemi di usabilità o di soddisfazione degli utenti che potrebbero non essere evidenti attraverso gli analytics.
+
+---
+
+# ROI Esterno
+
+- Impatto sulle vendite
+- Impatto sulla fidelizzazione
+- Acquisizione di nuovi lead
+- Soddisfazione dei clienti
+
+---
+
+# Metriche - Conversion rate
+
+Il conversion rate (tasso di conversione) è una metrica utilizzata per misurare il numero di utenti che completano un'azione desiderata (ad esempio, il completamento di un modulo di registrazione o l'acquisto di un prodotto) rispetto al numero totale di utenti che hanno visitato il sito.
+
+Il conversion rate viene spesso utilizzato in ambito e-commerce per misurare l'efficacia del sito nel trasformare i visitatori in clienti, ma può essere utilizzato anche in altri ambiti per misurare il successo di una campagna o di un'iniziativa.
+
+Per calcolare il conversion rate, si divide il numero di azioni completate dal numero totale di visitatori e si moltiplica per 100 per ottenere una percentuale. Ad esempio, se un sito ha ricevuto 1000 visitatori e 100 di questi hanno completato un acquisto, il conversion rate sarà del 10%.
+
+---
+
+# Altre metriche
+
+- Prezzo medio di checkout
+
+Il valore medio dei prodotti inseriti nel carrello del sito
+
+- CLV
+
+Il CLV (acronimo di Customer Lifetime Value) è una metrica che indica il valore totale che un cliente porterà all'azienda durante il suo ciclo di vita con essa. Normalmente valutato nei 3 anni.
+
+- Traffico organico
+
+Il traffico che arriva dai motori di ricerca, basato sul valore dei contenuti che sono in grado di attirare nuovi utenti.
+
+---
+
+
 
 ---
 
