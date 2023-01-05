@@ -310,21 +310,50 @@ Mantenere un design coerente: è importante mantenere un design coerente all'int
 
 ---
 
-# 
+# YOU != USER
+
+by Jacob Nielsen
 
 ---
 
+# Jacob Nielsen
+
+Jacob Nielsen è uno dei più noti esperti di usabilità e di design dell'interazione al mondo. È uno psicologo dell'informazione e un consulente di usabilità con oltre 20 anni di esperienza nel settore.
+
+Nielsen è conosciuto per i suoi contributi alla comprensione dell'usabilità e dell'esperienza utente, in particolare per le sue ricerche sulla lettura sullo schermo e sulle attività di ricerca sui motori di ricerca. Ha anche sviluppato il concetto di "desiderabilità", ovvero l'importanza di progettare prodotti, servizi e sistemi che siano non solo funzionali e facili da usare, ma anche piacevoli e soddisfacenti per gli utenti.
+
+Nielsen è autore di numerosi libri e articoli sull'usabilità e sull'esperienza utente, ed è spesso invitato a parlare in conferenze e workshop in tutto il mondo. È fondatore e principal analyst della Nielsen Norman Group, una società di consulenza che fornisce servizi di usabilità e di design dell'interazione.
 
 ---
 
+# Come pensiamo?
+
+Il ragionamento da utente è diverso da quello che facciamo sui nostri prodotti
+
+![Your APP](img/yourapp.png)
 
 ---
 
+# Clienti e utenti
+
+![width:600px](img/clientsusers.png)
 
 ---
 
+# UX Research
+
+Raccogliere dati ed interpretare dati che supportano il design, che supportano il business
 
 ---
+
+# Passi di una UX Research
+
+- Incontro con gli utenti in una situazione di test
+- Analisi dei test fatti con gli utenti
+- Rilevazione dei comportamenti degli utenti mentre usano il sistema
+
+---
+
 
 
 ---
