@@ -348,11 +348,120 @@ Raccogliere dati ed interpretare dati che supportano il design, che supportano i
 
 # Passi di una UX Research
 
+## Test
+
 - Incontro con gli utenti in una situazione di test
-- Analisi dei test fatti con gli utenti
-- Rilevazione dei comportamenti degli utenti mentre usano il sistema
+
+Focalizzazione su prodotto e servizio: uso di interfacce dinamiche o statiche, analisi dell'uso del prodotto, prime impressioni.
+Analisi del contesto: utilizzo al lavoro, da casa, in mobilità, in una certa zona geografica.
+Analisi sulla persona: interviste, gruppi di interesse.
 
 ---
+
+# I dati
+
+- Analisi dei test fatti con gli utenti, utilizzando solo i dati prodotti
+
+Possiamo raccogliere dati sia visivamente che tramite software. In entrambi i casi la raccolta dei dati è importante per poter capire cosa succede all'interno del servizio.
+
+---
+
+# Rilevazioni
+
+- Rilevazione dei comportamenti degli utenti mentre usano il sistema
+
+Al di fuori dei test pilotati, è anche importante raccogliere dei dati in situazioni nelle quali gli utenti si considerano liberi di usare il prodotto, senza la direttiva da parte di un intervistatore.
+
+---
+
+# Alcuni test utilizzabili in UX Research
+
+- Tree test
+- Card sorting
+- First Click
+- Eye tracking study
+
+---
+
+# Tree test
+
+Il tree test è una tecnica di test dell'usabilità che viene utilizzata per valutare la struttura di navigazione di un sito web o di un'applicazione. Il tree test consiste nel presentare agli utenti un elenco di opzioni di navigazione (ad esempio, le voci del menu principale di un sito web) e chiedere loro di individuare la voce di menu che ritengono più adeguata per accedere a una determinata sezione del sito.
+
+Il tree test è utile per verificare se la struttura di navigazione di un sito è intuitiva e facile da usare per gli utenti. A partire dai risultati del test, gli UX designer possono individuare eventuali problemi di usabilità e apportare miglioramenti alla struttura di navigazione del sito.
+
+Il tree test può essere condotto online o di persona, utilizzando un software di test o una semplice lista di opzioni di navigazione. È importante che il tree test venga effettuato su un campione rappresentativo di utenti per ottenere risultati significativi.
+
+---
+
+# Card sorting
+
+Il card sorting è una tecnica di progettazione dell'interazione che viene utilizzata per aiutare gli UX designer a comprendere come gli utenti organizzano e categorizzano le informazioni. Consiste nel presentare agli utenti un insieme di carte con delle informazioni su di esse (ad esempio, titoli di articoli o voci di menu) e chiedere loro di raggruppare le carte in modo coerente e di dare un titolo a ogni gruppo.
+
+Il card sorting può essere condotto online o di persona, utilizzando un software apposito o semplicemente delle carte fisiche. È una tecnica utile per aiutare gli UX designer a comprendere come gli utenti pensano e organizzano le informazioni, e può essere utilizzata per progettare la struttura di navigazione di un sito web o di un'applicazione.
+
+Il card sorting è particolarmente utile quando si devono progettare categorie per un sito o per un'applicazione e si vuole capire come gli utenti le utilizzerebbero. È importante che il card sorting venga effettuato su un campione rappresentativo di utenti per ottenere risultati significativi.
+
+---
+
+# First Click
+
+Il first click test (o primo clic test) è una tecnica di test dell'usabilità che viene utilizzata per valutare l'efficacia della navigazione di un sito web o di un'applicazione. Consiste nel presentare agli utenti una serie di link o di voci di menu e chiedere loro di cliccare sulla voce di menu che ritengono più adeguata per accedere a una determinata sezione del sito.
+
+Il first click test è utile per verificare se la navigazione di un sito è intuitiva e facile da usare per gli utenti. A partire dai risultati del test, gli UX designer possono individuare eventuali problemi di usabilità e apportare miglioramenti alla navigazione del sito.
+
+Il first click test può essere condotto online o di persona, utilizzando un software di test o una semplice lista di opzioni di navigazione. È importante che il first click test venga effettuato su un campione rappresentativo di utenti per ottenere risultati significativi.
+
+---
+
+# Eye tracking study
+
+L'eye tracking study (o studio di tracciamento oculare) è una tecnica di test dell'usabilità che viene utilizzata per valutare l'attenzione e il comportamento visivo degli utenti durante l'utilizzo di un prodotto, di un servizio o di un sistema.
+
+Consiste nel utilizzare uno strumento di tracciamento oculare, che può essere un apparecchio o un software, per registrare i movimenti degli occhi degli utenti mentre svolgono una determinata attività (ad esempio, la navigazione di un sito web o l'utilizzo di un'applicazione).
+
+L'eye tracking study è utile per capire come gli utenti percepiscono e interagiscono con un prodotto o un servizio, e può essere utilizzato per individuare eventuali problemi di usabilità o per ottimizzare l'esperienza utente. L'eye tracking study può essere condotto sia di persona che online, ed è particolarmente utile per valutare l'impatto di elementi visivi come la posizione, il colore o il design di un prodotto o di un servizio.
+
+---
+
+# Test interattivo
+
+Assegnazione di un compito da eseguire. Ad esempio per un e-commerce potrebbe essere:
+
+- Registrati al sito
+- Metti in carrello un prodotto
+- Acquista un prodotto
+
+---
+
+# Cosa vogliamo studiare?
+
+Focalizzazione sull'obiettivo dello studio di UX
+
+- Prima volta che viene utilizzato il prodotto o il servizio
+- Utilizzo regolare del prodotto o del servizio
+- Versione preliminare del prodotto o del servizio
+- Versione finale del prodotto o del servizio pronta per essere messa in produzione
+- Aggiunta di una nuova sezione al prodotto o al servizio
+- Possibili alternative a una modifica di una parte del prodotto o del servizio
+
+---
+
+# Perché facciamo ricerca?
+
+- Ottenere nuove idee
+- Analizzare diverse opzioni
+- Comprendere come gli utenti utilizzano il prodotto o il servizio
+- Capire le ragioni dei comportamenti degli utenti
+
+---
+
+# Quando fare o non fare UX Reserch
+
+Per valutare se è conveniente fare o meno una determinata attività, è importante considerare sia il tempo che verrà impiegato sia i costi che questa comporterà.
+
+---
+
+
 
 
 
