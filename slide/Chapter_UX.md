@@ -23,6 +23,10 @@ ChatGPT
 
 ---
 
+![bg width:900px](img/ux-designer.jpg)
+
+---
+
 # Trasformazione digitale
 
 La UX fa parte di quelli che sono i processi di trasformazione digitale di un'azienda.
@@ -461,17 +465,60 @@ Per valutare se è conveniente fare o meno una determinata attività, è importa
 
 ---
 
+# Prima e dopo
 
-
-
-
----
-
+![](img/uoux.png)
 
 ---
 
+# Analisi dei dati che potrei avere in casa
+
+Alcune domande che potrei farmi per iniziare ad avere dei dati sui quali poter fare una prima analisi
+
+- Il prodotto ha installato un sistema di analytics che posso consultare?
+
+- Ho un customer care che raccoglie le esigenze dei clienti?
+
+- Ho già una ricerca fatta nel passato che posso integrare?
 
 ---
+
+# Condivisione dei dati
+
+- I dati sono accessibili?
+
+- I dati sono condivisi?
+
+- I dati sono analizzati?
+
+- I dati sono stati confrontati o aggregati?
+
+---
+
+# Riduzione costi di progetto
+
+La ricerca potrebbe declassare o rimuovere una funzionalità di prodotto.
+
+- Evitiamo una funzionalità che non serve
+- Evitiamo di introdurre qualcosa che non è richiesta
+- Non introduciamo un'esigenza che non ha il mercato
+
+---
+
+# Compromessi con la UX research
+
+- Sono disposto a rinunciare una funzionalità?
+- Sono disposto a spostare le date di rilascio?
+- Posso modificare un servizio in base ai risultati della ricerca?
+
+---
+
+# Cambio di prodotto
+
+![](img/ux-implementation.jpg)
+
+---
+
 
 
 ---
