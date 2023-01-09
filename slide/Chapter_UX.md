@@ -8,8 +8,11 @@ marp: true
 footer: https://github.com/matteobaccan/CorsoUX
 ---
 <!-- _paginate: false -->
-<!-- _footer: "" -->
-![bg](img/Chapter_html0.png)
+<!-- _footer: "https://www.pexels.com/it-it/foto/imac-d-argento-sulla-parte-superiore-del-tavolo-in-legno-marrone-326502/" -->
+
+![bg right:70%](img/pexels-tranmautritam-326502.jpg)
+
+# UX Design
 
 ---
 
@@ -23,7 +26,9 @@ ChatGPT
 
 ---
 
-![bg width:900px](img/ux-designer.jpg)
+![width:750px](img/Knowing-the-difference-between-UI-and-UX.webp)
+
+https://imaginxp.com/a-pilot-to-the-difference-between-ui-and-ux/
 
 ---
 
@@ -338,11 +343,15 @@ Il ragionamento da utente è diverso da quello che facciamo sui nostri prodotti
 
 ![Your APP](img/yourapp.png)
 
+https://blog.prototypr.io/ui-guidelines-and-why-you-should-care-62d4d0da1595
+
 ---
 
 # Clienti e utenti
 
-![width:600px](img/clientsusers.png)
+![width:500px](img/clientsusers.png)
+
+https://twitter.com/adsofbrands/status/1264540221036691468?lang=ga
 
 ---
 
@@ -471,6 +480,8 @@ Per valutare se è conveniente fare o meno una determinata attività, è importa
 
 ![](img/uoux.png)
 
+https://uxdesign.cc/driving-business-with-user-experience-d7f934a41b29
+
 ---
 
 # Analisi dei dati che potrei avere in casa
@@ -517,7 +528,9 @@ La ricerca potrebbe declassare o rimuovere una funzionalità di prodotto.
 
 # Cambio di prodotto
 
-![](img/ux-implementation.jpg)
+![width:800px](img/ux-implementation.jpg)
+
+https://greentomato.academy/ux-ui-design-methodology-webinar/
 
 ---
 
@@ -613,7 +626,9 @@ Repository GitHub [Sorgenti di Draw.it](https://github.com/jgraph/drawio)
 
 # Metafora dell'altalena
 
-![width:700px](img/quello-di-cui-il-cliente-aveva-bisogno.jpg)
+![width:600px](img/quello-di-cui-il-cliente-aveva-bisogno.jpg)
+
+https://marcozordan.it/2018/08/quello-di-cui-il-cliente-aveva-realmente-bisogno/
 
 ---
 
@@ -775,11 +790,15 @@ Semplificare le iterazioni
 
 ---
 
-![Tastiera](img/tastiera.jpg)
+![Tastiera width:800px](img/tastiera.jpg)
+
+Fonte: presentazione Apple di iPhone
 
 ---
 
-![Touch width:800px](img/touch.jpg)
+![Touch width:700px](img/touch.jpg)
+
+Fonte: presentazione Apple di iPhone
 
 ---
 
@@ -873,7 +892,66 @@ I prototipi vengono utilizzati con degli utenti per verificare la modalità di u
 
 ---
 
+# Cos'è il service design?
 
+Il service design è una disciplina che si occupa della progettazione di servizi. Si tratta di un approccio basato sulla progettazione di esperienze che mira a creare servizi di alta qualità e a misura di utente.
+
+Il service design utilizza metodologie di design thinking e tecniche di co-creazione per analizzare le esigenze degli utenti e progettare servizi che rispondano a queste esigenze in modo efficace ed efficiente. Si basa sulla comprensione dei comportamenti, delle aspettative e delle necessità degli utenti per creare servizi che siano facili da usare, accessibili e soddisfacenti.
+
+Il service design viene spesso utilizzato nell'ambito della progettazione di servizi pubblici, come ad esempio servizi sanitari, trasporti e servizi di welfare, ma anche nell'ambito dei servizi privati, come ad esempio servizi di e-commerce o servizi di assistenza clienti.
+
+---
+
+![width:900px](img/servicedesign.png)
+
+https://medium.com/@christinabruun/service-design-methodology-78e41eca4ba9
+
+---
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 
