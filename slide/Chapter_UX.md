@@ -36,7 +36,7 @@ ChatGPT
 
 ![width:750px](img/Knowing-the-difference-between-UI-and-UX.webp)
 
-https://imaginxp.com/a-pilot-to-the-difference-between-ui-and-ux/
+<https://imaginxp.com/a-pilot-to-the-difference-between-ui-and-ux/>
 
 ---
 
@@ -166,13 +166,13 @@ Lo UX design viene spesso utilizzato in ambito informatico per progettare interf
 
 ---
 
-# Metriche 
+# Metriche
 
 Le metriche di valutazione del design sono degli strumenti che vengono utilizzati per misurare l'efficacia di un prodotto, di un servizio o di un sistema dal punto di vista dell'esperienza utente. 
 
 ---
 
-# Metriche principali - 1 
+# Metriche principali - 1
 
 Soddisfazione utente: si tratta di una misura della soddisfazione degli utenti rispetto al prodotto, al servizio o al sistema. La soddisfazione utente può essere misurata attraverso sondaggi o interviste a campione, o utilizzando strumenti di analisi delle prestazioni come il Net Promoter Score (NPS).
 
@@ -351,7 +351,7 @@ Il ragionamento da utente è diverso da quello che facciamo sui nostri prodotti
 
 ![Your APP](img/yourapp.png)
 
-https://blog.prototypr.io/ui-guidelines-and-why-you-should-care-62d4d0da1595
+<https://blog.prototypr.io/ui-guidelines-and-why-you-should-care-62d4d0da1595>
 
 ---
 
@@ -359,7 +359,7 @@ https://blog.prototypr.io/ui-guidelines-and-why-you-should-care-62d4d0da1595
 
 ![width:500px](img/clientsusers.png)
 
-https://twitter.com/adsofbrands/status/1264540221036691468?lang=ga
+<https://twitter.com/adsofbrands/status/1264540221036691468?lang=ga>
 
 ---
 
@@ -488,7 +488,7 @@ Per valutare se è conveniente fare o meno una determinata attività, è importa
 
 ![](img/uoux.png)
 
-https://uxdesign.cc/driving-business-with-user-experience-d7f934a41b29
+<https://uxdesign.cc/driving-business-with-user-experience-d7f934a41b29>
 
 ---
 
@@ -538,7 +538,7 @@ La ricerca potrebbe declassare o rimuovere una funzionalità di prodotto.
 
 ![width:800px](img/ux-implementation.jpg)
 
-https://greentomato.academy/ux-ui-design-methodology-webinar/
+<https://greentomato.academy/ux-ui-design-methodology-webinar/>
 
 ---
 
@@ -636,7 +636,7 @@ Repository GitHub [Sorgenti di Draw.it](https://github.com/jgraph/drawio)
 
 ![width:600px](img/quello-di-cui-il-cliente-aveva-bisogno.jpg)
 
-https://marcozordan.it/2018/08/quello-di-cui-il-cliente-aveva-realmente-bisogno/
+<https://marcozordan.it/2018/08/quello-di-cui-il-cliente-aveva-realmente-bisogno/>
 
 ---
 
@@ -864,6 +864,10 @@ Il principio di Poka Yoke viene spesso utilizzato in progettazione dell'interfac
 
 ---
 
+# DA QUI MODIFICARE E SEMPLIFICARE
+
+---
+
 # Cosa si ottiene con l'interaction design
 
 - Creazione di modelli su carta e/o in digitale
@@ -912,7 +916,7 @@ Il service design viene spesso utilizzato nell'ambito della progettazione di ser
 
 ![width:900px](img/servicedesign.png)
 
-https://medium.com/@christinabruun/service-design-methodology-78e41eca4ba9
+<https://medium.com/@christinabruun/service-design-methodology-78e41eca4ba9>
 
 ---
 
@@ -920,7 +924,7 @@ https://medium.com/@christinabruun/service-design-methodology-78e41eca4ba9
 
 ![ width:500px](img/The-Disciplines-of-User-Experience-Adapted-from-Saffer-D-2008.png)
 
-https://www.researchgate.net/figure/The-Disciplines-of-User-Experience-Adapted-from-Saffer-D-2008_fig1_282673247
+<https://www.researchgate.net/figure/The-Disciplines-of-User-Experience-Adapted-from-Saffer-D-2008_fig1_282673247>
 
 ---
 
@@ -950,7 +954,7 @@ Non ti serve la caldaia, ti serve l'acqua calda
 
 ![](img/front-back-behind.jpg)
 
-https://blog.practicalservicedesign.com/the-difference-between-a-journey-map-and-a-service-blueprint-31a6e24c4a6c
+<https://blog.practicalservicedesign.com/the-difference-between-a-journey-map-and-a-service-blueprint-31a6e24c4a6c>
 
 ---
 
@@ -964,58 +968,151 @@ Capire i bisogni, i comportamenti e le esperienze dei nostri clienti ci aiuta a 
 
 Customer journey: il percorso che il cliente compie durante il suo utilizzo del servizio, dal primo contatto fino alla fine dell'esperienza.
 
-Touchpoints: i punti di contatto tra il cliente e il servizio, come ad esempio il sito web, il call center, il punto vendita, etc.
+Touchpoint: i punti di contatto tra il cliente e il servizio, come ad esempio il sito web, il call center, il punto vendita, etc.
 
 Value proposition: il valore offerto dal servizio al cliente, che deve essere distintivo e rispondere alle esigenze e alle aspettative del cliente.
 
 ---
 
-# Customer journey map
-
-![width:650px](img/Customer-journey-map-1024x724.png)
-
-https://giorgio-caruso.com/strategie-di-marketing/20-touchpoint/
-
----
-
 # Sfide progettuali
 
-- Sfruttare l'opportunità di usare nuove piattaforme
-- Estendere un prodotto con l'offerta di nuovi servizi
-- Ripensare i servizi in ottica multicanale
-- Co-creazione e innovazione sociale
+1 - Sfruttare l'opportunità di usare nuove piattaforme
+2 - Estendere un prodotto con l'offerta di nuovi servizi
+3 - Ripensare i servizi in ottica multicanale
+4 - Co-creazione e innovazione sociale
 
 ---
 
----
+# Piattaforme
+
+- Value proposition sulla base d i bisogni e modelli mentali dei consumatori
+- Individuare attore e servizio con i quali il nuovo servizio può dialogare
+- Progettare una nuova esperienza piacevole e distintiva
+- Fornire il servizio in maniera efficiente e sostenibile nel tempo
 
 ---
 
----
+# Dalla logica di prodotto a quella di servizio
+
+- Individuare nuove opportunità
+- Visione olistica con il coinvolgimento di tutti i touchpoint
+    La visione olistica è un modo di pensare e di guardare le cose in modo integrato e globale, tenendo conto di tutti gli aspetti e le interconnessioni che le caratterizzano. Si tratta di una prospettiva che considera l'oggetto o il fenomeno in esame come parte di un tutto più ampio e che si sforza di comprendere come tutti gli elementi coinvolti interagiscono tra loro. La visione olistica si contrappone a quella riduttiva, che tende invece a studiare le cose in modo settoriale e frammentario.
+- Supervisionare lo sviluppo e la gestione di tutti i touchpoint
 
 ---
 
----
+# Trasformazione in ottica multicanale
+
+Occorre pensare al servizio in chiave digitale in modo da poterlo proporre su più canali.
 
 ---
 
----
+# Co-creazione
+
+Il service designer deve
+
+- progettare dei momenti di dialogo fra gli attori coinvolti nel progetto
+- concretizzare gli spunti raccolto in una visione di progetto
+- identificare una strategia per garantire il funzionamento a lungo termine
 
 ---
 
----
+# 1 - Capire gli utenti
+
+- Capire chi coinvolgere nei momenti di dialogo
+- Analisi dei dati di servizio esistenti
+- Analizzare la letteratura sul tema
+- Analizzare aspetti meno conosciuti dell'utente o del suo modo di interagire
+
+Ricerca
+
+- Esplorativa: cosa devo fare
+- Generativa: prime demo
+- Valutativa: valutazione del servizio per modificarlo o lanciarlo sul mercato
 
 ---
 
----
+# Strumenti per Capire gli utenti
+
+## Personas
+
+Analisi e descrizione del comportamento utenti
+
+![width:400px](img/personas-preview.jpg)
+
+<https://servicedesigntools.org/tools/personas>
 
 ---
 
----
+## Customer Journey Map
+
+Comprensione dell'esperienza utente e dell'interazione col servizio
+
+![width:550px](img/Customer-journey-map-1024x724.png)
+
+<https://giorgio-caruso.com/strategie-di-marketing/20-touchpoint/>
 
 ---
 
+## System Map
+
+Comprensione delle dinamiche relazionali che governano il sistema
+
+![](img/article_131269_hero_62ea7a44d79b39.82643304.png)
+
+<https://www.interaction-design.org/literature/article/understand-the-service-design-process>
+
 ---
+
+# 2 - Visione condivisa
+
+Workshop di co-design
+Il designer rende tangibile l'intangibile
+
+Il designer concretizza le idee e porta esempi tangibili
+
+---
+
+# 2 - Strumenti
+
+- User Scenarios
+    Colloco la persona all'interno del servizio: cosa fa, come interagisce
+- Service prototype
+    Prototipo del servizio con stati diversi di qualità
+- Value proposition del servizio
+    Vantaggi offerti dal servizio
+
+---
+
+# 3 - Implementazione del servizio
+
+- Brief dettagliato per le parti esterno che realizzeranno le singole componenti
+- Formare le figure professionali per modifare il flusso di lavoro
+- Creare le metriche di valutazione delle integrazioni
+
+---
+
+# Strumenti
+
+- Service blueprint
+- Service guideline
+- User stories
+
+---
+
+# Professione del service designer
+
+- Ricerca
+- Strategia
+- Progettazione di dettaglio
+
+Professioni
+
+- Studi di desing
+- Startup
+- Società di consulenza
+- Ricerca accademica
+- 
 
 ---
 
