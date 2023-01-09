@@ -16,6 +16,14 @@ footer: https://github.com/matteobaccan/CorsoUX
 
 ---
 
+# Genesi di questo corso
+
+Dopo molti studi e ricerche, ho deciso di condividere le mie conoscenze e la mia passione per lo UX Design attraverso questo corso introduttivo. Ho seguito un corso specifico per approfondire le mie competenze in questo ambito e ho fatto numerosi approfondimenti per assicurarmi di avere una comprensione completa di questa disciplina in continua evoluzione.
+
+Con questo corso, voglio offrirti una panoramica del mondo dello UX Design, delle professioni ad esso correlate e dei principali concetti che ne costituiscono il fondamento. Sarà un'opportunità unica per comprendere meglio questo affascinante campo e per scoprire le opportunità che esso offre.
+
+---
+
 # UX __User Experience__
 
 __UX__ (acronimo di User Experience) è una parola inglese che può essere tradotta come "esperienza utente" e si riferisce all'insieme delle sensazioni, emozioni, attitudini e opinioni che un individuo sperimenta quando utilizza un prodotto, servizio o sistema.
@@ -908,22 +916,74 @@ https://medium.com/@christinabruun/service-design-methodology-78e41eca4ba9
 
 ---
 
+# Discipline del design
+
+![ width:500px](img/The-Disciplines-of-User-Experience-Adapted-from-Saffer-D-2008.png)
+
+https://www.researchgate.net/figure/The-Disciplines-of-User-Experience-Adapted-from-Saffer-D-2008_fig1_282673247
 
 ---
 
----
+# Tipologie di servizi
+
+Diretti
+Indiretti
+Multicanale
+Condivisi
+Complessi
 
 ---
 
----
+# Passaggio dal prodotto al servizio
+
+Non ti serve la caldaia, ti serve l'acqua calda
 
 ---
 
----
+# Prodotto o servizio?
+
+![width:500px](img/amazon-echo.jpg)
 
 ---
 
+# Palcoscenico, retroscena e dietro le quinte
+
+![](img/front-back-behind.jpg)
+
+https://blog.practicalservicedesign.com/the-difference-between-a-journey-map-and-a-service-blueprint-31a6e24c4a6c
+
 ---
+
+# E il cliente?
+
+Capire i bisogni, i comportamenti e le esperienze dei nostri clienti ci aiuta a creare servizi migliori, che sappiano colpire nel segno a livello emotivo. Conoscere le attività che i nostri clienti svolgono durante le loro giornate e le aziende con cui interagiscono ci permette di offrire soluzioni più mirate e di maggiore impatto.
+
+---
+
+# Concetti del service design
+
+Customer journey: il percorso che il cliente compie durante il suo utilizzo del servizio, dal primo contatto fino alla fine dell'esperienza.
+
+Touchpoints: i punti di contatto tra il cliente e il servizio, come ad esempio il sito web, il call center, il punto vendita, etc.
+
+Value proposition: il valore offerto dal servizio al cliente, che deve essere distintivo e rispondere alle esigenze e alle aspettative del cliente.
+
+---
+
+# Customer journey map
+
+![width:650px](img/Customer-journey-map-1024x724.png)
+
+https://giorgio-caruso.com/strategie-di-marketing/20-touchpoint/
+
+---
+
+# Sfide progettuali
+
+- Sfruttare l'opportunità di usare nuove piattaforme
+- Estendere un prodotto con l'offerta di nuovi servizi
+- Ripensare i servizi in ottica multicanale
+- Co-creazione e innovazione sociale
 
 ---
 
