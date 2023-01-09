@@ -783,27 +783,97 @@ Semplificare le iterazioni
 
 ---
 
-
-
----
+# I principi dell'interaction design
 
 ---
 
----
+# Il principio di Paul Fitts
+
+Il principio di Paul Fitts è una legge di progettazione dell'interfaccia utente (UID) che descrive il tempo che impiega un utente per raggiungere un obiettivo sullo schermo con il puntatore del mouse.
+
+Il principio di Fitts afferma che il tempo necessario per raggiungere un obiettivo è inversamente proporzionale alla distanza dell'obiettivo e direttamente proporzionale alla sua dimensione. In altre parole, più l'obiettivo è grande e vicino, meno tempo ci vorrà per raggiungerlo.
+
+Il principio di Fitts viene spesso utilizzato in progettazione dell'interfaccia utente per determinare la posizione e la dimensione ottimali degli elementi interattivi sullo schermo, al fine di rendere più efficiente e facile l'interazione dell'utente con il sistema.
 
 ---
 
----
+# Il principio di Hick-Hyman
+
+Il principio di Hick-Hyman è una legge di progettazione dell'interfaccia utente (UID) che descrive il tempo che impiega un utente per scegliere tra diverse opzioni o per eseguire un compito.
+
+Il principio di Hick-Hyman afferma che il tempo necessario per effettuare una scelta o per eseguire un compito è direttamente proporzionale al logaritmo del numero di opzioni o di passi necessari. In altre parole, più ci sono opzioni o passi da considerare, più tempo ci vorrà per prendere una decisione o per completare il compito.
+
+Il principio di Hick-Hyman viene spesso utilizzato in progettazione dell'interfaccia utente per limitare il numero di opzioni presentate all'utente in una volta, al fine di rendere più efficiente e facile l'interazione con il sistema.
 
 ---
 
----
+# Il principio di Larry Tesler
+
+Il principio di Larry Tesler è una regola di progettazione dell'interfaccia utente (UID) che sostiene che le funzionalità di un sistema dovrebbero essere separate dalle modalità di interazione con esse.
+
+Il principio di Tesler afferma che le funzionalità di un sistema, cioè ciò che il sistema fa, dovrebbero essere separate dalle modalità di interazione, cioè come l'utente interagisce con il sistema per ottenere quelle funzionalità. In questo modo, l'utente può scegliere la modalità di interazione più adeguata alle proprie preferenze e abilità, senza essere influenzato dalle opzioni di funzionalità: ex autocomplete.
+
+Il principio di Tesler viene spesso utilizzato in progettazione dell'interfaccia utente per creare sistemi flessibili e personalizzabili, che possono essere adattati alle diverse esigenze e abilità degli utenti.
 
 ---
 
----
+# Il principio di George Miller
+
+Il principio di George Miller è una legge di progettazione dell'interfaccia utente (UID) che descrive la quantità di informazioni che un utente può mantenere attive nella propria mente in un dato momento.
+
+Il principio di Miller afferma che la quantità di informazioni che un utente può mantenere attive nella mente è circa 7±2, cioè compresa tra 5 e 9 elementi. Questo significa che, per ottenere una buona comprensione e memoria delle informazioni, è importante presentare all'utente solo un numero limitato di elementi alla volta, evitando di sovraccaricarlo con troppe informazioni.
+
+Il principio di Miller viene spesso utilizzato in progettazione dell'interfaccia utente per determinare la quantità ottimale di informazioni da presentare all'utente in una volta, al fine di rendere più facile e efficiente l'interazione con il sistema.
 
 ---
+
+# Il principio di Poka Yoke
+
+Il principio di Poka Yoke è una filosofia di progettazione dell'interfaccia utente (UID) che mira a prevenire gli errori o a rendere gli errori immediatamente evidenti.
+
+Il principio di Poka Yoke, che in giapponese significa "evitare gli errori" o "impedire gli errori", sostiene che gli errori sono inevitabili e che pertanto è importante progettare sistemi che rendano gli errori visibili o che li impediscano completamente.
+
+Il principio di Poka Yoke viene spesso utilizzato in progettazione dell'interfaccia utente per prevenire errori comuni, come ad esempio l'inserimento di dati errati, e per rendere immediatamente evidenti gli errori che si verificano, al fine di facilitare la correzione e di evitare conseguenze negative.
+
+---
+
+# Cosa si ottiene con l'interaction design
+
+- Creazione di modelli su carta e/o in digitale
+- Realizzazione di storyboard
+- Creazione di mood board
+
+Occorre creare molto materiale per far emergere delle idee da raffinare
+
+---
+
+# Analisi dei processi
+
+- Analisi dei singoli task che gli utenti devono completare
+- Analisi dei casi d'uso
+- Diagrammi di flusso delle informazioni
+
+---
+
+# Disegno dei flussi
+
+![Wireframe](img/wireframe.png)
+
+Esempio di progettazione APP con Adalo
+
+---
+
+# Realizzazione prototipi
+
+I prototipi vengono utilizzati con degli utenti per verificare la modalità di utilizzo del prodotto
+
+---
+
+# Il service design
+
+---
+
+
 
 ---
 
