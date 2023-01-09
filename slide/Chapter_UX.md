@@ -322,11 +322,13 @@ by Jacob Nielsen
 
 # Jacob Nielsen
 
-Jacob Nielsen è uno dei più noti esperti di usabilità e di design dell'interazione al mondo. È uno psicologo dell'informazione e un consulente di usabilità con oltre 20 anni di esperienza nel settore.
+Jacob Nielsen è uno dei più noti esperti di usabilità e di design dell'interazione al mondo.
 
 Nielsen è conosciuto per i suoi contributi alla comprensione dell'usabilità e dell'esperienza utente, in particolare per le sue ricerche sulla lettura sullo schermo e sulle attività di ricerca sui motori di ricerca. Ha anche sviluppato il concetto di "desiderabilità", ovvero l'importanza di progettare prodotti, servizi e sistemi che siano non solo funzionali e facili da usare, ma anche piacevoli e soddisfacenti per gli utenti.
 
-Nielsen è autore di numerosi libri e articoli sull'usabilità e sull'esperienza utente, ed è spesso invitato a parlare in conferenze e workshop in tutto il mondo. È fondatore e principal analyst della Nielsen Norman Group, una società di consulenza che fornisce servizi di usabilità e di design dell'interazione.
+Nielsen è autore di numerosi libri e articoli sull'usabilità e sull'esperienza utente, ed è fondatore e principal analyst della Nielsen Norman Group, una società di consulenza che fornisce servizi di usabilità e di design dell'interazione.
+
+[Jakob Nielsen](https://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant))
 
 ---
 
@@ -519,70 +521,290 @@ La ricerca potrebbe declassare o rimuovere una funzionalità di prodotto.
 
 ---
 
+# Aumento dei ricavi
 
+Come la UX Research può aiutarci?
+
+- Nuovi prodotti e servizi
+- Miglioramento dei tassi di conversione dei prodotti esistenti
+- Aumento della fedeltà (loyalty), della frequenza d'uso e promozione (advocacy) di un prodotto o servizio
+
+---
+
+# Quanti utenti ci servono per fare UX Research?
+
+Il numero di utenti che serve per fare una UX Research dipende dal tipo di studi che si vogliono effettuare e dalle informazioni che si vogliono raccogliere. In generale, per ottenere risultati significativi è importante che la UX Research venga effettuata su un campione rappresentativo di utenti.
+
+Per determinare il numero di utenti da coinvolgere in una UX Research, è importante considerare diversi fattori, come il tipo di prodotto o servizio che si sta valutando, il tipo di utenti che lo utilizzano, il tipo di test che si vuole effettuare e il livello di accuratezza richiesto.
+
+In genere, per ottenere risultati accurati e rappresentativi, è consigliabile coinvolgere almeno 10-15 utenti per ogni tipo di test. Tuttavia, il numero di utenti può variare a seconda delle esigenze specifiche dello studio. Ad esempio, se si vuole valutare un prodotto o un servizio destinato a un pubblico ampio e eterogeneo, potrebbe essere necessario coinvolgere un numero maggiore di utenti per ottenere risultati significativi.
+
+---
+
+# Utenti necessari a scoprire problemi di usabilità
+
+![width:700px](img/user-testing.jpg)
+
+Source: Jakob Nielsen's chart fro m his March 19 th , 2000 Alertbox Column.
+
+---
+
+# Decidono gli utenti?
+
+__Le persone non vogliono macchine, ma cavalli più veloci__ Questo aneddoto è spesso attribuito a Henry Ford, il fondatore della Ford Motor Company. Secondo la leggenda, quando Ford iniziò a produrre le sue prime automobili, molti potenziali acquirenti erano scettici e non vedevano l'utilità di questo nuovo tipo di trasporto. Per convincere i clienti dei vantaggi dell'automobile rispetto al cavallo, Ford avrebbe detto che la gente non voleva veramente una macchina, ma semplicemente un cavallo più veloce.
+
+Questo aneddoto viene spesso citato per illustrare l'importanza di comprendere le esigenze e i desideri dei clienti e di progettare prodotti o servizi che rispondano a queste esigenze. Tuttavia, non ci sono prove storiche che confermano che Henry Ford abbia effettivamente fatto questa dichiarazione.
+
+---
+
+# Gli utenti sanno cosa vogliono?
+
+Bisogna tener presente che gli utenti spesso non sono in grado di esprimere chiaramente le loro esigenze e i loro desideri, e che le loro richieste non sempre corrispondono a ciò di cui hanno veramente bisogno. Pertanto, è fondamentale che gli sviluppatori e i progettisti utilizzino metodi di indagine e di valutazione dell'usabilità per comprendere in modo approfondito le esigenze degli utenti e progettare soluzioni che rispondano a queste esigenze in modo efficace.
+
+---
+
+# Gli utenti rappresentano in modo corretto i loro comportamenti?
+
+L'utente ha una visione chiara delle proprie azioni che potrebbe essere diversa dalla realtà? Probabilmente si: ci potrebbero essere sia dei bias cognitivi che la volontà di azzerare o aumentare i problemi riscontrati sui prodotti. Unire quanto dichiarato dagli utenti ai dati ci permette di avere una visione migliore dei prodotti.
+
+---
+
+# Serve una strategia di prodotto
+
+Gli utenti ci aiutano a migliorare e adattare la strategia dei prodotti, ma non dovrebbero determinare la visione d'insieme che prende in considerazione altri fattori legati al business, al profitto e alle priorità di sviluppo dei prodotti e servizi.
+
+---
+
+# I prototipi
+
+In ambito UX Design, un prototipo è una rappresentazione preliminare di un prodotto, di un servizio o di un sistema, che viene utilizzata per testare e valutare l'usabilità e l'efficacia di una soluzione progettuale. I prototipi possono assumere diverse forme, a seconda delle esigenze specifiche dello studio e del livello di dettaglio desiderato. Ad esempio, i prototipi possono essere realizzati con strumenti di disegno o di modellazione 3D, o possono essere semplici schizzi o mockup realizzati su carta.
+
+I prototipi sono uno strumento molto utile in ambito UX Design perché consentono di testare e valutare le soluzioni progettuali in modo rapido e a basso costo, prima di investire tempo e risorse nello sviluppo di un prodotto o di un servizio finito. I prototipi possono essere utilizzati per raccogliere feedback dagli utenti e per individuare eventuali problemi o difficoltà nell'utilizzo del prodotto o del servizio, al fine di apportare modifiche e miglioramenti prima della realizzazione definitiva.
+
+---
+
+# Come posso realizzare dei prototipi
+
+Ci sono molti strumenti che è possibile utilizzare per creare prototipi:
+
+Strumenti di disegno e modellazione 3D, come Adobe Illustrator, Adobe Photoshop o Autodesk Fusion 360. Questi strumenti consentono di creare prototipi dettagliati e realistici, con un alto livello di fedeltà visiva.
+
+Strumenti di prototipazione rapida, come InVision o Marvel. Questi strumenti consentono di creare prototipi interattivi partendo da immagini statiche o da schizzi, senza la necessità di conoscenze avanzate di design o di programmazione.
+
+Strumenti di prototipazione low-fi, come carta e penna o adesivi Post-it. Questi strumenti sono molto rapidi e facili da utilizzare, e consentono di creare prototipi rudimentali ma efficaci per raccogliere feedback iniziali dagli utenti.
+
+---
+
+# Quale strumento scegliere?
+
+Dipende dalle esigenze specifiche dello studio e dal livello di dettaglio e interattività desiderato. È importante scegliere lo strumento più adeguato per testare e valutare le soluzioni progettuali in modo efficace e rapido.
+
+[Optimal Workshop](https://www.optimalworkshop.com/)
+[Figma](https://www.figma.com/)
+
+---
+
+# Demo
+
+Test di utilizzo di [Draw.io](https://app.diagrams.net) 
+Repository GitHub [Sorgenti di Draw.it](https://github.com/jgraph/drawio)
+
+---
+
+# Metafora dell'altalena
+
+![width:700px](img/quello-di-cui-il-cliente-aveva-bisogno.jpg)
+
+---
+
+# Approfondimenti
+
+Donald Norman (25/12/1935) è uno psicologo della cognizione e un esperto di design dell'interazione uomo-computer. È noto soprattutto per il suo lavoro nel campo dell'usabilità e dell'esperienza utente (UX), e per aver coniato il termine User Experience Design, UX Design.
+
+Norman è autore di numerosi libri e articoli sull'usabilità e sull'UX, tra cui il best seller "The Design of Everyday Things" (Il design delle cose quotidiane: in italiano "La caffettiera del masochista"), che ha contribuito a diffondere la consapevolezza dell'importanza dell'usabilità e dell'esperienza utente nella progettazione di prodotti e servizi.
+
+[Don Norman](https://en.wikipedia.org/wiki/Don_Norman)
+
+---
+
+# Analisi esperta
+
+---
+
+# Analisi esperta
+
+L'analisi esperta (Expert Analysis) è un metodo di indagine dell'usabilità che si basa sulla valutazione del prodotto o del servizio da parte di esperti del design o dell'usabilità. L'analisi esperta consiste nell'osservare e nell'interagire con il prodotto o il servizio, al fine di individuare eventuali problemi o difficoltà nell'utilizzo e di formulare raccomandazioni per migliorare l'usabilità.
+
+L'analisi esperta può essere utilizzata come uno strumento di indagine complementare ad altri metodi, come l'analisi dei dati o l'intervista agli utenti. Tuttavia, è importante tener presente che gli esperti hanno una conoscenza approfondita delle tecniche di progettazione e di valutazione dell'usabilità, e possono quindi avere una prospettiva diversa rispetto agli utenti non esperti. Pertanto, è importante tener conto anche delle osservazioni e dei feedback degli utenti effettivi per ottenere una valutazione dell'usabilità più completa e accurata.
+
+---
+
+# Perché usare l'analisi esperta? - 1
+
+Velocità: l'analisi esperta è generalmente più rapida di altri metodi di indagine
+
+Profondità: gli esperti hanno una conoscenza approfondita delle tecniche di progettazione e di valutazione dell'usabilità, e sono quindi in grado di individuare problemi e suggerire soluzioni a livello di dettaglio maggiore rispetto agli utenti non esperti.
+
+Generalizzabilità: i risultati dell'analisi esperta possono essere generalizzati a una popolazione più ampia di utenti, poiché gli esperti sono in grado di individuare problemi che potrebbero non essere evidenti per gli utenti non esperti.
+
+Complementarità: l'analisi esperta può essere utilizzata come uno strumento di indagine complementare ad altri metodi
+
+---
+
+# Perché usare l'analisi esperta? - 2
+
+Risparmio di tempo e di costi: l'analisi esperta può consentire di risparmiare tempo e costi rispetto ad altri metodi di indagine, poiché richiede meno tempo per l'esecuzione.
+
+Valutazione tempestiva: l'analisi esperta può essere effettuata in tempi più rapidi rispetto ad altri metodi di indagine.
+
+Valutazione di nuove tecnologie: l'analisi esperta può essere utilizzata per valutare l'usabilità di nuove tecnologie o di soluzioni innovative.
+
+Valutazione di prodotti o servizi complessi: l'analisi esperta è particolarmente adatta per la valutazione di prodotti o servizi complessi, che richiedono una conoscenza approfondita delle tecniche di progettazione e di valutazione dell'usabilità per essere compresi e valutati in modo accurato.
+
+---
+
+# Perché non usare l'analisi esperta?
+
+Dipendenza dall'esperienza degli esperti: i risultati dell'analisi esperta dipendono dall'esperienza e dalla competenza degli esperti valutatori.
+
+Bias degli esperti: gli esperti possono avere un bias inconscio nella valutazione del prodotto o del servizio.
+
+Limitata rappresentatività: l'analisi esperta non rappresenta necessariamente la percezione e l'esperienza degli utenti effettivi del prodotto o del servizio.
+
+Costi: l'analisi esperta può essere più costosa di altri metodi di indagine, poiché richiede l'impiego di esperti specializzati e il loro tempo è generalmente più prezioso rispetto a quello degli utenti non esperti.
+
+Limitata scalabilità: l'analisi esperta è generalmente meno scalabile rispetto ad altri metodi di indagine, poiché richiede una valutazione manuale.
+
+---
+
+# Approcci
+
+Analisi euristica: valutazione di un prodotto o servizio in base a un insieme predefinito di principi di usabilità (gli euristici).
+
+Analisi di design: valutazione in base a criteri di design, come l'aderenza alle linee guida di progettazione, la coerenza dell'interfaccia utente, la leggibilità del testo e altri aspetti di natura estetica e funzionale.
+
+Analisi di task: valutazione in base alla capacità di supportare l'utente nell'esecuzione di un insieme specifico di compiti.
+
+Analisi della user experience: valutazione in base all'impatto complessivo che ha sull'esperienza utente, considerando sia aspetti funzionali che emotivi.
+
+Analisi cognitiva: valutazione in base all'impatto che ha sulla mente dell'utente, considerando i processi mentali coinvolti nell'utilizzo e le eventuali difficoltà.
+
+---
+
+# Cosa sono gli euristici?
+
+Gli euristici sono i principi di usabilità che rappresentano le "regole d'oro" della progettazione dell'interfaccia utente. Gli euristici sono utilizzati nell'analisi euristica, uno degli approcci all'analisi esperta (Expert Analysis), per valutare la qualità dell'usabilità di un prodotto o di un servizio.
+
+Gli euristici sono stati formulati da Jakob Nielsen e da Don Norman, e consistono in un insieme di 10 principi che devono essere seguiti per progettare interfacce utente efficaci e facili da usare
+
+--- 
+
+- Visibilità dello stato del sistema: il sistema deve mantenere l'utente informato su ciò che sta accadendo, fornendo feedback tempestivo sull'esecuzione delle azioni dell'utente.
+
+- Corrispondenza tra sistema e mondo reale: il sistema deve parlare la stessa lingua degli utenti, utilizzando termini e concetti familiari e coerenti con le aspettative degli utenti.
+
+- Prevedibilità dell'azione dell'utente: le azioni dell'utente devono avere effetti prevedibili, in modo che l'utente sappia cosa aspettarsi in seguito a una determinata azione.
+
+- Reversibilità delle azioni: l'utente deve avere la possibilità di annullare o correggere le azioni che ha appena eseguito, senza conseguenze indesiderate.
+
+---
+
+- Semplicità di utilizzo: il sistema deve essere semplice e facile da usare, evitando di richiedere all'utente conoscenze specialistiche o azioni complicate.
+
+- Aiuti visivi: il sistema deve fornire visualizzazioni di dati e di opzioni appropriate, che aiutino l'utente a comprendere meglio le informazioni e a prendere decisioni.
+
+- Consistenza: il sistema deve essere coerente nel modo in cui presenta le informazioni e gestisce le azioni dell'utente, in modo da evitare confusione e ambiguità.
+
+- Prevenzione degli errori: il sistema deve prevedere e prevenire gli errori che l'utente potrebbe commettere, offrendo opzioni di recupero e di ripristino in caso di problemi.
+
+---
+
+- Riconoscimento piuttosto che ricordo: il sistema deve supportare la capacità di riconoscimento dell'utente piuttosto che la sua memoria, fornendo informazioni e opzioni in modo visivo e facilmente accessibile.
+
+- Aiuto e documentazione: il sistema deve fornire una documentazione e un supporto adeguati per aiutare l'utente a comprendere il funzionamento del prodotto o del servizio e a risolvere eventuali problemi.
+
+---
+
+# Obiettivi di un'analisi esperta - 1
+
+Gli obiettivi dell'analisi esperta (Expert Analysis) possono variare a seconda dell'approccio utilizzato e del contesto in cui viene effettuata. In generale, però, gli obiettivi dell'analisi esperta possono essere i seguenti:
+
+Valutare la qualità dell'usabilità di un prodotto o di un servizio: l'analisi esperta può essere utilizzata per verificare se un prodotto o un servizio soddisfa i criteri di usabilità stabiliti e se è facile e intuitivo da usare per gli utenti.
+
+Identificare i problemi di usabilità e le opportunità di miglioramento: l'analisi esperta può aiutare a individuare le problematiche di usabilità che impediscono all'utente di utilizzare il prodotto o il servizio in modo efficace e a individuare opportunità per migliorare l'usabilità.
+
+---
+
+# Obiettivi di un'analisi esperta - 2
+
+Fornire raccomandazioni per il miglioramento dell'usabilità: l'analisi esperta può fornire suggerimenti concreti e supportare la progettazione di soluzioni per migliorare l'usabilità di un prodotto o di un servizio.
+
+Valutare l'impatto dell'usabilità sulla user experience: l'analisi esperta può essere utilizzata per valutare come l'usabilità di un prodotto o di un servizio influisce sull'esperienza complessiva degli utenti, considerando sia aspetti funzionali che emotivi.
+
+Supportare la prendere decisioni informate in merito alla progettazione dell'interfaccia utente: l'analisi esperta può fornire una base di conoscenze e di dati per supportare la progettazione di interfacce utente efficaci e facili da usare.
+
+---
+
+# Come vengono sintetizzati le divergenze rispetto alle euristiche
+
+- Descrizione della criticità
+- Quale euristica non viene rispettata?
+- Qual è la gravità del problema?
+- Cosa dovrebbe essere fatto per risolverlo?
+- Qual è la priorità di questo problema rispetto ad altri?
+
+---
+
+# Interaction design
+
+---
+
+# Cos'è l'interaction design?
+
+L'interaction design (IxD) è una disciplina che si occupa della progettazione delle interazioni tra gli esseri umani e i sistemi tecnologici, al fine di migliorare l'efficienza, l'efficacia e la soddisfazione degli utenti.
+
+L'interaction design è una branca della progettazione dell'interfaccia utente (User Interface Design, UID) e si basa sulla comprensione delle esigenze, dei comportamenti e delle aspettative degli utenti, nonché sulla conoscenza degli obiettivi del sistema e del contesto d'uso.
+
+L'interaction design comprende la progettazione di elementi visivi, di navigazione e di feedback, nonché la definizione di modelli di interazione e di flussi di lavoro. L'IxD si occupa anche della definizione di standard e di linee guida per la progettazione delle interfacce utente, al fine di garantire coerenza e facilità d'uso.
+
+---
+
+# Cosa dovrebbe fare l'interaction design?
+
+Semplificare le iterazioni
+
+---
+
+![Tastiera](img/tastiera.jpg)
+
+---
+
+![Touch width:800px](img/touch.jpg)
 
 ---
 
 
 ---
 
+---
 
 ---
 
+---
 
 ---
 
+---
 
 ---
 
+---
 
 ---
 
-
 ---
 
-
 ---
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
 
 ---
 
