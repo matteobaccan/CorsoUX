@@ -168,7 +168,7 @@ Lo UX design viene spesso utilizzato in ambito informatico per progettare interf
 
 # Metriche
 
-Le metriche di valutazione del design sono degli strumenti che vengono utilizzati per misurare l'efficacia di un prodotto, di un servizio o di un sistema dal punto di vista dell'esperienza utente. 
+Le metriche di valutazione del design sono degli strumenti che vengono utilizzati per misurare l'efficacia di un prodotto, di un servizio o di un sistema dal punto di vista dell'esperienza utente.
 
 ---
 
@@ -486,7 +486,7 @@ Per valutare se è conveniente fare o meno una determinata attività, è importa
 
 # Prima e dopo
 
-![](img/uoux.png)
+![Prima e dopo](img/uoux.png)
 
 <https://uxdesign.cc/driving-business-with-user-experience-d7f934a41b29>
 
@@ -627,7 +627,7 @@ Dipende dalle esigenze specifiche dello studio e dal livello di dettaglio e inte
 
 # Demo
 
-Test di utilizzo di [Draw.io](https://app.diagrams.net) 
+Test di utilizzo di [Draw.io](https://app.diagrams.net)
 Repository GitHub [Sorgenti di Draw.it](https://github.com/jgraph/drawio)
 
 ---
@@ -720,7 +720,7 @@ Gli euristici sono i principi di usabilità che rappresentano le "regole d'oro" 
 
 Gli euristici sono stati formulati da Jakob Nielsen e da Don Norman, e consistono in un insieme di 10 principi che devono essere seguiti per progettare interfacce utente efficaci e facili da usare
 
---- 
+---
 
 - Visibilità dello stato del sistema: il sistema deve mantenere l'utente informato su ciò che sta accadendo, fornendo feedback tempestivo sull'esecuzione delle azioni dell'utente.
 
@@ -952,7 +952,7 @@ Non ti serve la caldaia, ti serve l'acqua calda
 
 # Palcoscenico, retroscena e dietro le quinte
 
-![](img/front-back-behind.jpg)
+![Palcoscenico](img/front-back-behind.jpg)
 
 <https://blog.practicalservicedesign.com/the-difference-between-a-journey-map-and-a-service-blueprint-31a6e24c4a6c>
 
@@ -1058,7 +1058,7 @@ Comprensione dell'esperienza utente e dell'interazione col servizio
 
 Comprensione delle dinamiche relazionali che governano il sistema
 
-![](img/article_131269_hero_62ea7a44d79b39.82643304.png)
+![System map](img/article_131269_hero_62ea7a44d79b39.82643304.png)
 
 <https://www.interaction-design.org/literature/article/understand-the-service-design-process>
 
@@ -1112,7 +1112,6 @@ Professioni
 - Startup
 - Società di consulenza
 - Ricerca accademica
-- 
 
 ---
 
