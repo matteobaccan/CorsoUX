@@ -24,6 +24,19 @@ Con questo corso, voglio offrirti una panoramica del mondo dello UX Design, dell
 
 ---
 
+# Argomenti del corso
+
+Comprendere i processi dietro la UX Research può aiutarvi a creare un prodotto di successo. Per ottenere ciò, è necessario partire da un'idea e dotarla di un'ottima realizzazione e implementazione. 
+Queste slide possono fornirvi una base di conoscenza, sulla quale costruirvi per diventare un esperto del settore.
+
+---
+
+# UX e UI
+
+Partiamo quindi col primo argomento: la differenza fra UX e UI.
+
+---
+
 # UX - __User Experience__
 
 __UX__ è una parola inglese che può essere tradotta come "esperienza utente" e si riferisce all'insieme delle sensazioni, emozioni, attitudini e opinioni che un individuo sperimenta quando utilizza un prodotto, servizio o sistema.
