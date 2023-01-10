@@ -27,5 +27,6 @@ Di seguito alcune domande alle quali provare a rispondere dopo aver letto le sli
 - Cosa sono le Pirate Metrics?
 - Che differenza c'è fra Design thinking, Service Design e UX Design?
 - Quali sono le metriche di valutazione dell'UX Design?
+- Cosa sono le heat map, scroll map e mouse movement heatmap?
 - 
 
