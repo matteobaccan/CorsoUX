@@ -212,7 +212,7 @@ Per calcolare l'UX ROI, è necessario prima determinare il costo del progetto di
 
 # UX ROI Interno
 
-Miglioramento dell'efficienza iterna di un'azienda
+Miglioramento dell'efficienza interna di un'azienda
 
 - Riduzione del tempo per effettuare un task
 - Ridurre il numero degli errori di un utente col miglioramento di testi, la scelta di immagini più intuitive, la semplificazione dell'interfaccia
@@ -275,13 +275,9 @@ Le __mouse movement heatmap__ mostrano i movimenti del mouse degli utenti durant
 
 ---
 
-# ----------------- FINE PRIMA REVIEW ------------------
-
----
-
 # Intervista contestuale
 
-L'intervista contestuale è una tecnica di raccolta dei dati utilizzata nell'analisi UX (User Experience) per comprendere meglio come gli utenti interagiscono con un prodotto, un servizio o un sistema in contesto reale.
+L'intervista contestuale è una tecnica di raccolta dei dati utilizzata nell'analisi UX per comprendere meglio come gli utenti interagiscono con un prodotto, un servizio o un sistema in contesto reale.
 
 L'intervista contestuale consiste nel condurre un'intervista con gli utenti mentre questi utilizzano il prodotto, il servizio o il sistema in questione, al fine di ottenere una comprensione più approfondita delle loro esigenze, dei loro comportamenti e delle loro sfide.
 
@@ -289,11 +285,11 @@ Le interviste contestuali sono particolarmente utili per identificare problemi d
 
 ---
 
-# ROI Esterno
+# Impatti del ROI Esterno
 
-- Impatto sulle vendite
-- Impatto sulla fidelizzazione
-- Acquisizione di nuovi lead
+- Impatto sulle vendite: aumento dei prodotti venduti
+- Impatto sulla fidelizzazione: dopo il primo acquisto gli utenti tornano nuovamente sul servizio
+- Acquisizione di nuovi lead: gli utenti arrivano sul sito ed effettuano dei task
 - Soddisfazione dei clienti
 
 ---
@@ -320,16 +316,18 @@ Il CLV (acronimo di Customer Lifetime Value) è una metrica che indica il valore
 
 - Traffico organico
 
-Il traffico che arriva dai motori di ricerca, basato sul valore dei contenuti che sono in grado di attirare nuovi utenti.
+Il traffico organico è il traffico che proviene da fonti di ricerca naturali come i motori di ricerca, i social media, i link esterni e i contenuti di referral. Si tratta di una delle principali fonti di traffico per una maggior parte dei siti web.
 
 ---
 
 # Progettazione della UX
 
+A grandi linee la progettazione di un servizio può essere divisa in 4 fasi:
+
 1 Ricerca delle esigenze dei propri utenti
-2 Prototipazione del servizio
+2 Creazione di un prototipo del servizio
 3 Test su utenti reali
-4 Raccolta esigenze e reiterazione sul prototipo
+4 Raccolta esigenze e reiterazione sul punto 2
 
 ---
 
@@ -355,19 +353,22 @@ Mantenere un design coerente: è importante mantenere un design coerente all'int
 
 ---
 
-# Scuse per non lavorare sulla UX
+# Alcune scuse per non lavorare sulla UX
 
-- Mancanza di tempo
-- Mancanza di soldi
+- Mancanza di tempo: non ho tempo, il prodotto deve uscire entro una certa data.
+- Mancanza di soldi: non ho un budget per la ricerca
 - Non dobbiamo fare dei test perché conosciamo già i problemi
-- Non servono degli utenti reali per i test
-- Conosciamo i nostri utenti e sappiamo cosa vogliono
+- Non servono degli utenti reali per i test, bastiamo noi
+- Conosciamo i nostri utenti e sappiamo già cosa vogliono
+- Se ne occupa già chi inserisce i contenuti
 
 ---
 
 # YOU != USER
 
 by Jacob Nielsen
+
+Le tue esigenze sono diverse da quelli dei tuoi clienti
 
 ---
 
@@ -385,7 +386,7 @@ Nielsen è autore di numerosi libri e articoli sull'usabilità e sull'esperienza
 
 # Come pensiamo?
 
-Il ragionamento da utente è diverso da quello che facciamo sui nostri prodotti
+Se non mettiamo l'utente al centro della UX rischiamo di fare qualcosa che serve solo a noi
 
 ![Your APP](img/yourapp.png)
 
@@ -393,7 +394,7 @@ Il ragionamento da utente è diverso da quello che facciamo sui nostri prodotti
 
 ---
 
-# Clienti e utenti
+# Cosa vede il cliente e cosa vede l'utente
 
 ![width:500px](img/clientsusers.png)
 
@@ -415,9 +416,17 @@ __Accessibilità__: progettazione di prodotti e servizi accessibili a tutti gli 
 
 ---
 
+# UX Research
+
+---
+
 # Cos'è la UX Research?
 
 La UX Research è una disciplina che esplora le esperienze degli utenti per comprendere come i prodotti, i servizi e le interfacce digitali possono soddisfare le loro necessità. Utilizza una serie di metodi e tecniche, come interviste, sondaggi, test di usabilità, per raccogliere informazioni su come gli utenti percepiscono, usano e sentono in relazione ai prodotti. Queste informazioni vengono quindi utilizzate per progettare soluzioni migliori per gli utenti.
+
+---
+
+# --- FINE REVISIONE ---
 
 ---
 
