@@ -439,39 +439,44 @@ La UX Research è una disciplina che esplora le esperienze degli utenti per comp
 
 ---
 
-# --- FINE REVISIONE ---
+# Fasi di una UX research
+
+Per una corretta UX research è opportuno definire un obiettivo, impostare dei test che lo rappresentino, analizzare i dati prodotti, rilevare i comportamenti degli utenti in modo da migliorare ed adeguare quanto analizzato.
 
 ---
 
-# Passi di una UX Research
-
 ## Test
 
-- Incontro con gli utenti in una situazione di test
+Il primo passo è incontrare gli utenti in una situazione di test. Deve essere chiaro che si sta provando qualcosa e che ci sono dei task da completare.
 
-Focalizzazione su prodotto e servizio: uso di interfacce dinamiche o statiche, analisi dell'uso del prodotto, prime impressioni.
-Analisi del contesto: utilizzo al lavoro, da casa, in mobilità, in una certa zona geografica.
-Analisi sulla persona: interviste, gruppi di interesse.
+In questo modo ci si focalizza sul prodotto/servizio: è possibile utilizzare di interfacce dinamiche o statiche, dipende dal livello di accuratezza al quale si è arrivati. Si analizza l'uso del prodotto e si raccolgono le prime impressioni.
+
+È importante analizzare il contesto del test: è stato fatto un utilizzo al lavoro, da casa, in mobilità, in una certa zona geografica.
+
+Occorre anche analizzare il gruppo di persone coinvolte, tramite interviste per conoscere i gruppi di interesse.
 
 ---
 
 # I dati
 
-- Analisi dei test fatti con gli utenti, utilizzando solo i dati prodotti
+Dopo i test, saranno i dati a raccontarci qualcosa.
 
-Possiamo raccogliere dati sia visivamente che tramite software. In entrambi i casi la raccolta dei dati è importante per poter capire cosa succede all'interno del servizio.
+I dati possono essere raccolti sia tramite appositi software, che visivamente.
+In entrambi i casi la raccolta dei dati è un passaggio fondamentale per poter capire cosa succede all'interno del prodotto che stiamo analizzando.
 
 ---
 
 # Rilevazioni
 
-- Rilevazione dei comportamenti degli utenti mentre usano il sistema
+Esiste anche un altro momento di raccolta dati, dove gli utenti sono lasciati liberi di usare il prodotto, al di fuori dei task assegnati. Questo tipo di raccolta di permette di rilevare i comportamenti degli utenti mentre usano il sistema in modo libero.
 
-Al di fuori dei test pilotati, è anche importante raccogliere dei dati in situazioni nelle quali gli utenti si considerano liberi di usare il prodotto, senza la direttiva da parte di un intervistatore.
+In questo caso non ci sarà la presenza di un intervistatore.
 
 ---
 
 # Alcuni test utilizzabili in UX Research
+
+Esistono molti che applicabili all'ambito della UX Research. Quelli più conosciuti sono:
 
 - Tree test
 - Card sorting
@@ -490,13 +495,25 @@ Il tree test può essere condotto online o di persona, utilizzando un software d
 
 ---
 
+![width:800px](img/pillar-tree-testing.png)
+
+<https://blog.optimalworkshop.com/tree-testing/>
+
+---
+
 # Card sorting
 
 Il card sorting è una tecnica di progettazione dell'interazione che viene utilizzata per aiutare gli UX designer a comprendere come gli utenti organizzano e categorizzano le informazioni. Consiste nel presentare agli utenti un insieme di carte con delle informazioni su di esse (ad esempio, titoli di articoli o voci di menu) e chiedere loro di raggruppare le carte in modo coerente e di dare un titolo a ogni gruppo.
 
-Il card sorting può essere condotto online o di persona, utilizzando un software apposito o semplicemente delle carte fisiche. È una tecnica utile per aiutare gli UX designer a comprendere come gli utenti pensano e organizzano le informazioni, e può essere utilizzata per progettare la struttura di navigazione di un sito web o di un'applicazione.
+Il card sorting può essere condotto online o di persona, utilizzando un software apposito o semplicemente delle carte fisiche. È una tecnica utile per aiutare gli UX designer a comprendere come gli utenti pensano e organizzano le informazioni, e può essere utilizzata per progettare una struttura di navigazione.
 
-Il card sorting è particolarmente utile quando si devono progettare categorie per un sito o per un'applicazione e si vuole capire come gli utenti le utilizzerebbero. È importante che il card sorting venga effettuato su un campione rappresentativo di utenti per ottenere risultati significativi.
+Il card sorting è particolarmente utile quando si devono progettare categorie per un sito o per un'applicazione e si vuole capire come gli utenti le utilizzerebbero. 
+
+---
+
+![width:700px](img/3-img-cardsortinternal-lrg-opt.jpg)
+
+<https://www.smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/>
 
 ---
 
@@ -510,6 +527,12 @@ Il first click test può essere condotto online o di persona, utilizzando un sof
 
 ---
 
+![width:600px](img/firstclick.jpg)
+
+<https://usabilityhub.com/product/first-click-tests>
+
+---
+
 # Eye tracking study
 
 L'eye tracking study (o studio di tracciamento oculare) è una tecnica di test dell'usabilità che viene utilizzata per valutare l'attenzione e il comportamento visivo degli utenti durante l'utilizzo di un prodotto, di un servizio o di un sistema.
@@ -520,41 +543,55 @@ L'eye tracking study è utile per capire come gli utenti percepiscono e interagi
 
 ---
 
+![width:1200px](img/eyetracking_eng-lead-3.png)
+
+<https://ergomania.eu/eye-tracking-in-practice/>
+
+---
+
 # Test interattivo
 
-Assegnazione di un compito da eseguire. Ad esempio per un e-commerce potrebbe essere:
+Quali sono i compiti da eseguire? Dipende sempre da cosa dobbiamo studiare.
+Nel caso di un e-commerce potrebbe essere:
 
 - Registrati al sito
 - Metti in carrello un prodotto
-- Acquista un prodotto
+- Acquista un prodotto con carta di credito
+- Richiedi assistenza
+- Cerca la politica dei resi
 
 ---
 
 # Cosa vogliamo studiare?
 
-Focalizzazione sull'obiettivo dello studio di UX
+Prima di analizzare qualcosa è necessario focalizzare l'obiettivo dello studio.
+Di seguito alcuni esempi di obiettivi:
 
-- Prima volta che viene utilizzato il prodotto o il servizio
-- Utilizzo regolare del prodotto o del servizio
-- Versione preliminare del prodotto o del servizio
-- Versione finale del prodotto o del servizio pronta per essere messa in produzione
-- Aggiunta di una nuova sezione al prodotto o al servizio
-- Possibili alternative a una modifica di una parte del prodotto o del servizio
+- La prima volta che viene utilizzato il prodotto o il servizio da parte di un utente
+- L'utilizzo regolare del prodotto o del servizio da parte di utenti fidelizzati
+- La versione preliminare del prodotto o del servizio
+- La versione finale del prodotto o del servizio pronta per essere messa in produzione
+- L'aggiunta di una nuova sezione al prodotto o al servizio
+- Le possibili alternative a una modifica di una parte del prodotto o del servizio
 
 ---
 
-# Perché facciamo ricerca?
+# Perché facciamo una UX Research?
 
-- Ottenere nuove idee
-- Analizzare diverse opzioni
-- Comprendere come gli utenti utilizzano il prodotto o il servizio
-- Capire le ragioni dei comportamenti degli utenti
+Quali sono i motivi che ci spingono a fare una UX research?
+
+- Ottenere nuove idee: brainstorming fra tutti i componenti dell'azienda
+- Analizzare diverse opzioni: non sappiamo quale sia la scelta migliore su diverse opzioni
+- Comprendere come gli utenti utilizzano il prodotto o il servizio: vogliamo indagare i comportamenti degli utenti
+- Capire le ragioni dei comportamenti degli utenti: appresi i comportamenti vogliamo capirne le ragioni
 
 ---
 
 # Quando fare o non fare UX Reserch
 
 Per valutare se è conveniente fare o meno una determinata attività, è importante considerare sia il tempo che verrà impiegato sia i costi che questa comporterà.
+
+Le variabili tempi e costi sono sempre presenti in tutte le scelte. Occorre sempre mediare fra le esigenze di progetto e quanto i clienti sono disposti ad investire in una ricerca.
 
 ---
 
@@ -566,41 +603,40 @@ Per valutare se è conveniente fare o meno una determinata attività, è importa
 
 ---
 
-# Analisi dei dati che potrei avere in casa
+# Come posso ridurre i costi di ricerca?
 
-Alcune domande che potrei farmi per iniziare ad avere dei dati sui quali poter fare una prima analisi
+Ci sono alcune domande che si possono fare ad inizio progetto per diminuire i costi di ricerca:
 
 - Il prodotto ha installato un sistema di analytics che posso consultare?
-
 - Ho un customer care che raccoglie le esigenze dei clienti?
-
 - Ho già una ricerca fatta nel passato che posso integrare?
 
 ---
 
 # Condivisione dei dati
 
+Anche in caso affermativo, non è detto che i dati siano accessibili od utilizzabili. Per questo motivo è sempre opportuno verificare se:
+
 - I dati sono accessibili?
-
 - I dati sono condivisi?
-
 - I dati sono analizzati?
-
 - I dati sono stati confrontati o aggregati?
 
 ---
 
-# Riduzione costi di progetto
+# Posso ottenere una riduzione dei costi di progetto?
 
-La ricerca potrebbe declassare o rimuovere una funzionalità di prodotto.
+Rispetto a quanto pianificato, la ricerca potrebbe declassare o rimuovere delle funzionalità.
 
-- Evitiamo una funzionalità che non serve
-- Evitiamo di introdurre qualcosa che non è richiesta
-- Non introduciamo un'esigenza che non ha il mercato
+- Evitiamo di spendere del tempo su una funzionalità che non serve
+- Possiamo ridurre l'introduzione di funzionalità che non sono richieste
+- Non introduciamo un'esigenza che non ha richiesto il mercato
 
 ---
 
-# Compromessi con la UX research
+# Sono disposto a fare dei sacrifici?
+
+La roadmap di progetto è rigida oppure:
 
 - Sono disposto a rinunciare una funzionalità?
 - Sono disposto a spostare le date di rilascio?
@@ -616,13 +652,17 @@ La ricerca potrebbe declassare o rimuovere una funzionalità di prodotto.
 
 ---
 
-# Aumento dei ricavi
+# Dove posso avere dei vantaggi?
 
 Come la UX Research può aiutarci?
 
-- Nuovi prodotti e servizi
+- Nuovi prodotti e servizi: analizzando feedback degli utenti potrebbero nascere nuove opportunità
 - Miglioramento dei tassi di conversione dei prodotti esistenti
-- Aumento della fedeltà (loyalty), della frequenza d'uso e promozione (advocacy) di un prodotto o servizio
+- Aumento della fedeltà (loyalty), della frequenza d'uso e promozione (advocacy) di un prodotto o servizio da parte degli utenti
+
+---
+
+# Tutto molto bello ma ...
 
 ---
 
@@ -632,7 +672,7 @@ Il numero di utenti che serve per fare una UX Research dipende dal tipo di studi
 
 Per determinare il numero di utenti da coinvolgere in una UX Research, è importante considerare diversi fattori, come il tipo di prodotto o servizio che si sta valutando, il tipo di utenti che lo utilizzano, il tipo di test che si vuole effettuare e il livello di accuratezza richiesto.
 
-In genere, per ottenere risultati accurati e rappresentativi, è consigliabile coinvolgere almeno 10-15 utenti per ogni tipo di test. Tuttavia, il numero di utenti può variare a seconda delle esigenze specifiche dello studio. Ad esempio, se si vuole valutare un prodotto o un servizio destinato a un pubblico ampio e eterogeneo, potrebbe essere necessario coinvolgere un numero maggiore di utenti per ottenere risultati significativi.
+In genere, per ottenere risultati accurati e rappresentativi, è consigliabile coinvolgere almeno 10-15 utenti per ogni tipo di test. Tuttavia, il numero di utenti può variare a seconda delle esigenze specifiche dello studio.
 
 ---
 
@@ -644,7 +684,16 @@ Source: Jakob Nielsen's chart fro m his March 19 th , 2000 Alertbox Column.
 
 ---
 
-# Decidono gli utenti?
+# Bastano 5 utenti?
+
+Già con 5 utenti superiamo l'80% delle problematiche legate al prodotto analizzato.
+Chiaramente con un numero maggiore di utenti possiamo avere risultati migliori, ma già con 5 abbiamo delle risposte accettabili.
+
+Anche in questo caso sono importanti le variabili di tempi e costi.
+
+---
+
+# Ma alla fine decidono gli utenti?
 
 __Le persone non vogliono macchine, ma cavalli più veloci__ Questo aneddoto è spesso attribuito a Henry Ford, il fondatore della Ford Motor Company. Secondo la leggenda, quando Ford iniziò a produrre le sue prime automobili, molti potenziali acquirenti erano scettici e non vedevano l'utilità di questo nuovo tipo di trasporto. Per convincere i clienti dei vantaggi dell'automobile rispetto al cavallo, Ford avrebbe detto che la gente non voleva veramente una macchina, ma semplicemente un cavallo più veloce.
 
@@ -658,9 +707,12 @@ Bisogna tener presente che gli utenti spesso non sono in grado di esprimere chia
 
 ---
 
-# Gli utenti rappresentano in modo corretto i loro comportamenti?
+# Gli utenti si rappresentano in modo corretto?
 
-L'utente ha una visione chiara delle proprie azioni che potrebbe essere diversa dalla realtà? Probabilmente si: ci potrebbero essere sia dei bias cognitivi che la volontà di azzerare o aumentare i problemi riscontrati sui prodotti. Unire quanto dichiarato dagli utenti ai dati ci permette di avere una visione migliore dei prodotti.
+L'utente ha una visione chiara delle proprie azioni che potrebbe essere diversa dalla realtà? 
+
+Probabilmente si: ci potrebbero essere sia dei bias cognitivi che la volontà di azzerare o aumentare i problemi riscontrati sui prodotti. 
+Unire quanto dichiarato dagli utenti ai dati ci permette di avere una visione più chiara.
 
 ---
 
@@ -670,7 +722,7 @@ Gli utenti ci aiutano a migliorare e adattare la strategia dei prodotti, ma non 
 
 ---
 
-# I prototipi
+# L'importanza dei prototipi
 
 In ambito UX Design, un prototipo è una rappresentazione preliminare di un prodotto, di un servizio o di un sistema, che viene utilizzata per testare e valutare l'usabilità e l'efficacia di una soluzione progettuale. I prototipi possono assumere diverse forme, a seconda delle esigenze specifiche dello studio e del livello di dettaglio desiderato. Ad esempio, i prototipi possono essere realizzati con strumenti di disegno o di modellazione 3D, o possono essere semplici schizzi o mockup realizzati su carta.
 
@@ -682,17 +734,19 @@ I prototipi sono uno strumento molto utile in ambito UX Design perché consenton
 
 Ci sono molti strumenti che è possibile utilizzare per creare prototipi:
 
-Strumenti di disegno e modellazione 3D, come Adobe Illustrator, Adobe Photoshop o Autodesk Fusion 360. Questi strumenti consentono di creare prototipi dettagliati e realistici, con un alto livello di fedeltà visiva.
+__Strumenti di disegno e modellazione 3D__, come Adobe Illustrator, Adobe Photoshop o Autodesk Fusion 360. Questi strumenti consentono di creare prototipi dettagliati e realistici, con un alto livello di fedeltà visiva.
 
-Strumenti di prototipazione rapida, come InVision o Marvel. Questi strumenti consentono di creare prototipi interattivi partendo da immagini statiche o da schizzi, senza la necessità di conoscenze avanzate di design o di programmazione.
+__Strumenti di prototipazione rapida__, come InVision o Marvel. Questi strumenti consentono di creare prototipi interattivi partendo da immagini statiche o da schizzi, senza la necessità di conoscenze avanzate di design o di programmazione.
 
-Strumenti di prototipazione low-fi, come carta e penna o adesivi Post-it. Questi strumenti sono molto rapidi e facili da utilizzare, e consentono di creare prototipi rudimentali ma efficaci per raccogliere feedback iniziali dagli utenti.
+__Strumenti di prototipazione low-fi__, come carta e penna o adesivi Post-it. Questi strumenti sono molto rapidi e facili da utilizzare, e consentono di creare prototipi rudimentali ma efficaci per raccogliere feedback iniziali dagli utenti.
 
 ---
 
 # Quale strumento scegliere?
 
 Dipende dalle esigenze specifiche dello studio e dal livello di dettaglio e interattività desiderato. È importante scegliere lo strumento più adeguato per testare e valutare le soluzioni progettuali in modo efficace e rapido.
+
+Alcuni prodotti usabili in versione demo:
 
 [Optimal Workshop](https://www.optimalworkshop.com/)
 [Figma](https://www.figma.com/)
@@ -702,7 +756,8 @@ Dipende dalle esigenze specifiche dello studio e dal livello di dettaglio e inte
 # Demo
 
 Test di utilizzo di [Draw.io](https://app.diagrams.net)
-Repository GitHub [Sorgenti di Draw.it](https://github.com/jgraph/drawio)
+
+<https://github.com/jgraph/drawio>
 
 ---
 
@@ -728,7 +783,7 @@ Norman è autore di numerosi libri e articoli sull'usabilità e sull'UX, tra cui
 
 ---
 
-# Analisi esperta
+# Cos'è l analisi esperta?
 
 L'analisi esperta (Expert Analysis) è un metodo di indagine dell'usabilità che si basa sulla valutazione del prodotto o del servizio da parte di esperti del design o dell'usabilità. L'analisi esperta consiste nell'osservare e nell'interagire con il prodotto o il servizio, al fine di individuare eventuali problemi o difficoltà nell'utilizzo e di formulare raccomandazioni per migliorare l'usabilità.
 
@@ -738,113 +793,115 @@ L'analisi esperta può essere utilizzata come uno strumento di indagine compleme
 
 # Perché usare l'analisi esperta? - 1
 
-Velocità: l'analisi esperta è generalmente più rapida di altri metodi di indagine
+__Velocità__: l'analisi esperta è generalmente più rapida di altri metodi di indagine
 
-Profondità: gli esperti hanno una conoscenza approfondita delle tecniche di progettazione e di valutazione dell'usabilità, e sono quindi in grado di individuare problemi e suggerire soluzioni a livello di dettaglio maggiore rispetto agli utenti non esperti.
+__Profondità__: gli esperti hanno una conoscenza approfondita delle tecniche di progettazione e di valutazione dell'usabilità, e sono quindi in grado di individuare problemi e suggerire soluzioni a livello di dettaglio maggiore rispetto agli utenti non esperti.
 
-Generalizzabilità: i risultati dell'analisi esperta possono essere generalizzati a una popolazione più ampia di utenti, poiché gli esperti sono in grado di individuare problemi che potrebbero non essere evidenti per gli utenti non esperti.
+__Generalizzabilità__: i risultati dell'analisi esperta possono essere generalizzati a una popolazione più ampia di utenti, poiché gli esperti sono in grado di individuare problemi che potrebbero non essere evidenti per gli utenti non esperti.
 
-Complementarità: l'analisi esperta può essere utilizzata come uno strumento di indagine complementare ad altri metodi
+__Complementarità__: l'analisi esperta può essere utilizzata come uno strumento di indagine complementare ad altri metodi
 
 ---
 
 # Perché usare l'analisi esperta? - 2
 
-Risparmio di tempo e di costi: l'analisi esperta può consentire di risparmiare tempo e costi rispetto ad altri metodi di indagine, poiché richiede meno tempo per l'esecuzione.
+__Risparmio di tempo e di costi__: l'analisi esperta può consentire di risparmiare tempo e costi rispetto ad altri metodi di indagine, poiché richiede meno tempo per l'esecuzione.
 
-Valutazione tempestiva: l'analisi esperta può essere effettuata in tempi più rapidi rispetto ad altri metodi di indagine.
+__Valutazione tempestiva__: l'analisi esperta può essere effettuata in tempi più rapidi rispetto ad altri metodi di indagine.
 
-Valutazione di nuove tecnologie: l'analisi esperta può essere utilizzata per valutare l'usabilità di nuove tecnologie o di soluzioni innovative.
+__Valutazione di nuove tecnologie__: l'analisi esperta può essere utilizzata per valutare l'usabilità di nuove tecnologie o di soluzioni innovative.
 
-Valutazione di prodotti o servizi complessi: l'analisi esperta è particolarmente adatta per la valutazione di prodotti o servizi complessi, che richiedono una conoscenza approfondita delle tecniche di progettazione e di valutazione dell'usabilità per essere compresi e valutati in modo accurato.
+__Valutazione di prodotti o servizi complessi__: l'analisi esperta è particolarmente adatta per la valutazione di prodotti o servizi complessi, che richiedono una conoscenza approfondita delle tecniche di progettazione e di valutazione dell'usabilità per essere compresi e valutati in modo accurato.
 
 ---
 
 # Perché non usare l'analisi esperta?
 
-Dipendenza dall'esperienza degli esperti: i risultati dell'analisi esperta dipendono dall'esperienza e dalla competenza degli esperti valutatori.
+__Dipendenza dall'esperienza degli esperti__: i risultati dell'analisi esperta dipendono dall'esperienza e dalla competenza degli esperti valutatori.
 
-Bias degli esperti: gli esperti possono avere un bias inconscio nella valutazione del prodotto o del servizio.
+__Bias degli esperti__: gli esperti possono avere un bias inconscio nella valutazione del prodotto o del servizio.
 
-Limitata rappresentatività: l'analisi esperta non rappresenta necessariamente la percezione e l'esperienza degli utenti effettivi del prodotto o del servizio.
+__Limitata rappresentatività__: l'analisi esperta non rappresenta necessariamente la percezione e l'esperienza degli utenti effettivi del prodotto o del servizio.
 
-Costi: l'analisi esperta può essere più costosa di altri metodi di indagine, poiché richiede l'impiego di esperti specializzati e il loro tempo è generalmente più prezioso rispetto a quello degli utenti non esperti.
+__Costi__: l'analisi esperta può essere più costosa di altri metodi di indagine, poiché richiede l'impiego di esperti specializzati e il loro tempo è generalmente più prezioso rispetto a quello degli utenti non esperti.
 
-Limitata scalabilità: l'analisi esperta è generalmente meno scalabile rispetto ad altri metodi di indagine, poiché richiede una valutazione manuale.
+__Limitata scalabilità__: l'analisi esperta è generalmente meno scalabile rispetto ad altri metodi di indagine, poiché richiede una valutazione manuale.
 
 ---
 
 # Approcci
 
-Analisi euristica: valutazione di un prodotto o servizio in base a un insieme predefinito di principi di usabilità (gli euristici).
+__Analisi euristica__: valutazione di un prodotto o servizio in base a un insieme predefinito di principi di usabilità (gli euristici).
 
-Analisi di design: valutazione in base a criteri di design, come l'aderenza alle linee guida di progettazione, la coerenza dell'interfaccia utente, la leggibilità del testo e altri aspetti di natura estetica e funzionale.
+__Analisi di design__: valutazione in base a criteri di design, come l'aderenza alle linee guida di progettazione, la coerenza dell'interfaccia utente, la leggibilità del testo e altri aspetti di natura estetica e funzionale.
 
-Analisi di task: valutazione in base alla capacità di supportare l'utente nell'esecuzione di un insieme specifico di compiti.
+__Analisi di task__: valutazione in base alla capacità di supportare l'utente nell'esecuzione di un insieme specifico di compiti.
 
-Analisi della user experience: valutazione in base all'impatto complessivo che ha sull'esperienza utente, considerando sia aspetti funzionali che emotivi.
+__Analisi della user experience__: valutazione in base all'impatto complessivo che ha sull'esperienza utente, considerando sia aspetti funzionali che emotivi.
 
-Analisi cognitiva: valutazione in base all'impatto che ha sulla mente dell'utente, considerando i processi mentali coinvolti nell'utilizzo e le eventuali difficoltà.
+__Analisi cognitiva__: valutazione in base all'impatto che ha sulla mente dell'utente, considerando i processi mentali coinvolti nell'utilizzo e le eventuali difficoltà.
 
 ---
 
 # Cosa sono gli euristici?
 
-Gli euristici sono i principi di usabilità che rappresentano le "regole d'oro" della progettazione dell'interfaccia utente. Gli euristici sono utilizzati nell'analisi euristica, uno degli approcci all'analisi esperta (Expert Analysis), per valutare la qualità dell'usabilità di un prodotto o di un servizio.
+Gli euristici sono i principi di usabilità che rappresentano le "golden rules" della progettazione dell'interfaccia utente. Gli euristici sono utilizzati nell'analisi euristica, uno degli approcci all'analisi esperta, per valutare la qualità dell'usabilità di un prodotto o di un servizio.
 
 Gli euristici sono stati formulati da Jakob Nielsen e da Don Norman, e consistono in un insieme di 10 principi che devono essere seguiti per progettare interfacce utente efficaci e facili da usare
 
 ---
 
-- Visibilità dello stato del sistema: il sistema deve mantenere l'utente informato su ciò che sta accadendo, fornendo feedback tempestivo sull'esecuzione delle azioni dell'utente.
+__Visibilità dello stato del sistema__: il sistema deve mantenere l'utente informato su ciò che sta accadendo, fornendo feedback tempestivo sull'esecuzione delle azioni dell'utente.
 
-- Corrispondenza tra sistema e mondo reale: il sistema deve parlare la stessa lingua degli utenti, utilizzando termini e concetti familiari e coerenti con le aspettative degli utenti.
+__Corrispondenza tra sistema e mondo reale__: il sistema deve parlare la stessa lingua degli utenti, utilizzando termini e concetti familiari e coerenti con le aspettative degli utenti.
 
-- Prevedibilità dell'azione dell'utente: le azioni dell'utente devono avere effetti prevedibili, in modo che l'utente sappia cosa aspettarsi in seguito a una determinata azione.
+__Prevedibilità dell'azione dell'utente__: le azioni dell'utente devono avere effetti prevedibili, in modo che l'utente sappia cosa aspettarsi in seguito a una determinata azione.
 
-- Reversibilità delle azioni: l'utente deve avere la possibilità di annullare o correggere le azioni che ha appena eseguito, senza conseguenze indesiderate.
-
----
-
-- Semplicità di utilizzo: il sistema deve essere semplice e facile da usare, evitando di richiedere all'utente conoscenze specialistiche o azioni complicate.
-
-- Aiuti visivi: il sistema deve fornire visualizzazioni di dati e di opzioni appropriate, che aiutino l'utente a comprendere meglio le informazioni e a prendere decisioni.
-
-- Consistenza: il sistema deve essere coerente nel modo in cui presenta le informazioni e gestisce le azioni dell'utente, in modo da evitare confusione e ambiguità.
-
-- Prevenzione degli errori: il sistema deve prevedere e prevenire gli errori che l'utente potrebbe commettere, offrendo opzioni di recupero e di ripristino in caso di problemi.
+__Reversibilità delle azioni__: l'utente deve avere la possibilità di annullare o correggere le azioni che ha appena eseguito, senza conseguenze indesiderate.
 
 ---
 
-- Riconoscimento piuttosto che ricordo: il sistema deve supportare la capacità di riconoscimento dell'utente piuttosto che la sua memoria, fornendo informazioni e opzioni in modo visivo e facilmente accessibile.
+__Semplicità di utilizzo__: il sistema deve essere semplice e facile da usare, evitando di richiedere all'utente conoscenze specialistiche o azioni complicate.
 
-- Aiuto e documentazione: il sistema deve fornire una documentazione e un supporto adeguati per aiutare l'utente a comprendere il funzionamento del prodotto o del servizio e a risolvere eventuali problemi.
+__Aiuti visivi__: il sistema deve fornire visualizzazioni di dati e di opzioni appropriate, che aiutino l'utente a comprendere meglio le informazioni e a prendere decisioni.
+
+__Consistenza__: il sistema deve essere coerente nel modo in cui presenta le informazioni e gestisce le azioni dell'utente, in modo da evitare confusione e ambiguità.
+
+__Prevenzione degli errori__: il sistema deve prevedere e prevenire gli errori che l'utente potrebbe commettere, offrendo opzioni di recupero e di ripristino in caso di problemi.
+
+---
+
+__Riconoscimento piuttosto che ricordo__: il sistema deve supportare la capacità di riconoscimento dell'utente piuttosto che la sua memoria, fornendo informazioni e opzioni in modo visivo e facilmente accessibile.
+
+__Aiuto e documentazione__: il sistema deve fornire una documentazione e un supporto adeguati per aiutare l'utente a comprendere il funzionamento del prodotto o del servizio e a risolvere eventuali problemi.
 
 ---
 
 # Obiettivi di un'analisi esperta - 1
 
-Gli obiettivi dell'analisi esperta (Expert Analysis) possono variare a seconda dell'approccio utilizzato e del contesto in cui viene effettuata. In generale, però, gli obiettivi dell'analisi esperta possono essere i seguenti:
+Gli obiettivi dell'analisi esperta possono variare a seconda dell'approccio utilizzato e del contesto in cui viene effettuata. In generale, però, gli obiettivi dell'analisi esperta possono essere i seguenti:
 
-Valutare la qualità dell'usabilità di un prodotto o di un servizio: l'analisi esperta può essere utilizzata per verificare se un prodotto o un servizio soddisfa i criteri di usabilità stabiliti e se è facile e intuitivo da usare per gli utenti.
+__Valutare la qualità dell'usabilità di un prodotto o di un servizio__: l'analisi esperta può essere utilizzata per verificare se un prodotto o un servizio soddisfa i criteri di usabilità stabiliti e se è facile e intuitivo da usare per gli utenti.
 
-Identificare i problemi di usabilità e le opportunità di miglioramento: l'analisi esperta può aiutare a individuare le problematiche di usabilità che impediscono all'utente di utilizzare il prodotto o il servizio in modo efficace e a individuare opportunità per migliorare l'usabilità.
+__Identificare i problemi di usabilità e le opportunità di miglioramento__: l'analisi esperta può aiutare a individuare le problematiche di usabilità che impediscono all'utente di utilizzare il prodotto o il servizio in modo efficace e a individuare opportunità per migliorare l'usabilità.
 
 ---
 
 # Obiettivi di un'analisi esperta - 2
 
-Fornire raccomandazioni per il miglioramento dell'usabilità: l'analisi esperta può fornire suggerimenti concreti e supportare la progettazione di soluzioni per migliorare l'usabilità di un prodotto o di un servizio.
+__Fornire raccomandazioni per il miglioramento dell'usabilità__: l'analisi esperta può fornire suggerimenti concreti e supportare la progettazione di soluzioni per migliorare l'usabilità di un prodotto o di un servizio.
 
-Valutare l'impatto dell'usabilità sulla user experience: l'analisi esperta può essere utilizzata per valutare come l'usabilità di un prodotto o di un servizio influisce sull'esperienza complessiva degli utenti, considerando sia aspetti funzionali che emotivi.
+__Valutare l'impatto dell'usabilità sulla user experience__: l'analisi esperta può essere utilizzata per valutare come l'usabilità di un prodotto o di un servizio influisce sull'esperienza complessiva degli utenti, considerando sia aspetti funzionali che emotivi.
 
-Supportare la prendere decisioni informate in merito alla progettazione dell'interfaccia utente: l'analisi esperta può fornire una base di conoscenze e di dati per supportare la progettazione di interfacce utente efficaci e facili da usare.
+__Supportare la prendere decisioni informate in merito alla progettazione dell'interfaccia utente__: l'analisi esperta può fornire una base di conoscenze e di dati per supportare la progettazione di interfacce utente efficaci e facili da usare.
 
 ---
 
 # Come vengono sintetizzati le divergenze rispetto alle euristiche
 
-- Descrizione della criticità
+Normalmente si tratta di schede dove sono indicati le criticità individuate.
+
+- Descrizione della criticità.
 - Quale euristica non viene rispettata?
 - Qual è la gravità del problema?
 - Cosa dovrebbe essere fatto per risolverlo?
@@ -860,7 +917,7 @@ Supportare la prendere decisioni informate in merito alla progettazione dell'int
 
 L'interaction design (IxD) è una disciplina che si occupa della progettazione delle interazioni tra gli esseri umani e i sistemi tecnologici, al fine di migliorare l'efficienza, l'efficacia e la soddisfazione degli utenti.
 
-L'interaction design è una branca della progettazione dell'interfaccia utente (User Interface Design, UID) e si basa sulla comprensione delle esigenze, dei comportamenti e delle aspettative degli utenti, nonché sulla conoscenza degli obiettivi del sistema e del contesto d'uso.
+L'interaction design è una branca della progettazione dell'interfaccia utente e si basa sulla comprensione delle esigenze, dei comportamenti e delle aspettative degli utenti, nonché sulla conoscenza degli obiettivi del sistema e del contesto d'uso.
 
 L'interaction design comprende la progettazione di elementi visivi, di navigazione e di feedback, nonché la definizione di modelli di interazione e di flussi di lavoro. L'IxD si occupa anche della definizione di standard e di linee guida per la progettazione delle interfacce utente, al fine di garantire coerenza e facilità d'uso.
 
@@ -890,7 +947,7 @@ Fonte: presentazione Apple di iPhone
 
 # Il principio di Paul Fitts
 
-Il principio di Paul Fitts è una legge di progettazione dell'interfaccia utente (UID) che descrive il tempo che impiega un utente per raggiungere un obiettivo sullo schermo con il puntatore del mouse.
+Il principio di Paul Fitts è una legge di progettazione dell'interfaccia utente che descrive il tempo che impiega un utente per raggiungere un obiettivo sullo schermo con il puntatore del mouse.
 
 Il principio di Fitts afferma che il tempo necessario per raggiungere un obiettivo è inversamente proporzionale alla distanza dell'obiettivo e direttamente proporzionale alla sua dimensione. In altre parole, più l'obiettivo è grande e vicino, meno tempo ci vorrà per raggiungerlo.
 
@@ -898,9 +955,15 @@ Il principio di Fitts viene spesso utilizzato in progettazione dell'interfaccia 
 
 ---
 
+![width:700px](img/1200px-Fitts_Law.svg.png)
+
+<https://en.wikipedia.org/wiki/Fitts%27s_law>
+
+---
+
 # Il principio di Hick-Hyman
 
-Il principio di Hick-Hyman è una legge di progettazione dell'interfaccia utente (UID) che descrive il tempo che impiega un utente per scegliere tra diverse opzioni o per eseguire un compito.
+Il principio di Hick-Hyman è una legge di progettazione dell'interfaccia utente che descrive il tempo che impiega un utente per scegliere tra diverse opzioni o per eseguire un compito.
 
 Il principio di Hick-Hyman afferma che il tempo necessario per effettuare una scelta o per eseguire un compito è direttamente proporzionale al logaritmo del numero di opzioni o di passi necessari. In altre parole, più ci sono opzioni o passi da considerare, più tempo ci vorrà per prendere una decisione o per completare il compito.
 
@@ -908,9 +971,15 @@ Il principio di Hick-Hyman viene spesso utilizzato in progettazione dell'interfa
 
 ---
 
+![width:800px](img/1%20jtKKnoipDSeT___fFxpaEA.png)
+
+<https://bootcamp.uxdesign.cc/beginners-guide-to-hicks-law-3d855bbb3e8c>
+
+---
+
 # Il principio di Larry Tesler
 
-Il principio di Larry Tesler è una regola di progettazione dell'interfaccia utente (UID) che sostiene che le funzionalità di un sistema dovrebbero essere separate dalle modalità di interazione con esse.
+Il principio di Larry Tesler è una regola di progettazione dell'interfaccia utente che sostiene che le funzionalità di un sistema dovrebbero essere separate dalle modalità di interazione con esse.
 
 Il principio di Tesler afferma che le funzionalità di un sistema, cioè ciò che il sistema fa, dovrebbero essere separate dalle modalità di interazione, cioè come l'utente interagisce con il sistema per ottenere quelle funzionalità. In questo modo, l'utente può scegliere la modalità di interazione più adeguata alle proprie preferenze e abilità, senza essere influenzato dalle opzioni di funzionalità: ex autocomplete.
 
@@ -918,9 +987,15 @@ Il principio di Tesler viene spesso utilizzato in progettazione dell'interfaccia
 
 ---
 
+![width:800px](img/1%20Si20MRmfN0Z24_HA8byqvw.jpeg)
+
+<https://uxdesign.cc/teslers-law-this-is-why-you-cannot-make-ux-any-simpler-d4c0706686a5>
+
+---
+
 # Il principio di George Miller
 
-Il principio di George Miller è una legge di progettazione dell'interfaccia utente (UID) che descrive la quantità di informazioni che un utente può mantenere attive nella propria mente in un dato momento.
+Il principio di George Miller è una legge di progettazione dell'interfaccia utente che descrive la quantità di informazioni che un utente può mantenere attive nella propria mente in un dato momento.
 
 Il principio di Miller afferma che la quantità di informazioni che un utente può mantenere attive nella mente è circa 7±2, cioè compresa tra 5 e 9 elementi. Questo significa che, per ottenere una buona comprensione e memoria delle informazioni, è importante presentare all'utente solo un numero limitato di elementi alla volta, evitando di sovraccaricarlo con troppe informazioni.
 
@@ -928,9 +1003,15 @@ Il principio di Miller viene spesso utilizzato in progettazione dell'interfaccia
 
 ---
 
+![](img/Numero-magico-7.jpg)
+
+<https://www.pensierocritico.eu/numero-magico-7.html>
+
+---
+
 # Il principio di Poka Yoke
 
-Il principio di Poka Yoke è una filosofia di progettazione dell'interfaccia utente (UID) che mira a prevenire gli errori o a rendere gli errori immediatamente evidenti.
+Il principio di Poka Yoke è una filosofia di progettazione dell'interfaccia utente che mira a prevenire gli errori o a rendere gli errori immediatamente evidenti.
 
 Il principio di Poka Yoke, che in giapponese significa "evitare gli errori" o "impedire gli errori", sostiene che gli errori sono inevitabili e che pertanto è importante progettare sistemi che rendano gli errori visibili o che li impediscano completamente.
 
@@ -938,11 +1019,13 @@ Il principio di Poka Yoke viene spesso utilizzato in progettazione dell'interfac
 
 ---
 
-# DA QUI MODIFICARE E SEMPLIFICARE
+![width:1000px](img/six-sigma-poka-yoke_0.jpg)
+
+<https://www.processexam.com/six-sigma-tools-poka-yoke>
 
 ---
 
-# Cosa si ottiene con l'interaction design
+# Cosa otteniamo con l'interaction design
 
 - Creazione di modelli su carta e/o in digitale
 - Realizzazione di storyboard
@@ -954,8 +1037,12 @@ Occorre creare molto materiale per far emergere delle idee da raffinare
 
 # Analisi dei processi
 
-- Analisi dei singoli task che gli utenti devono completare
-- Analisi dei casi d'uso
+I processi all'interno di un progetto hanno un'importanza cruciale. Sapere come le informazioni si propagano in un sistema permette di migliorarne la struttura.
+
+Per una corretta analisi dei processi occorre analizzare alcuni aspetti:
+
+- Singoli task che gli utenti devono completare
+- Casi d'uso
 - Diagrammi di flusso delle informazioni
 
 ---
@@ -965,12 +1052,6 @@ Occorre creare molto materiale per far emergere delle idee da raffinare
 ![Wireframe](img/wireframe.png)
 
 Esempio di progettazione APP con Adalo
-
----
-
-# Realizzazione prototipi
-
-I prototipi vengono utilizzati con degli utenti per verificare la modalità di utilizzo del prodotto
 
 ---
 
@@ -1004,23 +1085,23 @@ Il service design viene spesso utilizzato nell'ambito della progettazione di ser
 
 # Tipologie di servizi
 
-Diretti
-Indiretti
-Multicanale
-Condivisi
-Complessi
+Esistono diverse tipologie di servizi:
 
----
-
-# Passaggio dal prodotto al servizio
-
-Non ti serve la caldaia, ti serve l'acqua calda
+- Diretti: entro in un bar e bevo un caffé che viene creato al momento
+- Indiretti: dopo che è stata cablata la mia zona con la fibra, chiedo l'allaccio ed usufruisco del servizio
+- Multicanale: posso ordinare il pranzo da un ristorante usando il loro sito, la loro app o un servizio di food delivery
+- Condivisi: car sharing, bike sharing
+- Complessi: un volo aereo
 
 ---
 
 # Prodotto o servizio?
 
 ![width:500px](img/amazon-echo.jpg)
+
+---
+
+# Come sono composti i servizi?
 
 ---
 
@@ -1034,26 +1115,33 @@ Non ti serve la caldaia, ti serve l'acqua calda
 
 # E il cliente?
 
-Capire i bisogni, i comportamenti e le esperienze dei nostri clienti ci aiuta a creare servizi migliori, che sappiano colpire nel segno a livello emotivo. Conoscere le attività che i nostri clienti svolgono durante le loro giornate e le aziende con cui interagiscono ci permette di offrire soluzioni più mirate e di maggiore impatto.
+Capire i bisogni, i comportamenti e le esperienze dei nostri clienti ci aiuta a creare servizi migliori, che sappiano colpire nel segno a livello emotivo. 
+
+Conoscere le attività che i nostri clienti svolgono durante le loro giornate e le aziende con cui interagiscono ci permette di offrire soluzioni più mirate e di maggiore impatto.
 
 ---
 
 # Concetti del service design
 
-Customer journey: il percorso che il cliente compie durante il suo utilizzo del servizio, dal primo contatto fino alla fine dell'esperienza.
+__Customer journey__: il percorso che il cliente compie durante il suo utilizzo del servizio, dal primo contatto fino alla fine dell'esperienza.
 
-Touchpoint: i punti di contatto tra il cliente e il servizio, come ad esempio il sito web, il call center, il punto vendita, etc.
+__Touchpoint__: i punti di contatto tra il cliente e il servizio, come ad esempio il sito web, il call center, il punto vendita, etc.
 
-Value proposition: il valore offerto dal servizio al cliente, che deve essere distintivo e rispondere alle esigenze e alle aspettative del cliente.
+__Value proposition__: il valore offerto dal servizio al cliente, che deve essere distintivo e rispondere alle esigenze e alle aspettative del cliente.
 
 ---
 
 # Sfide progettuali
 
-1 - Sfruttare l'opportunità di usare nuove piattaforme
-2 - Estendere un prodotto con l'offerta di nuovi servizi
-3 - Ripensare i servizi in ottica multicanale
-4 - Co-creazione e innovazione sociale
+Quali sono alcune delle sfide che dovrebbe affrontare il service design?
+
+- Sfruttare l'opportunità di usare nuove piattaforme
+- Estendere un prodotto con l'offerta di nuovi servizi
+- Ripensare i servizi in ottica multicanale
+
+---
+
+# --- CONTINUARE DA QUI ---
 
 ---
 

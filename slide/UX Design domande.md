@@ -30,3 +30,11 @@ Di seguito alcune domande alle quali provare a rispondere dopo aver letto le sli
 - Cosa sono le heat map, scroll map e mouse movement heatmap?
 - Che differenza c'è fra ROI interno ed esterno?
 - Perché si dice che YOU != USER?
+- Quali sono le fasi di una corretta UX Research?
+- Indica alcuni test della UX Research.
+- Come posso ridurre i costi di una UX Research?
+- Alla fine decidono gli utenti?
+- Perché usare l'analisi esperta?
+- Quali sono alcuni dei principi dell'interaction design?
+- Quali sono le tipologie di servizi?
+- 
