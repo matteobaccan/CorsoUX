@@ -37,4 +37,4 @@ Di seguito alcune domande alle quali provare a rispondere dopo aver letto le sli
 - Perché usare l'analisi esperta?
 - Quali sono alcuni dei principi dell'interaction design?
 - Quali sono le tipologie di servizi?
-- 
+- Quali sono alcuni strumenti per capire gli utenti in una fase di service design?

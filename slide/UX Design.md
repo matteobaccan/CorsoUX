@@ -26,7 +26,7 @@ Con questo corso, voglio offrirti una panoramica del mondo dello UX Design, dell
 
 # Argomenti del corso
 
-Comprendere i processi dietro la UX Research può aiutarvi a creare un prodotto di successo. Per ottenere ciò, è necessario partire da un'idea e dotarla di un'ottima realizzazione e implementazione. 
+Comprendere i processi dietro la UX Research può aiutarvi a creare un prodotto di successo. Per ottenere ciò, è necessario partire da un'idea e dotarla di un'ottima realizzazione e implementazione.
 Queste slide possono fornirvi una base di conoscenza, sulla quale costruirvi per diventare un esperto del settore.
 
 ---
@@ -507,7 +507,7 @@ Il card sorting è una tecnica di progettazione dell'interazione che viene utili
 
 Il card sorting può essere condotto online o di persona, utilizzando un software apposito o semplicemente delle carte fisiche. È una tecnica utile per aiutare gli UX designer a comprendere come gli utenti pensano e organizzano le informazioni, e può essere utilizzata per progettare una struttura di navigazione.
 
-Il card sorting è particolarmente utile quando si devono progettare categorie per un sito o per un'applicazione e si vuole capire come gli utenti le utilizzerebbero. 
+Il card sorting è particolarmente utile quando si devono progettare categorie per un sito o per un'applicazione e si vuole capire come gli utenti le utilizzerebbero.
 
 ---
 
@@ -662,7 +662,7 @@ Come la UX Research può aiutarci?
 
 ---
 
-# Tutto molto bello ma ...
+# Tutto molto bello, ma da dove iniziamo?
 
 ---
 
@@ -709,9 +709,9 @@ Bisogna tener presente che gli utenti spesso non sono in grado di esprimere chia
 
 # Gli utenti si rappresentano in modo corretto?
 
-L'utente ha una visione chiara delle proprie azioni che potrebbe essere diversa dalla realtà? 
+L'utente ha una visione chiara delle proprie azioni che potrebbe essere diversa dalla realtà?
 
-Probabilmente si: ci potrebbero essere sia dei bias cognitivi che la volontà di azzerare o aumentare i problemi riscontrati sui prodotti. 
+Probabilmente si: ci potrebbero essere sia dei bias cognitivi che la volontà di azzerare o aumentare i problemi riscontrati sui prodotti.
 Unire quanto dichiarato dagli utenti ai dati ci permette di avere una visione più chiara.
 
 ---
@@ -1003,7 +1003,7 @@ Il principio di Miller viene spesso utilizzato in progettazione dell'interfaccia
 
 ---
 
-![](img/Numero-magico-7.jpg)
+![La teoria del numero magico](img/Numero-magico-7.jpg)
 
 <https://www.pensierocritico.eu/numero-magico-7.html>
 
@@ -1087,7 +1087,7 @@ Il service design viene spesso utilizzato nell'ambito della progettazione di ser
 
 Esistono diverse tipologie di servizi:
 
-- Diretti: entro in un bar e bevo un caffé che viene creato al momento
+- Diretti: entro in un bar e bevo un caffè che viene creato al momento
 - Indiretti: dopo che è stata cablata la mia zona con la fibra, chiedo l'allaccio ed usufruisco del servizio
 - Multicanale: posso ordinare il pranzo da un ristorante usando il loro sito, la loro app o un servizio di food delivery
 - Condivisi: car sharing, bike sharing
@@ -1115,7 +1115,7 @@ Esistono diverse tipologie di servizi:
 
 # E il cliente?
 
-Capire i bisogni, i comportamenti e le esperienze dei nostri clienti ci aiuta a creare servizi migliori, che sappiano colpire nel segno a livello emotivo. 
+Capire i bisogni, i comportamenti e le esperienze dei nostri clienti ci aiuta a creare servizi migliori, che sappiano colpire nel segno a livello emotivo.
 
 Conoscere le attività che i nostri clienti svolgono durante le loro giornate e le aziende con cui interagiscono ci permette di offrire soluzioni più mirate e di maggiore impatto.
 
@@ -1138,59 +1138,50 @@ Quali sono alcune delle sfide che dovrebbe affrontare il service design?
 - Sfruttare l'opportunità di usare nuove piattaforme
 - Estendere un prodotto con l'offerta di nuovi servizi
 - Ripensare i servizi in ottica multicanale
-
----
-
-# --- CONTINUARE DA QUI ---
-
----
-
-# Piattaforme
-
-- Value proposition sulla base d i bisogni e modelli mentali dei consumatori
-- Individuare attore e servizio con i quali il nuovo servizio può dialogare
 - Progettare una nuova esperienza piacevole e distintiva
 - Fornire il servizio in maniera efficiente e sostenibile nel tempo
 
 ---
 
-# Dalla logica di prodotto a quella di servizio
+# Passare da una logica di prodotto a una di servizio
 
 - Individuare nuove opportunità
-- Visione olistica con il coinvolgimento di tutti i touchpoint
-    La visione olistica è un modo di pensare e di guardare le cose in modo integrato e globale, tenendo conto di tutti gli aspetti e le interconnessioni che le caratterizzano. Si tratta di una prospettiva che considera l'oggetto o il fenomeno in esame come parte di un tutto più ampio e che si sforza di comprendere come tutti gli elementi coinvolti interagiscono tra loro. La visione olistica si contrappone a quella riduttiva, che tende invece a studiare le cose in modo settoriale e frammentario.
-- Supervisionare lo sviluppo e la gestione di tutti i touchpoint
+Un prodotto è espandibile con nuovi servizi: supporto post vendita, manutenzioni. Il servizio potrebbe essere il prodotto stesso: OSMOTIC il depuratore è gratis, paghi solo la manutenzione annuale.
 
----
-
-# Trasformazione in ottica multicanale
-
-Occorre pensare al servizio in chiave digitale in modo da poterlo proporre su più canali.
+- Visione olistica del prodotto
+Il termine olistico deriva dal termine greco "ολος" che significa "intero" o "tutto". Occorre avere un approccio globale o una visione che prende in considerazione tutti gli aspetti del problema o della situazione.
 
 ---
 
 # Co-creazione
 
-Il service designer deve
+Lo sviluppo di un prodotto deve riuscire ad aggregare più punti di vista:
 
-- progettare dei momenti di dialogo fra gli attori coinvolti nel progetto
-- concretizzare gli spunti raccolto in una visione di progetto
-- identificare una strategia per garantire il funzionamento a lungo termine
+- Progettare dei momenti di dialogo fra gli tutti attori coinvolti nel progetto: in molte aziende si ragiona a comparti stagni, bloccando la cooperazione fra settori diversi.
+
+- Concretizzare gli spunti raccolti in una visione di progetto: valorizzazione delle idee interne ed esterne all'azienda
+
+- Identificare una strategia a lungo termine: se i prodotti non riescono ad aggiornarsi e a competere nel lungo termine l'azienda rischia di terminare il proprio business.
 
 ---
 
-# 1 - Capire gli utenti
+# Aziende che hanno scelto il service design
 
-- Capire chi coinvolgere nei momenti di dialogo
-- Analisi dei dati di servizio esistenti
+Netflix, Google, Spotify e Apple sono tutti esempi di aziende che hanno scelto la strada del Service Design.
+Questo aspetto si nota dai loro modelli di business.
+Perché Netflix addebita i clienti su base mensile invece che per film o perché Spotify offre anche solo abbonamenti mensili? Perché Apple è passata da iTunes ad Apple Music?
+Tutte queste aziende stanno affiancando alla vendita di prodotti la vendita di servizi. Attraverso servizi ben progettati, i fornitori sperano di costruire e mantenere un rapporto con i clienti.
+Riuscire a prevedere meglio le entrate permette di reinvestire in modo più efficace e prevedibile.
+
+---
+
+# Come capire gli utenti
+
+Per capire gli utenti occorre
+
+- Analizzare i dati di servizio esistenti
 - Analizzare la letteratura sul tema
 - Analizzare aspetti meno conosciuti dell'utente o del suo modo di interagire
-
-Ricerca
-
-- Esplorativa: cosa devo fare
-- Generativa: prime demo
-- Valutativa: valutazione del servizio per modificarlo o lanciarlo sul mercato
 
 ---
 
@@ -1226,39 +1217,22 @@ Comprensione delle dinamiche relazionali che governano il sistema
 
 ---
 
-# 2 - Visione condivisa
+# Quando condividere la visione di servizio?
 
-Workshop di co-design
-Il designer rende tangibile l'intangibile
-
-Il designer concretizza le idee e porta esempi tangibili
+Tramite l'organizzazione di workshop di co-design il designer deve rendere tangibile l'intangibile
 
 ---
 
-# 2 - Strumenti
+# Con quali strumenti è possibile condividere una visione di servizio?
 
 - User Scenarios
-    Colloco la persona all'interno del servizio: cosa fa, come interagisce
+    Colloco la persona all'interno del servizio: chi è (personas), cosa fa (contesto), come interagisce (percorsi e punti di frizione)
+
 - Service prototype
-    Prototipo del servizio con stati diversi di qualità
+    Creazione successiva di prototipi del servizio
+
 - Value proposition del servizio
-    Vantaggi offerti dal servizio
-
----
-
-# 3 - Implementazione del servizio
-
-- Brief dettagliato per le parti esterno che realizzeranno le singole componenti
-- Formare le figure professionali per modifare il flusso di lavoro
-- Creare le metriche di valutazione delle integrazioni
-
----
-
-# Strumenti
-
-- Service blueprint
-- Service guideline
-- User stories
+    Valutazione dei vantaggi offerti dal servizio
 
 ---
 
@@ -1270,7 +1244,7 @@ Il designer concretizza le idee e porta esempi tangibili
 
 Professioni
 
-- Studi di desing
+- Studi di design
 - Startup
 - Società di consulenza
 - Ricerca accademica
