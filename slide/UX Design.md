@@ -10,9 +10,9 @@ footer: https://github.com/matteobaccan/CorsoUX
 <!-- _paginate: false -->
 <!-- _footer: "https://www.pexels.com/it-it/foto/imac-d-argento-sulla-parte-superiore-del-tavolo-in-legno-marrone-326502/" -->
 
-![bg right:70%](img/pexels-tranmautritam-326502.jpg)
+![bg right:60%](img/pexels-tranmautritam-326502.jpg)
 
-# UX Design
+# Introduzione allo UX Design
 
 ---
 
@@ -159,7 +159,7 @@ Rendere intuitivi e facili da usare i servizi
 
 ---
 
-# Design thinking
+# Design thinking - di cosa si tratta?
 
 Il design thinking è un approccio metodologico alla risoluzione dei problemi e alla creazione di nuove soluzioni basato sull'empatia verso gli utenti, la sperimentazione rapida e il pensiero creativo.
 
@@ -169,7 +169,7 @@ Occorre rompere la segregazione dei dipartimenti per trovare insieme nuove soluz
 
 ---
 
-# Service design
+# Service design - di cosa si tratta?
 
 Il service design è una disciplina che si occupa della progettazione di servizi basati sull'esperienza utente (UX). Il service design si concentra sulla creazione di servizi efficienti, coerenti e soddisfacenti per gli utenti, tenendo conto di tutti gli aspetti che influiscono sulla loro esperienza di utilizzo.
 
@@ -179,7 +179,7 @@ Il service design viene utilizzato in molti settori, come il turismo, il traspor
 
 ---
 
-# UX Design
+# UX Design - di cosa si tratta?
 
 UX design è il processo di progettazione di prodotti, servizi o sistemi che tengono conto dell'esperienza utente. L'obiettivo dello UX design è quello di creare prodotti, servizi o sistemi che siano intuitivi, facili da usare e soddisfacenti per gli utenti, al fine di aumentarne l'adozione e la fidelizzazione.
 
@@ -209,7 +209,7 @@ __Tasso di abbandono__: si tratta di una misura del numero di utenti che abbando
 
 __Tempo di permanenza__: si tratta di una misura del tempo che gli utenti trascorrono sul sito o sull'applicazione. Il tempo di permanenza può essere utilizzato per valutare l'interesse degli utenti per il contenuto o per il prodotto/servizio offerto.
 
-__Tasso di rimbalzo__: si tratta di una misura del numero di utenti che lasciano il sito dopo aver visitato solo una pagina. Il tasso di rimbalzo può essere utilizzato per valutare l'attrattività del sito o dell'applicazione per gli utenti.
+__Tasso di rimbalzo__: si tratta di una misura del numero di utenti che lasciano il sito dopo aver visitato solo una pagina. Il tasso di rimbalzo può essere utilizzato per valutare quanto è attrattivo per gli utenti un sito o un'applicazione.
 
 ---
 
@@ -636,7 +636,7 @@ Rispetto a quanto pianificato, la ricerca potrebbe declassare o rimuovere delle 
 
 # Sono disposto a fare dei sacrifici?
 
-La roadmap di progetto è rigida oppure:
+Il rilascio del progetto è rigido oppure:
 
 - Sono disposto a rinunciare una funzionalità?
 - Sono disposto a spostare le date di rilascio?
