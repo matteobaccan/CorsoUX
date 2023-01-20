@@ -22,7 +22,7 @@ Dopo un percorso di studio, ho deciso di condividere le mie conoscenze e la mia 
 
 L'idea è nata dopo aver seguito un corso di approfondimento in ambito UX Research ed aver organizzato i miei appunti tramite slide.
 
-Con questo corso, voglio offrire una panoramica del mondo dello UX Design, delle professioni ad esso correlate e dei principali concetti che ne costituiscono il fondamento. 
+Con questo corso, voglio offrire una panoramica del mondo dello UX Design, delle professioni ad esso correlate e dei principali concetti che ne costituiscono il fondamento.
 
 Sarà un'opportunità unica per comprendere meglio questo affascinante campo e per scoprire le opportunità che offre.
 
