@@ -18,22 +18,27 @@ footer: https://github.com/matteobaccan/CorsoUX
 
 # Genesi di questo corso
 
-Dopo molti studi e ricerche, ho deciso di condividere le mie conoscenze e la mia passione per lo UX Design attraverso questo corso introduttivo. Ho seguito un corso specifico per approfondire le mie competenze in questo ambito e ho fatto numerosi approfondimenti per assicurarmi di avere una comprensione completa di questa disciplina in continua evoluzione.
+Dopo un percorso di studio, ho deciso di condividere le mie conoscenze e la mia passione per lo UX Design attraverso questo corso introduttivo.
 
-Con questo corso, voglio offrirti una panoramica del mondo dello UX Design, delle professioni ad esso correlate e dei principali concetti che ne costituiscono il fondamento. Sarà un'opportunità unica per comprendere meglio questo affascinante campo e per scoprire le opportunità che esso offre.
+L'idea è nata dopo aver seguito un corso di approfondimento in ambito UX Research ed aver organizzato i miei appunti tramite slide.
+
+Con questo corso, voglio offrire una panoramica del mondo dello UX Design, delle professioni ad esso correlate e dei principali concetti che ne costituiscono il fondamento. 
+
+Sarà un'opportunità unica per comprendere meglio questo affascinante campo e per scoprire le opportunità che offre.
 
 ---
 
 # Argomenti del corso
 
 Comprendere i processi dietro la UX Research può aiutarvi a creare un prodotto di successo. Per ottenere ciò, è necessario partire da un'idea e dotarla di un'ottima realizzazione e implementazione.
-Queste slide possono fornirvi una base di conoscenza, sulla quale costruirvi per diventare un esperto del settore.
+
+Queste slide possono fornire una base di conoscenza, sulla quale costruire per diventare un esperto del settore.
 
 ---
 
 # UX e UI
 
-Partiamo quindi col primo argomento: la differenza fra UX e UI.
+Partiamo quindi col primo argomento: cosa si intende per UX e UI.
 
 ---
 
@@ -171,7 +176,7 @@ Occorre rompere la segregazione dei dipartimenti per trovare insieme nuove soluz
 
 # Service design - di cosa si tratta?
 
-Il service design è una disciplina che si occupa della progettazione di servizi basati sull'esperienza utente (UX). Il service design si concentra sulla creazione di servizi efficienti, coerenti e soddisfacenti per gli utenti, tenendo conto di tutti gli aspetti che influiscono sulla loro esperienza di utilizzo.
+Il service design è una disciplina che si occupa della progettazione di servizi basati sull'esperienza utente. Il service design si concentra sulla creazione di servizi efficienti, coerenti e soddisfacenti per gli utenti, tenendo conto di tutti gli aspetti che influiscono sulla loro esperienza di utilizzo.
 
 Il service design si basa sulla comprensione delle esigenze e dei desideri degli utenti e mira a creare servizi che siano facili da utilizzare, intuitivi e che rispondano alle loro aspettative. Inoltre, il service design cerca di ottimizzare le interazioni tra gli utenti e il servizio, al fine di rendere l'esperienza il più piacevole e soddisfacente possibile.
 
