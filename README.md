@@ -6,6 +6,4 @@ Impara a pensare come gli utenti e a costruire soluzioni innovative che risolvan
 
 Lasciati guidare in questo viaggio emozionante alla scoperta del mondo della UX.
 
-![UX](pexels-cottonbro-studio-3584994.jpg)
-
-Fonte: https://www.pexels.com/it-it/foto/persona-che-utilizza-macbook-3584994/
+[![Genera PDF](https://github.com/matteobaccan/CorsoUX/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/CorsoUX/actions/workflows/generatepdf.yml)
