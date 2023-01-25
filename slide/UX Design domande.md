@@ -8,11 +8,13 @@ marp: true
 footer: https://github.com/matteobaccan/CorsoUX
 ---
 <!-- _paginate: false -->
-<!-- _footer: "https://www.pexels.com/it-it/foto/imac-d-argento-sulla-parte-superiore-del-tavolo-in-legno-marrone-326502/" -->
-
-![bg right:70%](img/pexels-tranmautritam-326502.jpg)
+<!-- _footer: "" -->
 
 # UX Design
+
+Domande di approfondimento
+
+![bg right](img/matteo-baccan.jpg)
 
 ---
 
