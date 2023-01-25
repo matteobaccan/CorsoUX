@@ -8,11 +8,11 @@ marp: true
 footer: https://github.com/matteobaccan/CorsoUX
 ---
 <!-- _paginate: false -->
-<!-- _footer: "https://www.pexels.com/it-it/foto/imac-d-argento-sulla-parte-superiore-del-tavolo-in-legno-marrone-326502/" -->
-
-![bg right:60%](img/pexels-tranmautritam-326502.jpg)
+<!-- _footer: "" -->
 
 # Introduzione allo UX Design
+
+![bg right:60%](img/matteo-baccan.jpg)
 
 ---
 
@@ -1262,3 +1262,9 @@ Riferimenti
 - Wikipedia
 - ChatGPT
 - [Servicedesigntools](https://servicedesigntools.org)
+
+---
+
+## Disclaimer
+
+L'autore ha generato questo testo in parte con GPT-3, il modello di generazione del linguaggio su larga scala di OpenAI. Dopo aver generato la bozza della lingua, l'autore ha rivisto, modificato e rivisto la lingua a proprio piacimento e si assume la responsabilità  ultima del contenuto di questa pubblicazione.
