@@ -12,7 +12,7 @@ footer: https://github.com/matteobaccan/CorsoUX
 
 # Introduzione allo UX Design
 
-![bg right:60%](img/matteo-baccan.jpg)
+![bg right:60%](img/matteo-social.jpg)
 
 ---
 
@@ -42,7 +42,7 @@ Partiamo quindi col primo argomento: cosa si intende per UX e UI.
 
 ---
 
-# UX - __User Experience__
+# UX - User Experience
 
 __UX__ è una parola inglese che può essere tradotta come "esperienza utente" e si riferisce all'insieme delle sensazioni, emozioni, attitudini e opinioni che un individuo sperimenta quando utilizza un prodotto, servizio o sistema.
 
@@ -52,7 +52,7 @@ ChatGPT
 
 ---
 
-# UI - __User Interface__
+# UI - User Interface
 
 __UI__ è l'interfaccia tra un'applicazione e l'utente. Utilizza elementi visivi come bottoni, menu a tendina, interfacce grafiche, ecc. La UI consente all'utente di interagire con l'applicazione e di accedere ai suoi servizi.
 
@@ -64,11 +64,11 @@ __UI__ è l'interfaccia tra un'applicazione e l'utente. Utilizza elementi visivi
 
 ---
 
-# Cos'è la trasformazione digitale?
+# UX è un passo della trasformazione digitale
 
-La trasformazione digitale è un processo in cui le organizzazioni usano le tecnologie digitali per modificare le loro operazioni, processi e prodotti. L'obiettivo della trasformazione digitale è migliorare l'efficienza, la produttività e la competitività, aumentando il vantaggio competitivo dell'azienda. Una trasformazione digitale ben eseguita può anche aiutare le organizzazioni a fornire un'esperienza cliente migliore, ad alimentare l'innovazione e a migliorare la redditività.
-
-La UX è un passo fondamentale di questo percorso.
+La trasformazione digitale è un __processo__ in cui le organizzazioni usano le __tecnologie digitali__ per modificare le loro operazioni, processi e prodotti.
+L'obiettivo della trasformazione digitale è __migliorare l'efficienza__, la __produttività__ e la __competitività__, aumentando il vantaggio competitivo dell'azienda.
+Una trasformazione digitale ben eseguita può anche aiutare le organizzazioni a fornire un'esperienza cliente migliore, ad alimentare l'innovazione e a migliorare la redditività.
 
 ---
 
@@ -76,37 +76,36 @@ La UX è un passo fondamentale di questo percorso.
 
 Molte aziende hanno messo la UX al centro del proprio processo di comunicazione:
 
-- Apple semplificando il design degli smartphone
-- Google cambiando il modo col quale fare ricerca
-- Facebook creando il concetto di social media
+- __Apple__ semplificando il design degli smartphone
+- __Google__ cambiando il modo col quale fare ricerca
+- __Facebook__ creando il concetto di social media
+
+---
+
+# Perché investire in UX?
+
+Uno studio del 2013 condotto da Forrester ha dimostrato che un __miglioramento delle prestazioni__ di un sito web del 25% può __aumentare le conversioni__ delle vendite del 74%.
+
+Un altro studio del 2014 ha mostrato che il 74% degli utenti web considera la qualità dell'esperienza utente come il principale criterio di giudizio di un sito web.
+
+Uno studio del 2015 ha scoperto che il 49% degli utenti web che hanno avuto un'__esperienza negativa__ con un sito web sono __meno propensi a comprare__ da quell'azienda in futuro.
+
+Una ricerca del 2016 ha dimostrato che il 75% degli utenti giudica la __credibilità__ di un'__azienda__ sulla base dell'__aspetto del suo sito web__.
 
 ---
 
 # La spesa in UX rappresenta un investimento
 
-Rendere semplice ed intuitivo un processo ne migliora l'efficacia e lo rende più produttivo
-
----
-
-# Investimenti in UX
-
-Uno studio del 2013 condotto da Forrester ha dimostrato che un miglioramento delle prestazioni di un sito web del 25% può aumentare le conversioni delle vendite del 74%.
-
-Un altro studio del 2014 ha mostrato che il 74% degli utenti web considera la qualità dell'esperienza utente come il principale criterio di giudizio di un sito web.
-
-Uno studio del 2015 ha scoperto che il 49% degli utenti web che hanno avuto un'esperienza negativa con un sito web sono meno propensi a comprare da quell'azienda in futuro.
-
-Una ricerca del 2016 ha dimostrato che il 75% degli utenti giudica la credibilità di un'azienda sulla base dell'aspetto del suo sito web.
-
 ---
 
 # Vantaggi
 
-Questi sono solo alcuni esempi di come l'investimento in UX può avere un impatto positivo sulla performance di un'azienda. In generale, una buona UX può aumentare il tasso di conversione, ridurre il tasso di abbandono del carrello della spesa, aumentare la soddisfazione e la fedeltà degli utenti e migliorare la reputazione di un'azienda.
+L'investimento in UX può avere un impatto positivo sulla performance di un'azienda.
+Una buona UX può aumentare il tasso di conversione, ridurre il tasso di abbandono del carrello della spesa, aumentare la soddisfazione e la fedeltà degli utenti e migliorare la reputazione di un'azienda.
 
 ---
 
-# AARRR
+# Pirate Metrics : AARRR
 
 AARRR è un acronimo che rappresenta un modello di crescita noto anche come "Pirate Metrics". Si tratta di una sequenza di cinque fasi fondamentali che un'azienda deve percorrere per ottenere successo.
 
@@ -114,19 +113,19 @@ AARRR è un acronimo che rappresenta un modello di crescita noto anche come "Pir
 
 # AARRR - AA
 
-Acquisizione (__Acquisition__): si tratta del primo contatto che gli utenti hanno con il prodotto o il servizio dell'azienda. In questa fase è importante individuare le fonti di traffico e le strategie di marketing più efficaci per attirare nuovi utenti.
+Acquisizione (__Acquisition__): si tratta del __primo contatto__ che gli utenti hanno con il prodotto o il servizio dell'azienda. In questa fase è importante __individuare le fonti di traffico__ e le strategie di marketing più efficaci per attirare nuovi utenti.
 
-Attivazione (__Activation__): si tratta della fase in cui gli utenti diventano attivi e iniziano a utilizzare il prodotto o il servizio. In questa fase è importante assicurare che gli utenti abbiano un'esperienza positiva e che comprendano come utilizzare il prodotto.
+Attivazione (__Activation__): si tratta della fase in cui gli __utenti diventano attivi__ e iniziano a utilizzare il prodotto o il servizio. In questa fase è importante assicurare che gli utenti abbiano un'esperienza positiva e che comprendano come utilizzare il prodotto.
 
 ---
 
 # AARRR - RRR
 
-Retention (__Retention__): si tratta della fase in cui gli utenti continuano a utilizzare il prodotto o il servizio nel tempo. In questa fase è importante mantenere gli utenti interessati e soddisfatti, in modo da ridurre il tasso di abbandono.
+Retention (__Retention__): si tratta della fase in cui __gli utenti continuano a utilizzare il prodotto__ o il servizio nel tempo. In questa fase è importante mantenere gli utenti interessati e soddisfatti, in modo da ridurre il tasso di abbandono.
 
-Referral (__Referral__): si tratta della fase in cui gli utenti parlano del prodotto o del servizio ai loro amici e conoscenti. In questa fase è importante creare un prodotto o un servizio che sia talmente soddisfacente da spingere gli utenti a consigliarlo ad altre persone.
+Referral (__Referral__): si tratta della fase in cui __gli utenti parlano del prodotto o del servizio__ ai loro amici e conoscenti. In questa fase è importante creare un prodotto o un servizio che sia talmente soddisfacente da spingere gli utenti a consigliarlo ad altre persone.
 
-Revenue (__Revenue__): si tratta della fase in cui gli utenti generano entrate per l'azienda attraverso l'acquisto di prodotti o servizi o attraverso altre forme di monetizzazione. In questa fase è importante individuare le fonti di revenue più efficaci e implementare strategie per aumentare le entrate.
+Revenue (__Revenue__): si tratta della fase in cui __gli utenti generano entrate__ per l'azienda attraverso l'acquisto di prodotti o servizi o attraverso altre forme di monetizzazione. In questa fase è importante individuare le fonti di revenue più efficaci e implementare strategie per aumentare le entrate.
 
 ---
 
@@ -136,19 +135,17 @@ Il modello AARRR viene spesso utilizzato in ambito startup per identificare le a
 
 ---
 
-# UX e Activation
+# UX e AARRR
 
-Il primo impatto con l'azienda viene dato dalla UX di prodotto: è inutile investire in acquisizione utenti, se poi siamo carenti dal punto di vista dell'attivazione utenti
-
-- Complessità
-- Percorsi errati
-- Mancanza di chiarezza
+L'analisi dei dati prodotti nelle fasi del modello AARRR ci permette di evitare errori come ad esempio investire in acquisizione utenti, quando si è carenti dal punto di vista della loro attivazione.
 
 ---
 
 # Design di prodotti / servizi
 
 Come devono essere strutturati i servizi?
+
+---
 
 ## Design thinking
 
