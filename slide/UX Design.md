@@ -7,16 +7,23 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 marp: true
 footer: https://github.com/matteobaccan/CorsoUX
 ---
-<!-- _paginate: false -->
-<!-- _footer: "" -->
 
 # Introduzione allo UX Design
 
-![bg right:60%](img/matteo-social.jpg)
+![bg right:60%](img/matteo-baccan.jpg)
+
+<!-- _paginate: false -->
+<!-- _footer: "" -->
+<!-- style: "
+img[alt~='center'] {
+  display: block;
+  margin: 0 auto;
+}
+" -->
 
 ---
 
-# Genesi di questo corso
+## Genesi di questo corso
 
 Dopo un percorso di studio, ho deciso di condividere le mie conoscenze e la mia passione per lo UX Design attraverso questo corso introduttivo.
 
@@ -28,7 +35,7 @@ Sarà un'opportunità unica per comprendere meglio questo affascinante campo e p
 
 ---
 
-# Argomenti del corso
+## Argomenti del corso
 
 Comprendere i processi dietro la UX Research può aiutarvi a creare un prodotto di successo. Per ottenere ciò, è necessario partire da un'idea e dotarla di un'ottima realizzazione e implementazione.
 
@@ -36,13 +43,13 @@ Queste slide possono fornire una base di conoscenza, sulla quale costruire per d
 
 ---
 
-# UX e UI
+## UX e UI
 
 Partiamo quindi col primo argomento: cosa si intende per UX e UI.
 
 ---
 
-# UX - User Experience
+## UX - User Experience
 
 __UX__ è una parola inglese che può essere tradotta come "esperienza utente" e si riferisce all'insieme delle sensazioni, emozioni, attitudini e opinioni che un individuo sperimenta quando utilizza un prodotto, servizio o sistema.
 
@@ -52,19 +59,19 @@ ChatGPT
 
 ---
 
-# UI - User Interface
+## UI - User Interface
 
 __UI__ è l'interfaccia tra un'applicazione e l'utente. Utilizza elementi visivi come bottoni, menu a tendina, interfacce grafiche, ecc. La UI consente all'utente di interagire con l'applicazione e di accedere ai suoi servizi.
 
 ---
 
-![width:750px](img/Knowing-the-difference-between-UI-and-UX.webp)
+![center width:750px](img/Knowing-the-difference-between-UI-and-UX.webp)
 
 <https://imaginxp.com/a-pilot-to-the-difference-between-ui-and-ux/>
 
 ---
 
-# UX è un passo della trasformazione digitale
+## UX è un passo della trasformazione digitale
 
 La trasformazione digitale è un __processo__ in cui le organizzazioni usano le __tecnologie digitali__ per modificare le loro operazioni, processi e prodotti.
 L'obiettivo della trasformazione digitale è __migliorare l'efficienza__, la __produttività__ e la __competitività__, aumentando il vantaggio competitivo dell'azienda.
@@ -72,7 +79,7 @@ Una trasformazione digitale ben eseguita può anche aiutare le organizzazioni a 
 
 ---
 
-# Centralità della trasformazione
+## Centralità della trasformazione
 
 Molte aziende hanno messo la UX al centro del proprio processo di comunicazione:
 
@@ -82,7 +89,7 @@ Molte aziende hanno messo la UX al centro del proprio processo di comunicazione:
 
 ---
 
-# Perché investire in UX?
+## Perché investire in UX?
 
 Uno studio del 2013 condotto da Forrester ha dimostrato che un __miglioramento delle prestazioni__ di un sito web del 25% può __aumentare le conversioni__ delle vendite del 74%.
 
@@ -94,24 +101,26 @@ Una ricerca del 2016 ha dimostrato che il 75% degli utenti giudica la __credibil
 
 ---
 
-# La spesa in UX rappresenta un investimento
+## La spesa in UX rappresenta un investimento
 
 ---
 
-# Vantaggi
+## Vantaggi
 
 L'investimento in UX può avere un impatto positivo sulla performance di un'azienda.
 Una buona UX può aumentare il tasso di conversione, ridurre il tasso di abbandono del carrello della spesa, aumentare la soddisfazione e la fedeltà degli utenti e migliorare la reputazione di un'azienda.
 
 ---
 
-# Pirate Metrics : AARRR
+## Pirate Metrics : AARRR
 
 AARRR è un acronimo che rappresenta un modello di crescita noto anche come "Pirate Metrics". Si tratta di una sequenza di cinque fasi fondamentali che un'azienda deve percorrere per ottenere successo.
 
+Il modello AARRR viene utilizzato in ambito startup per identificare le aree su cui l'azienda deve concentrarsi per ottenere crescita e successo a lungo termine.
+
 ---
 
-# AARRR - AA
+## AARRR - AA
 
 Acquisizione (__Acquisition__): si tratta del __primo contatto__ che gli utenti hanno con il prodotto o il servizio dell'azienda. In questa fase è importante __individuare le fonti di traffico__ e le strategie di marketing più efficaci per attirare nuovi utenti.
 
@@ -119,7 +128,7 @@ Attivazione (__Activation__): si tratta della fase in cui gli __utenti diventano
 
 ---
 
-# AARRR - RRR
+## AARRR - RRR
 
 Retention (__Retention__): si tratta della fase in cui __gli utenti continuano a utilizzare il prodotto__ o il servizio nel tempo. In questa fase è importante mantenere gli utenti interessati e soddisfatti, in modo da ridurre il tasso di abbandono.
 
@@ -129,75 +138,69 @@ Revenue (__Revenue__): si tratta della fase in cui __gli utenti generano entrate
 
 ---
 
-# Modello AARRR
-
-Il modello AARRR viene spesso utilizzato in ambito startup per identificare le aree su cui l'azienda deve concentrarsi per ottenere crescita e successo a lungo termine.
-
----
-
-# UX e AARRR
+## UX e AARRR
 
 L'analisi dei dati prodotti nelle fasi del modello AARRR ci permette di evitare errori come ad esempio investire in acquisizione utenti, quando si è carenti dal punto di vista della loro attivazione.
 
 ---
 
-# Design di prodotti / servizi
+## Design di prodotti / servizi
 
-Come devono essere strutturati i servizi?
-
----
-
-## Design thinking
-
-Approccio basato su empatia, sperimentazione e creatività
-
-## Service design
-
-Efficienza dei servizi in base all'esperienza utente
-
-## UX Design
-
-Rendere intuitivi e facili da usare i servizi
+Come devono essere strutturati i prodotti / servizi?
 
 ---
 
-# Design thinking - di cosa si tratta?
+### Design thinking
 
-Il design thinking è un approccio metodologico alla risoluzione dei problemi e alla creazione di nuove soluzioni basato sull'empatia verso gli utenti, la sperimentazione rapida e il pensiero creativo.
+Approccio basato su empatia, sperimentazione e creatività: si prova a sperimentare qualcosa di nuovo.
 
-Il design thinking si basa sull'idea che sia possibile trovare soluzioni innovative ai problemi attraverso il coinvolgimento attivo degli utenti e la sperimentazione di diverse opzioni. In questo modo, il design thinking cerca di coniugare la creatività con il pensiero strategico e l'analisi dei dati.
+### Service design
+
+Efficienza dei servizi in base all'esperienza utente: si modificano i servizi in modo che incontrino meglio le richieste degli utenti.
+
+### UX Design
+
+Rendere intuitivi e facili da usare i servizi: si semplificano gli usi da parte degli utenti.
+
+---
+
+## Design thinking - di cosa si tratta?
+
+Il design thinking è un approccio metodologico alla risoluzione dei problemi e alla creazione di nuove soluzioni basato sull'__empatia verso gli utenti__, la sperimentazione rapida e il pensiero creativo.
+
+Il design thinking si basa sull'idea che sia possibile trovare __soluzioni innovative__ ai problemi attraverso il __coinvolgimento attivo degli utenti__ e la __sperimentazione di diverse opzioni__. In questo modo, il design thinking cerca di coniugare la __creatività__ con il __pensiero strategico__ e l'__analisi dei dati__.
 
 Occorre rompere la segregazione dei dipartimenti per trovare insieme nuove soluzioni.
 
 ---
 
-# Service design - di cosa si tratta?
+## Service design - di cosa si tratta?
 
-Il service design è una disciplina che si occupa della progettazione di servizi basati sull'esperienza utente. Il service design si concentra sulla creazione di servizi efficienti, coerenti e soddisfacenti per gli utenti, tenendo conto di tutti gli aspetti che influiscono sulla loro esperienza di utilizzo.
+Il service design è una disciplina che si occupa della __progettazione di servizi basati sull'esperienza utente__. Il service design si concentra sulla creazione di __servizi efficienti__, coerenti e soddisfacenti per gli utenti, tenendo conto di tutti gli aspetti che influiscono sulla loro esperienza di utilizzo.
 
-Il service design si basa sulla comprensione delle esigenze e dei desideri degli utenti e mira a creare servizi che siano facili da utilizzare, intuitivi e che rispondano alle loro aspettative. Inoltre, il service design cerca di ottimizzare le interazioni tra gli utenti e il servizio, al fine di rendere l'esperienza il più piacevole e soddisfacente possibile.
+Il service design si basa sulla comprensione delle __esigenze e dei desideri degli utenti__ e mira a creare servizi che siano facili da utilizzare, intuitivi e che rispondano alle loro aspettative. Inoltre, il service design cerca di __ottimizzare le interazioni tra gli utenti e il servizio__, al fine di rendere l'esperienza il più piacevole e soddisfacente possibile.
 
 Il service design viene utilizzato in molti settori, come il turismo, il trasporto, la sanità, il retail e molti altri, al fine di progettare servizi efficaci e soddisfacenti per gli utenti.
 
 ---
 
-# UX Design - di cosa si tratta?
+## UX Design - di cosa si tratta?
 
-UX design è il processo di progettazione di prodotti, servizi o sistemi che tengono conto dell'esperienza utente. L'obiettivo dello UX design è quello di creare prodotti, servizi o sistemi che siano intuitivi, facili da usare e soddisfacenti per gli utenti, al fine di aumentarne l'adozione e la fidelizzazione.
+UX design è il processo di __progettazione di prodotti, servizi__ o sistemi che tengono conto dell'__esperienza utente__. L'obiettivo dello UX design è quello di creare __prodotti__, servizi o sistemi che siano __intuitivi, facili da usare e soddisfacenti__ per gli utenti, al fine di aumentarne l'adozione e la fidelizzazione.
 
-Lo UX design si basa sulla comprensione delle esigenze, dei desideri e delle abitudini degli utenti, e utilizza metodi quali la ricerca, il testing e il design thinking per creare soluzioni che soddisfino queste esigenze. Inoltre, lo UX design tiene anche conto dell'impatto emotivo che un prodotto, un servizio o un sistema ha sugli utenti, al fine di creare un'esperienza coerente e piacevole.
+Lo UX design si basa sulla __comprensione delle esigenze__, dei desideri e delle abitudini degli utenti, e utilizza metodi quali la ricerca, il testing e il design thinking per creare soluzioni che soddisfino queste esigenze. Inoltre, lo UX design tiene anche conto dell'impatto emotivo che un prodotto, un servizio o un sistema ha sugli utenti, al fine di creare un'esperienza coerente e piacevole.
 
 Lo UX design viene spesso utilizzato in ambito informatico per progettare interfacce utente intuitive e accattivanti, sia in ambito web che mobile.
 
 ---
 
-# Metriche
+## Metriche
 
 Le metriche di valutazione del design sono degli strumenti che vengono utilizzati per misurare l'efficacia di un prodotto, di un servizio o di un sistema dal punto di vista dell'esperienza utente.
 
 ---
 
-# Metriche principali - 1
+## Metriche principali - 1
 
 __Soddisfazione utente__: si tratta di una misura della soddisfazione degli utenti rispetto al prodotto, al servizio o al sistema. La soddisfazione utente può essere misurata attraverso sondaggi o interviste a campione, o utilizzando strumenti di analisi delle prestazioni come il Net Promoter Score (NPS).
 
@@ -205,7 +208,7 @@ __Tasso di conversione__: si tratta di una misura del numero di utenti che compl
 
 ---
 
-# Metriche principali - 2
+## Metriche principali - 2
 
 __Tasso di abbandono__: si tratta di una misura del numero di utenti che abbandonano il sito o l'applicazione prima di completare un'azione desiderata. Il tasso di abbandono può essere utilizzato per identificare problemi con la facilità d'uso o con la soddisfazione degli utenti.
 
@@ -215,9 +218,25 @@ __Tasso di rimbalzo__: si tratta di una misura del numero di utenti che lasciano
 
 ---
 
-# UX ROI Esterno
+## ROI
 
-UX ROI (acronimo di User Experience Return on Investment) si riferisce al ritorno economico ottenuto dall'investimento in UX (User Experience). Lo UX ROI può essere utilizzato per misurare il valore ottenuto da un progetto di UX o per confrontare il ritorno ottenuto da diversi progetti di UX.
+ROI (acronimo di Return on Investment) si riferisce al __ritorno economico ottenuto da un investimento__
+
+Si tratta di una percentuale, osservata come un rapporto tra il profitto netto generato, rispetto al capitale investito inizialmente.
+
+E' possibile calcolare il ROI utilizzando la seguente formula:
+
+### ROI = (Profitto netto / Investimento iniziale) x 100
+
+---
+
+## UX ROI
+
+Lo UX ROI è il ritorno di investimento sulla UX. Può essere utilizzato per misurare il valore ottenuto da un progetto di UX o per confrontare il ritorno ottenuto da diversi progetti di UX.
+
+---
+
+## UX ROI Esterno
 
 Calcolare l'UX ROI può essere utile per determinare se un investimento in UX sia stato profittevole e per identificare le aree di UX su cui concentrarsi per ottenere il massimo ritorno. Tuttavia, il calcolo dell'UX ROI può essere complesso in quanto può essere difficile quantificare il valore dell'esperienza utente in termini monetari.
 
@@ -225,9 +244,9 @@ Per calcolare l'UX ROI, è necessario prima determinare il costo del progetto di
 
 ---
 
-# UX ROI Interno
+## UX ROI Interno
 
-Miglioramento dell'efficienza interna di un'azienda
+Miglioramento dell'__efficienza interna di un'azienda__:
 
 - Riduzione del tempo per effettuare un task
 - Ridurre il numero degli errori di un utente col miglioramento di testi, la scelta di immagini più intuitive, la semplificazione dell'interfaccia
@@ -236,94 +255,86 @@ Miglioramento dell'efficienza interna di un'azienda
 
 ---
 
-# Analisi dei dati
+## Analisi dei dati
 
-Per raccogliere delle informazioni che ci aiuteranno a capire meglio come si stanno comportando gli utenti, occorrono degli strumenti. Questi strumenti ci aiuteranno a capire dove gli utenti si bloccano, su quali pagine entrano ed escono dal sito e altro ancora.
+Per raccogliere delle informazioni che ci aiuteranno a capire meglio come si stanno comportando gli utenti, occorrono degli strumenti.
+Questi strumenti ci aiuteranno a capire dove gli utenti si bloccano, su quali pagine entrano ed escono dal sito e altro ancora.
 
 ---
 
-# Visual Analytics
+## Visual Analytics
 
 Le __click head map__, le __scroll map__ e le __mouse movement heatmap__ sono tutte tecniche di visual analytics utilizzate per analizzare l'attività degli utenti su un sito web o su un'applicazione.
 
 ---
 
-# Click heat map
+## Click heat map
 
 Le __click heat map__ mostrano le aree del sito o dell'applicazione che vengono cliccate con maggiore frequenza dagli utenti. Le "click heat map" possono essere utilizzate per identificare le aree più popolari del sito o dell'applicazione e per valutare l'efficacia del layout delle pagine.
 
 ---
 
-# Google heat map
+## Google heat map
 
-![Google heat map width:500px](img/google-heat-map-blogger.jpg)
+![center Google heat map width:500px](img/google-heat-map-blogger.jpg)
 
 <https://www.technowlogy.org/what-is-heat-map-examples.html>
 
 ---
 
-# Scroll map
+## Scroll map
 
 Le __scroll map__ mostrano fino a che punto gli utenti scorrono una pagina del sito o dell'applicazione. Le "scroll map" possono essere utilizzate per valutare l'interesse degli utenti per il contenuto di una pagina e per identificare eventuali problemi di usabilità che potrebbero impedire agli utenti di accedere a tutto il contenuto.
 
 ---
 
-# Scroll map esempio
+## Scroll map esempio
 
-![Scroll map](img/image-21.png)
+![center Scroll map width:800px](img/image-21.png)
 
 <https://www.hotjar.com/blog/scroll-maps/>
 
 ---
 
-# Mouse movement heatmap
+## Mouse movement heatmap
 
 Le __mouse movement heatmap__ mostrano i movimenti del mouse degli utenti durante la navigazione sul sito o sull'applicazione. Le "mouse movement heatmap" possono essere utilizzate per valutare l'attenzione degli utenti su determinate aree del sito o dell'applicazione e per identificare eventuali problemi di usabilità o di interesse degli utenti.
 
 ---
 
-# Mouse movement heatmap esempio
+## Mouse movement heatmap esempio
 
-![Mouse movement heatmap width:700px](img/move.gif)
+![center Mouse movement heatmap width:750px](img/move.gif)
 
 <https://www.mousestats.com/products/mouse-move-heatmaps>
 
 ---
 
-# Intervista contestuale
+## Intervista contestuale
 
-L'intervista contestuale è una tecnica di raccolta dei dati utilizzata nell'analisi UX per comprendere meglio come gli utenti interagiscono con un prodotto, un servizio o un sistema in contesto reale.
+L'intervista contestuale è una tecnica di __raccolta dati__ utilizzata nell'analisi UX per comprendere meglio come gli utenti interagiscono con un prodotto, un servizio o un sistema in contesto reale.
 
-L'intervista contestuale consiste nel condurre un'intervista con gli utenti mentre questi utilizzano il prodotto, il servizio o il sistema in questione, al fine di ottenere una comprensione più approfondita delle loro esigenze, dei loro comportamenti e delle loro sfide.
+L'intervista contestuale consiste nel condurre un'__intervista con gli utenti mentre utilizzano il prodotto__, il servizio o il sistema in questione, al fine di ottenere una comprensione più approfondita delle loro esigenze, dei loro comportamenti e delle loro sfide.
 
-Le interviste contestuali sono particolarmente utili per identificare problemi di usabilità o di soddisfazione degli utenti che potrebbero non essere evidenti attraverso gli analytics.
+Le interviste contestuali sono particolarmente utili per __identificare problemi di usabilità__ o di soddisfazione degli utenti che potrebbero non essere evidenti attraverso gli analytics.
 
 ---
 
-# Impatti del ROI Esterno
+## Impatti del ROI Esterno
 
 - Impatto sulle vendite: aumento dei prodotti venduti
 - Impatto sulla fidelizzazione: dopo il primo acquisto gli utenti tornano nuovamente sul servizio
 - Acquisizione di nuovi lead: gli utenti arrivano sul sito ed effettuano dei task
 - Soddisfazione dei clienti
+- Miglioramento del conversion rate
 
 ---
 
-# Metriche - Conversion rate
-
-Il conversion rate (tasso di conversione) è una metrica utilizzata per misurare il numero di utenti che completano un'azione desiderata (ad esempio, il completamento di un modulo di registrazione o l'acquisto di un prodotto) rispetto al numero totale di utenti che hanno visitato il sito.
-
-Il conversion rate viene spesso utilizzato in ambito e-commerce per misurare l'efficacia del sito nel trasformare i visitatori in clienti, ma può essere utilizzato anche in altri ambiti per misurare il successo di una campagna o di un'iniziativa.
-
-Per calcolare il conversion rate, si divide il numero di azioni completate dal numero totale di visitatori e si moltiplica per 100 per ottenere una percentuale. Ad esempio, se un sito ha ricevuto 1000 visitatori e 100 di questi hanno completato un acquisto, il conversion rate sarà del 10%.
-
----
-
-# Altre metriche
+## Altre metriche usate per la valutazione di e-commerce
 
 - Prezzo medio di checkout
 
-Il valore medio dei prodotti inseriti nel carrello del sito
+Il valore medio dei prodotti inseriti nel carrello del sito..
 
 - CLV
 
@@ -335,40 +346,44 @@ Il traffico organico è il traffico che proviene da fonti di ricerca naturali co
 
 ---
 
-# Progettazione della UX
-
-A grandi linee la progettazione di un servizio può essere divisa in 4 fasi:
-
-1 Ricerca delle esigenze dei propri utenti
-2 Creazione di un prototipo del servizio
-3 Test su utenti reali
-4 Raccolta esigenze e reiterazione sul punto 2
+## Tutto bello, ma da dove partiamo per una progettazione UX?
 
 ---
 
-# Best Practice - 1
+## Fasi della progettazione UX
 
-Partire dalle esigenze degli utenti: è importante comprendere le esigenze, i comportamenti e le sfide degli utenti per progettare un'esperienza utente efficace e soddisfacente.
+Ci sono molte tecniche di progettazione, la più usata passa attraverso 4 fasi:
 
-Raggiungere un equilibrio tra utilità, usabilità e piacevolezza: è importante che un prodotto, un servizio o un sistema sia utile, facile da usare e piacevole per gli utenti.
-
-Favorire l'accessibilità: è importante che un prodotto, un servizio o un sistema sia accessibile a tutti, indipendentemente dalle abilità o dalle limitazioni degli utenti.
-
-Sviluppare una solida architettura dell'informazione: è importante organizzare le informazioni in modo logico e coerente per facilitarne la comprensione e l'utilizzo da parte degli utenti.
-
----
-
-# Best Practice - 2
-
-Testare con gli utenti: è importante testare il prodotto, il servizio o il sistema con gli utenti per identificare eventuali problemi e apportare miglioramenti.
-
-Fare un uso appropriato delle animazioni e dei suoni: le animazioni e i suoni possono essere utili per attirare l'attenzione degli utenti o per fornire feedback, ma è importante utilizzarli in modo appropriato e non eccessivo.
-
-Mantenere un design coerente: è importante mantenere un design coerente all'interno di un prodotto, un servizio o un sistema per facilitarne l'utilizzo e la comprensione da parte degli utenti.
+1 Ricerca delle esigenze dei propri utenti.
+2 Creazione di un prototipo del servizio/prodotto.
+3 Test su utenti reali.
+4 Raccolta esigenze e reiterazione al punto 2.
 
 ---
 
-# Alcune scuse per non lavorare sulla UX
+## Best Practice - 1
+
+__Partire dalle esigenze degli utenti__: è importante comprendere le esigenze, i comportamenti e le sfide degli utenti per progettare un'esperienza utente efficace e soddisfacente.
+
+__Raggiungere un equilibrio tra utilità, usabilità e piacevolezza__: è importante che un prodotto, un servizio o un sistema sia utile, facile da usare e piacevole per gli utenti.
+
+__Favorire l'accessibilità__: è importante che un prodotto, un servizio o un sistema sia accessibile a tutti, indipendentemente dalle abilità o dalle limitazioni degli utenti.
+
+__Sviluppare una solida architettura dell'informazione__: è importante organizzare le informazioni in modo logico e coerente per facilitarne la comprensione e l'utilizzo da parte degli utenti.
+
+---
+
+## Best Practice - 2
+
+__Testare con gli utenti__: è importante testare il prodotto, il servizio o il sistema con gli utenti per identificare eventuali problemi e apportare miglioramenti.
+
+__Fare un uso appropriato delle animazioni e dei suoni__: le animazioni e i suoni possono essere utili per attirare l'attenzione degli utenti o per fornire feedback, ma è importante utilizzarli in modo appropriato e non eccessivo.
+
+__Mantenere un design coerente__: è importante mantenere un design coerente all'interno di un prodotto, un servizio o un sistema per facilitarne l'utilizzo e la comprensione da parte degli utenti.
+
+---
+
+## Alcune scuse per non lavorare sulla UX
 
 - Mancanza di tempo: non ho tempo, il prodotto deve uscire entro una certa data.
 - Mancanza di soldi: non ho un budget per la ricerca
@@ -379,7 +394,7 @@ Mantenere un design coerente: è importante mantenere un design coerente all'int
 
 ---
 
-# YOU != USER
+## YOU != USER
 
 by Jacob Nielsen
 
@@ -387,7 +402,7 @@ Le tue esigenze sono diverse da quelli dei tuoi clienti
 
 ---
 
-# Jacob Nielsen
+## Jacob Nielsen
 
 Jacob Nielsen è uno dei più noti esperti di usabilità e di design dell'interazione al mondo.
 
@@ -399,25 +414,25 @@ Nielsen è autore di numerosi libri e articoli sull'usabilità e sull'esperienza
 
 ---
 
-# Come pensiamo?
+## Come pensiamo?
 
 Se non mettiamo l'utente al centro della UX rischiamo di fare qualcosa che serve solo a noi
 
-![Your APP](img/yourapp.png)
+![center Your APP](img/yourapp.png)
 
 <https://blog.prototypr.io/ui-guidelines-and-why-you-should-care-62d4d0da1595>
 
 ---
 
-# Cosa vede il cliente e cosa vede l'utente
+## Cosa vede il cliente e cosa vede l'utente
 
-![width:500px](img/clientsusers.png)
+![center width:500px](img/clientsusers.png)
 
 <https://twitter.com/adsofbrands/status/1264540221036691468?lang=ga>
 
 ---
 
-# Quali lavori puoi fare in ambito UX Design?
+## Quali lavori puoi fare in ambito UX Design?
 
 UX Design è un campo molto ampio che può comprendere diversi ruoli. Alcuni dei lavori più comuni in questo campo sono:
 
@@ -431,17 +446,17 @@ __Accessibilità__: progettazione di prodotti e servizi accessibili a tutti gli 
 
 ---
 
-# UX Research
+## UX Research
 
 ---
 
-# Cos'è la UX Research?
+## Cos'è la UX Research?
 
 La UX Research è una disciplina che esplora le esperienze degli utenti per comprendere come i prodotti, i servizi e le interfacce digitali possono soddisfare le loro necessità. Utilizza una serie di metodi e tecniche, come interviste, sondaggi, test di usabilità, per raccogliere informazioni su come gli utenti percepiscono, usano e sentono in relazione ai prodotti. Queste informazioni vengono quindi utilizzate per progettare soluzioni migliori per gli utenti.
 
 ---
 
-# Fasi di una UX research
+## Fasi di una UX research
 
 Per una corretta UX research è opportuno definire un obiettivo, impostare dei test che lo rappresentino, analizzare i dati prodotti, rilevare i comportamenti degli utenti in modo da migliorare ed adeguare quanto analizzato.
 
@@ -459,7 +474,7 @@ Occorre anche analizzare il gruppo di persone coinvolte, tramite interviste per 
 
 ---
 
-# I dati
+## I dati
 
 Dopo i test, saranno i dati a raccontarci qualcosa.
 
@@ -468,7 +483,7 @@ In entrambi i casi la raccolta dei dati è un passaggio fondamentale per poter c
 
 ---
 
-# Rilevazioni
+## Rilevazioni
 
 Esiste anche un altro momento di raccolta dati, dove gli utenti sono lasciati liberi di usare il prodotto, al di fuori dei task assegnati. Questo tipo di raccolta di permette di rilevare i comportamenti degli utenti mentre usano il sistema in modo libero.
 
@@ -476,7 +491,7 @@ In questo caso non ci sarà la presenza di un intervistatore.
 
 ---
 
-# Alcuni test utilizzabili in UX Research
+## Alcuni test utilizzabili in UX Research
 
 Esistono molti che applicabili all'ambito della UX Research. Quelli più conosciuti sono:
 
@@ -487,7 +502,7 @@ Esistono molti che applicabili all'ambito della UX Research. Quelli più conosci
 
 ---
 
-# Tree test
+## Tree test
 
 Il tree test è una tecnica di test dell'usabilità che viene utilizzata per valutare la struttura di navigazione di un sito web o di un'applicazione. Il tree test consiste nel presentare agli utenti un elenco di opzioni di navigazione (ad esempio, le voci del menu principale di un sito web) e chiedere loro di individuare la voce di menu che ritengono più adeguata per accedere a una determinata sezione del sito.
 
@@ -503,7 +518,7 @@ Il tree test può essere condotto online o di persona, utilizzando un software d
 
 ---
 
-# Card sorting
+## Card sorting
 
 Il card sorting è una tecnica di progettazione dell'interazione che viene utilizzata per aiutare gli UX designer a comprendere come gli utenti organizzano e categorizzano le informazioni. Consiste nel presentare agli utenti un insieme di carte con delle informazioni su di esse (ad esempio, titoli di articoli o voci di menu) e chiedere loro di raggruppare le carte in modo coerente e di dare un titolo a ogni gruppo.
 
@@ -519,7 +534,7 @@ Il card sorting è particolarmente utile quando si devono progettare categorie p
 
 ---
 
-# First Click
+## First Click
 
 Il first click test (o primo clic test) è una tecnica di test dell'usabilità che viene utilizzata per valutare l'efficacia della navigazione di un sito web o di un'applicazione. Consiste nel presentare agli utenti una serie di link o di voci di menu e chiedere loro di cliccare sulla voce di menu che ritengono più adeguata per accedere a una determinata sezione del sito.
 
@@ -535,7 +550,7 @@ Il first click test può essere condotto online o di persona, utilizzando un sof
 
 ---
 
-# Eye tracking study
+## Eye tracking study
 
 L'eye tracking study (o studio di tracciamento oculare) è una tecnica di test dell'usabilità che viene utilizzata per valutare l'attenzione e il comportamento visivo degli utenti durante l'utilizzo di un prodotto, di un servizio o di un sistema.
 
@@ -551,7 +566,7 @@ L'eye tracking study è utile per capire come gli utenti percepiscono e interagi
 
 ---
 
-# Test interattivo
+## Test interattivo
 
 Quali sono i compiti da eseguire? Dipende sempre da cosa dobbiamo studiare.
 Nel caso di un e-commerce potrebbe essere:
@@ -564,7 +579,7 @@ Nel caso di un e-commerce potrebbe essere:
 
 ---
 
-# Cosa vogliamo studiare?
+## Cosa vogliamo studiare?
 
 Prima di analizzare qualcosa è necessario focalizzare l'obiettivo dello studio.
 Di seguito alcuni esempi di obiettivi:
@@ -578,7 +593,7 @@ Di seguito alcuni esempi di obiettivi:
 
 ---
 
-# Perché facciamo una UX Research?
+## Perché facciamo una UX Research?
 
 Quali sono i motivi che ci spingono a fare una UX research?
 
@@ -589,7 +604,7 @@ Quali sono i motivi che ci spingono a fare una UX research?
 
 ---
 
-# Quando fare o non fare UX Reserch
+## Quando fare o non fare UX Reserch
 
 Per valutare se è conveniente fare o meno una determinata attività, è importante considerare sia il tempo che verrà impiegato sia i costi che questa comporterà.
 
@@ -597,7 +612,7 @@ Le variabili tempi e costi sono sempre presenti in tutte le scelte. Occorre semp
 
 ---
 
-# Prima e dopo
+## Prima e dopo
 
 ![Prima e dopo](img/uoux.png)
 
@@ -605,7 +620,7 @@ Le variabili tempi e costi sono sempre presenti in tutte le scelte. Occorre semp
 
 ---
 
-# Come posso ridurre i costi di ricerca?
+## Come posso ridurre i costi di ricerca?
 
 Ci sono alcune domande che si possono fare ad inizio progetto per diminuire i costi di ricerca:
 
@@ -615,7 +630,7 @@ Ci sono alcune domande che si possono fare ad inizio progetto per diminuire i co
 
 ---
 
-# Condivisione dei dati
+## Condivisione dei dati
 
 Anche in caso affermativo, non è detto che i dati siano accessibili od utilizzabili. Per questo motivo è sempre opportuno verificare se:
 
@@ -626,7 +641,7 @@ Anche in caso affermativo, non è detto che i dati siano accessibili od utilizza
 
 ---
 
-# Posso ottenere una riduzione dei costi di progetto?
+## Posso ottenere una riduzione dei costi di progetto?
 
 Rispetto a quanto pianificato, la ricerca potrebbe declassare o rimuovere delle funzionalità.
 
@@ -636,7 +651,7 @@ Rispetto a quanto pianificato, la ricerca potrebbe declassare o rimuovere delle 
 
 ---
 
-# Sono disposto a fare dei sacrifici?
+## Sono disposto a fare dei sacrifici?
 
 Il rilascio del progetto è rigido oppure:
 
@@ -646,7 +661,7 @@ Il rilascio del progetto è rigido oppure:
 
 ---
 
-# Cambio di prodotto
+## Cambio di prodotto
 
 ![width:800px](img/ux-implementation.jpg)
 
@@ -654,7 +669,7 @@ Il rilascio del progetto è rigido oppure:
 
 ---
 
-# Dove posso avere dei vantaggi?
+## Dove posso avere dei vantaggi?
 
 Come la UX Research può aiutarci?
 
@@ -664,11 +679,11 @@ Come la UX Research può aiutarci?
 
 ---
 
-# Tutto molto bello, ma da dove iniziamo?
+## Tutto molto bello, ma da dove iniziamo?
 
 ---
 
-# Quanti utenti ci servono per fare UX Research?
+## Quanti utenti ci servono per fare UX Research?
 
 Il numero di utenti che serve per fare una UX Research dipende dal tipo di studi che si vogliono effettuare e dalle informazioni che si vogliono raccogliere. In generale, per ottenere risultati significativi è importante che la UX Research venga effettuata su un campione rappresentativo di utenti.
 
@@ -678,7 +693,7 @@ In genere, per ottenere risultati accurati e rappresentativi, è consigliabile c
 
 ---
 
-# Utenti necessari a scoprire problemi di usabilità
+## Utenti necessari a scoprire problemi di usabilità
 
 ![width:700px](img/user-testing.jpg)
 
@@ -686,7 +701,7 @@ Source: Jakob Nielsen's chart fro m his March 19 th , 2000 Alertbox Column.
 
 ---
 
-# Bastano 5 utenti?
+## Bastano 5 utenti?
 
 Già con 5 utenti superiamo l'80% delle problematiche legate al prodotto analizzato.
 Chiaramente con un numero maggiore di utenti possiamo avere risultati migliori, ma già con 5 abbiamo delle risposte accettabili.
@@ -695,7 +710,7 @@ Anche in questo caso sono importanti le variabili di tempi e costi.
 
 ---
 
-# Ma alla fine decidono gli utenti?
+## Ma alla fine decidono gli utenti?
 
 __Le persone non vogliono macchine, ma cavalli più veloci__ Questo aneddoto è spesso attribuito a Henry Ford, il fondatore della Ford Motor Company. Secondo la leggenda, quando Ford iniziò a produrre le sue prime automobili, molti potenziali acquirenti erano scettici e non vedevano l'utilità di questo nuovo tipo di trasporto. Per convincere i clienti dei vantaggi dell'automobile rispetto al cavallo, Ford avrebbe detto che la gente non voleva veramente una macchina, ma semplicemente un cavallo più veloce.
 
@@ -703,13 +718,13 @@ Questo aneddoto viene spesso citato per illustrare l'importanza di comprendere l
 
 ---
 
-# Gli utenti sanno cosa vogliono?
+## Gli utenti sanno cosa vogliono?
 
 Bisogna tener presente che gli utenti spesso non sono in grado di esprimere chiaramente le loro esigenze e i loro desideri, e che le loro richieste non sempre corrispondono a ciò di cui hanno veramente bisogno. Pertanto, è fondamentale che gli sviluppatori e i progettisti utilizzino metodi di indagine e di valutazione dell'usabilità per comprendere in modo approfondito le esigenze degli utenti e progettare soluzioni che rispondano a queste esigenze in modo efficace.
 
 ---
 
-# Gli utenti si rappresentano in modo corretto?
+## Gli utenti si rappresentano in modo corretto?
 
 L'utente ha una visione chiara delle proprie azioni che potrebbe essere diversa dalla realtà?
 
@@ -718,13 +733,13 @@ Unire quanto dichiarato dagli utenti ai dati ci permette di avere una visione pi
 
 ---
 
-# Serve una strategia di prodotto
+## Serve una strategia di prodotto
 
 Gli utenti ci aiutano a migliorare e adattare la strategia dei prodotti, ma non dovrebbero determinare la visione d'insieme che prende in considerazione altri fattori legati al business, al profitto e alle priorità di sviluppo dei prodotti e servizi.
 
 ---
 
-# L'importanza dei prototipi
+## L'importanza dei prototipi
 
 In ambito UX Design, un prototipo è una rappresentazione preliminare di un prodotto, di un servizio o di un sistema, che viene utilizzata per testare e valutare l'usabilità e l'efficacia di una soluzione progettuale. I prototipi possono assumere diverse forme, a seconda delle esigenze specifiche dello studio e del livello di dettaglio desiderato. Ad esempio, i prototipi possono essere realizzati con strumenti di disegno o di modellazione 3D, o possono essere semplici schizzi o mockup realizzati su carta.
 
@@ -732,7 +747,7 @@ I prototipi sono uno strumento molto utile in ambito UX Design perché consenton
 
 ---
 
-# Come posso realizzare dei prototipi
+## Come posso realizzare dei prototipi
 
 Ci sono molti strumenti che è possibile utilizzare per creare prototipi:
 
@@ -744,7 +759,7 @@ __Strumenti di prototipazione low-fi__, come carta e penna o adesivi Post-it. Qu
 
 ---
 
-# Quale strumento scegliere?
+## Quale strumento scegliere?
 
 Dipende dalle esigenze specifiche dello studio e dal livello di dettaglio e interattività desiderato. È importante scegliere lo strumento più adeguato per testare e valutare le soluzioni progettuali in modo efficace e rapido.
 
@@ -755,7 +770,7 @@ Alcuni prodotti usabili in versione demo:
 
 ---
 
-# Demo
+## Demo
 
 Test di utilizzo di [Draw.io](https://app.diagrams.net)
 
@@ -763,7 +778,7 @@ Test di utilizzo di [Draw.io](https://app.diagrams.net)
 
 ---
 
-# Metafora dell'altalena
+## Metafora dell'altalena
 
 ![width:600px](img/quello-di-cui-il-cliente-aveva-bisogno.jpg)
 
@@ -771,7 +786,7 @@ Test di utilizzo di [Draw.io](https://app.diagrams.net)
 
 ---
 
-# Approfondimenti
+## Approfondimenti
 
 Donald Norman (25/12/1935) è uno psicologo della cognizione e un esperto di design dell'interazione uomo-computer. È noto soprattutto per il suo lavoro nel campo dell'usabilità e dell'esperienza utente (UX), e per aver coniato il termine User Experience Design, UX Design.
 
@@ -781,11 +796,11 @@ Norman è autore di numerosi libri e articoli sull'usabilità e sull'UX, tra cui
 
 ---
 
-# Analisi esperta
+## Analisi esperta
 
 ---
 
-# Cos'è l analisi esperta?
+## Cos'è l analisi esperta?
 
 L'analisi esperta (Expert Analysis) è un metodo di indagine dell'usabilità che si basa sulla valutazione del prodotto o del servizio da parte di esperti del design o dell'usabilità. L'analisi esperta consiste nell'osservare e nell'interagire con il prodotto o il servizio, al fine di individuare eventuali problemi o difficoltà nell'utilizzo e di formulare raccomandazioni per migliorare l'usabilità.
 
@@ -793,7 +808,7 @@ L'analisi esperta può essere utilizzata come uno strumento di indagine compleme
 
 ---
 
-# Perché usare l'analisi esperta? - 1
+## Perché usare l'analisi esperta? - 1
 
 __Velocità__: l'analisi esperta è generalmente più rapida di altri metodi di indagine
 
@@ -805,7 +820,7 @@ __Complementarità__: l'analisi esperta può essere utilizzata come uno strument
 
 ---
 
-# Perché usare l'analisi esperta? - 2
+## Perché usare l'analisi esperta? - 2
 
 __Risparmio di tempo e di costi__: l'analisi esperta può consentire di risparmiare tempo e costi rispetto ad altri metodi di indagine, poiché richiede meno tempo per l'esecuzione.
 
@@ -817,7 +832,7 @@ __Valutazione di prodotti o servizi complessi__: l'analisi esperta è particolar
 
 ---
 
-# Perché non usare l'analisi esperta?
+## Perché non usare l'analisi esperta?
 
 __Dipendenza dall'esperienza degli esperti__: i risultati dell'analisi esperta dipendono dall'esperienza e dalla competenza degli esperti valutatori.
 
@@ -831,7 +846,7 @@ __Limitata scalabilità__: l'analisi esperta è generalmente meno scalabile risp
 
 ---
 
-# Approcci
+## Approcci
 
 __Analisi euristica__: valutazione di un prodotto o servizio in base a un insieme predefinito di principi di usabilità (gli euristici).
 
@@ -845,7 +860,7 @@ __Analisi cognitiva__: valutazione in base all'impatto che ha sulla mente dell'u
 
 ---
 
-# Cosa sono gli euristici?
+## Cosa sono gli euristici?
 
 Gli euristici sono i principi di usabilità che rappresentano le "golden rules" della progettazione dell'interfaccia utente. Gli euristici sono utilizzati nell'analisi euristica, uno degli approcci all'analisi esperta, per valutare la qualità dell'usabilità di un prodotto o di un servizio.
 
@@ -879,7 +894,7 @@ __Aiuto e documentazione__: il sistema deve fornire una documentazione e un supp
 
 ---
 
-# Obiettivi di un'analisi esperta - 1
+## Obiettivi di un'analisi esperta - 1
 
 Gli obiettivi dell'analisi esperta possono variare a seconda dell'approccio utilizzato e del contesto in cui viene effettuata. In generale, però, gli obiettivi dell'analisi esperta possono essere i seguenti:
 
@@ -889,7 +904,7 @@ __Identificare i problemi di usabilità e le opportunità di miglioramento__: l'
 
 ---
 
-# Obiettivi di un'analisi esperta - 2
+## Obiettivi di un'analisi esperta - 2
 
 __Fornire raccomandazioni per il miglioramento dell'usabilità__: l'analisi esperta può fornire suggerimenti concreti e supportare la progettazione di soluzioni per migliorare l'usabilità di un prodotto o di un servizio.
 
@@ -899,7 +914,7 @@ __Supportare la prendere decisioni informate in merito alla progettazione dell'i
 
 ---
 
-# Come vengono sintetizzati le divergenze rispetto alle euristiche
+## Come vengono sintetizzati le divergenze rispetto alle euristiche
 
 Normalmente si tratta di schede dove sono indicati le criticità individuate.
 
@@ -911,11 +926,11 @@ Normalmente si tratta di schede dove sono indicati le criticità individuate.
 
 ---
 
-# Interaction design
+## Interaction design
 
 ---
 
-# Cos'è l'interaction design?
+## Cos'è l'interaction design?
 
 L'interaction design (IxD) è una disciplina che si occupa della progettazione delle interazioni tra gli esseri umani e i sistemi tecnologici, al fine di migliorare l'efficienza, l'efficacia e la soddisfazione degli utenti.
 
@@ -925,7 +940,7 @@ L'interaction design comprende la progettazione di elementi visivi, di navigazio
 
 ---
 
-# Cosa dovrebbe fare l'interaction design?
+## Cosa dovrebbe fare l'interaction design?
 
 Semplificare le iterazioni
 
@@ -943,11 +958,11 @@ Fonte: presentazione Apple di iPhone
 
 ---
 
-# I principi dell'interaction design
+## I principi dell'interaction design
 
 ---
 
-# Il principio di Paul Fitts
+## Il principio di Paul Fitts
 
 Il principio di Paul Fitts è una legge di progettazione dell'interfaccia utente che descrive il tempo che impiega un utente per raggiungere un obiettivo sullo schermo con il puntatore del mouse.
 
@@ -963,7 +978,7 @@ Il principio di Fitts viene spesso utilizzato in progettazione dell'interfaccia 
 
 ---
 
-# Il principio di Hick-Hyman
+## Il principio di Hick-Hyman
 
 Il principio di Hick-Hyman è una legge di progettazione dell'interfaccia utente che descrive il tempo che impiega un utente per scegliere tra diverse opzioni o per eseguire un compito.
 
@@ -979,7 +994,7 @@ Il principio di Hick-Hyman viene spesso utilizzato in progettazione dell'interfa
 
 ---
 
-# Il principio di Larry Tesler
+## Il principio di Larry Tesler
 
 Il principio di Larry Tesler è una regola di progettazione dell'interfaccia utente che sostiene che le funzionalità di un sistema dovrebbero essere separate dalle modalità di interazione con esse.
 
@@ -995,7 +1010,7 @@ Il principio di Tesler viene spesso utilizzato in progettazione dell'interfaccia
 
 ---
 
-# Il principio di George Miller
+## Il principio di George Miller
 
 Il principio di George Miller è una legge di progettazione dell'interfaccia utente che descrive la quantità di informazioni che un utente può mantenere attive nella propria mente in un dato momento.
 
@@ -1011,7 +1026,7 @@ Il principio di Miller viene spesso utilizzato in progettazione dell'interfaccia
 
 ---
 
-# Il principio di Poka Yoke
+## Il principio di Poka Yoke
 
 Il principio di Poka Yoke è una filosofia di progettazione dell'interfaccia utente che mira a prevenire gli errori o a rendere gli errori immediatamente evidenti.
 
@@ -1027,7 +1042,7 @@ Il principio di Poka Yoke viene spesso utilizzato in progettazione dell'interfac
 
 ---
 
-# Cosa otteniamo con l'interaction design
+## Cosa otteniamo con l'interaction design
 
 - Creazione di modelli su carta e/o in digitale
 - Realizzazione di storyboard
@@ -1037,7 +1052,7 @@ Occorre creare molto materiale per far emergere delle idee da raffinare
 
 ---
 
-# Analisi dei processi
+## Analisi dei processi
 
 I processi all'interno di un progetto hanno un'importanza cruciale. Sapere come le informazioni si propagano in un sistema permette di migliorarne la struttura.
 
@@ -1049,7 +1064,7 @@ Per una corretta analisi dei processi occorre analizzare alcuni aspetti:
 
 ---
 
-# Disegno dei flussi
+## Disegno dei flussi
 
 ![Wireframe](img/wireframe.png)
 
@@ -1057,11 +1072,11 @@ Esempio di progettazione APP con Adalo
 
 ---
 
-# Il service design
+## Il service design
 
 ---
 
-# Cos'è il service design?
+## Cos'è il service design?
 
 Il service design è una disciplina che si occupa della progettazione di servizi. Si tratta di un approccio basato sulla progettazione di esperienze che mira a creare servizi di alta qualità e a misura di utente.
 
@@ -1077,7 +1092,7 @@ Il service design viene spesso utilizzato nell'ambito della progettazione di ser
 
 ---
 
-# Discipline del design
+## Discipline del design
 
 ![ width:500px](img/The-Disciplines-of-User-Experience-Adapted-from-Saffer-D-2008.png)
 
@@ -1085,7 +1100,7 @@ Il service design viene spesso utilizzato nell'ambito della progettazione di ser
 
 ---
 
-# Tipologie di servizi
+## Tipologie di servizi
 
 Esistono diverse tipologie di servizi:
 
@@ -1097,17 +1112,17 @@ Esistono diverse tipologie di servizi:
 
 ---
 
-# Prodotto o servizio?
+## Prodotto o servizio?
 
 ![width:500px](img/amazon-echo.jpg)
 
 ---
 
-# Come sono composti i servizi?
+## Come sono composti i servizi?
 
 ---
 
-# Palcoscenico, retroscena e dietro le quinte
+## Palcoscenico, retroscena e dietro le quinte
 
 ![Palcoscenico](img/front-back-behind.jpg)
 
@@ -1115,7 +1130,7 @@ Esistono diverse tipologie di servizi:
 
 ---
 
-# E il cliente?
+## E il cliente?
 
 Capire i bisogni, i comportamenti e le esperienze dei nostri clienti ci aiuta a creare servizi migliori, che sappiano colpire nel segno a livello emotivo.
 
@@ -1123,7 +1138,7 @@ Conoscere le attività che i nostri clienti svolgono durante le loro giornate e 
 
 ---
 
-# Concetti del service design
+## Concetti del service design
 
 __Customer journey__: il percorso che il cliente compie durante il suo utilizzo del servizio, dal primo contatto fino alla fine dell'esperienza.
 
@@ -1133,7 +1148,7 @@ __Value proposition__: il valore offerto dal servizio al cliente, che deve esser
 
 ---
 
-# Sfide progettuali
+## Sfide progettuali
 
 Quali sono alcune delle sfide che dovrebbe affrontare il service design?
 
@@ -1145,7 +1160,7 @@ Quali sono alcune delle sfide che dovrebbe affrontare il service design?
 
 ---
 
-# Passare da una logica di prodotto a una di servizio
+## Passare da una logica di prodotto a una di servizio
 
 - Individuare nuove opportunità
 Un prodotto è espandibile con nuovi servizi: supporto post vendita, manutenzioni. Il servizio potrebbe essere il prodotto stesso: OSMOTIC il depuratore è gratis, paghi solo la manutenzione annuale.
@@ -1155,7 +1170,7 @@ Il termine olistico deriva dal termine greco "ολος" che significa "intero" o
 
 ---
 
-# Co-creazione
+## Co-creazione
 
 Lo sviluppo di un prodotto deve riuscire ad aggregare più punti di vista:
 
@@ -1167,7 +1182,7 @@ Lo sviluppo di un prodotto deve riuscire ad aggregare più punti di vista:
 
 ---
 
-# Aziende che hanno scelto il service design
+## Aziende che hanno scelto il service design
 
 Netflix, Google, Spotify e Apple sono tutti esempi di aziende che hanno scelto la strada del Service Design.
 Questo aspetto si nota dai loro modelli di business.
@@ -1177,7 +1192,7 @@ Riuscire a prevedere meglio le entrate permette di reinvestire in modo più effi
 
 ---
 
-# Come capire gli utenti
+## Come capire gli utenti
 
 Per capire gli utenti occorre
 
@@ -1187,9 +1202,9 @@ Per capire gli utenti occorre
 
 ---
 
-# Strumenti per Capire gli utenti
+## Strumenti per Capire gli utenti
 
-## Personas
+### Personas
 
 Analisi e descrizione del comportamento utenti
 
@@ -1199,7 +1214,7 @@ Analisi e descrizione del comportamento utenti
 
 ---
 
-## Customer Journey Map
+### Customer Journey Map
 
 Comprensione dell'esperienza utente e dell'interazione col servizio
 
@@ -1209,7 +1224,7 @@ Comprensione dell'esperienza utente e dell'interazione col servizio
 
 ---
 
-## System Map
+### System Map
 
 Comprensione delle dinamiche relazionali che governano il sistema
 
@@ -1219,13 +1234,13 @@ Comprensione delle dinamiche relazionali che governano il sistema
 
 ---
 
-# Quando condividere la visione di servizio?
+## Quando condividere la visione di servizio?
 
 Tramite l'organizzazione di workshop di co-design il designer deve rendere tangibile l'intangibile
 
 ---
 
-# Con quali strumenti è possibile condividere una visione di servizio?
+## Con quali strumenti è possibile condividere una visione di servizio?
 
 - User Scenarios
     Colloco la persona all'interno del servizio: chi è (personas), cosa fa (contesto), come interagisce (percorsi e punti di frizione)
@@ -1238,7 +1253,7 @@ Tramite l'organizzazione di workshop di co-design il designer deve rendere tangi
 
 ---
 
-# Professione del service designer
+## Professione del service designer
 
 - Ricerca
 - Strategia
@@ -1262,6 +1277,6 @@ Riferimenti
 
 ---
 
-## Disclaimer
+### Disclaimer
 
 L'autore ha generato questo testo in parte con GPT-3, il modello di generazione del linguaggio su larga scala di OpenAI. Dopo aver generato la bozza della lingua, l'autore ha rivisto, modificato e rivisto la lingua a proprio piacimento e si assume la responsabilità  ultima del contenuto di questa pubblicazione.
