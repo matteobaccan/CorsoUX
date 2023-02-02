@@ -1009,7 +1009,7 @@ Il principio di Hick-Hyman viene spesso utilizzato in progettazione dell'interfa
 
 Il principio di Larry Tesler è una regola di progettazione dell'interfaccia utente che sostiene che __le funzionalità di un sistema dovrebbero essere separate dalle modalità di interazione con esse__.
 
-Il principio di Tesler afferma che le funzionalità di un sistema, cioè ciò che il sistema fa, dovrebbero essere separate dalle modalità di interazione, cioè come l'utente interagisce con il sistema per ottenere quelle funzionalità. 
+Il principio di Tesler afferma che le funzionalità di un sistema, cioè ciò che il sistema fa, dovrebbero essere separate dalle modalità di interazione, cioè come l'utente interagisce con il sistema per ottenere quelle funzionalità.
 
 In questo modo, __l'utente può scegliere la modalità di interazione più adeguata alle proprie preferenze e abilità__, senza essere influenzato dalle opzioni di funzionalità: ex __autocomplete__.
 
