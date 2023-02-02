@@ -20,4 +20,4 @@ Con questo corso, voglio offrire una panoramica del mondo dello UX Design, delle
 
 Sarà un'opportunità unica per comprendere meglio questo affascinante campo e per scoprire le opportunità che offre.
 
-__[Scarica gratuitamente le slide](https://raw.githubusercontent.com/matteobaccan/CorsoUX/main/slide/UX%20Design_AI.pdf)__
+__[Scarica gratuitamente le slide](https://raw.githubusercontent.com/matteobaccan/CorsoUX/main/slide/UX%20Design.pdf)__
