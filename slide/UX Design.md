@@ -565,7 +565,7 @@ Il first click test può essere condotto online o di persona, utilizzando un sof
 
 L'eye tracking study (o studio di tracciamento oculare) è una tecnica di test dell'usabilità che viene utilizzata per __valutare l'attenzione e il comportamento visivo degli utenti__ durante l'utilizzo di un prodotto, di un servizio o di un sistema.
 
-Consiste nel ___utilizzare uno strumento di tracciamento oculare__, che può essere un apparecchio o un software, per registrare i movimenti degli occhi degli utenti mentre svolgono una determinata attività (ad esempio, la navigazione di un sito web o l'utilizzo di un'applicazione).
+Consiste nel __utilizzare uno strumento di tracciamento oculare__, che può essere un apparecchio o un software, per registrare i movimenti degli occhi degli utenti mentre svolgono una determinata attività (ad esempio, la navigazione di un sito web o l'utilizzo di un'applicazione).
 
 L'eye tracking study è utile per capire come gli utenti percepiscono e interagiscono con un prodotto o un servizio, e può essere utilizzato per individuare eventuali problemi di usabilità o per ottimizzare l'esperienza utente. L'eye tracking study può essere condotto sia di persona che online, ed è particolarmente utile per valutare l'impatto di elementi visivi come la posizione, il colore o il design di un prodotto o di un servizio.
 
@@ -807,7 +807,7 @@ Test di utilizzo di [Draw.io](https://app.diagrams.net)
 
 ---
 
-## Cos'è l analisi esperta?
+## Cos'è l'analisi esperta?
 
 L'analisi esperta è un metodo di __indagine dell'usabilità__ che si basa sulla valutazione del prodotto o del servizio __da parte di esperti del design o dell'usabilità__. L'analisi esperta consiste nell'osservare e nell'interagire con il prodotto o il servizio, al fine di individuare eventuali problemi o difficoltà nell'utilizzo e di formulare raccomandazioni per migliorare l'usabilità.
 
