@@ -122,19 +122,19 @@ Il modello AARRR viene utilizzato in ambito startup per identificare le aree su 
 
 ## AARRR - AA
 
-Acquisizione (__Acquisition__): si tratta del __primo contatto__ che gli utenti hanno con il prodotto o il servizio dell'azienda. In questa fase è importante __individuare le fonti di traffico__ e le strategie di marketing più efficaci per attirare nuovi utenti.
+__Acquisition__: si tratta del __primo contatto__ che gli utenti hanno con il prodotto o il servizio dell'azienda. In questa fase è importante __individuare le fonti di traffico__ e le strategie di marketing più efficaci per attirare nuovi utenti.
 
-Attivazione (__Activation__): si tratta della fase in cui gli __utenti diventano attivi__ e iniziano a utilizzare il prodotto o il servizio. In questa fase è importante assicurare che gli utenti abbiano un'esperienza positiva e che comprendano come utilizzare il prodotto.
+__Activation__: si tratta della fase in cui gli __utenti diventano attivi__ e iniziano a utilizzare il prodotto o il servizio. In questa fase è importante assicurare che gli utenti abbiano un'esperienza positiva e che comprendano come utilizzare il prodotto.
 
 ---
 
 ## AARRR - RRR
 
-Retention (__Retention__): si tratta della fase in cui __gli utenti continuano a utilizzare il prodotto__ o il servizio nel tempo. In questa fase è importante mantenere gli utenti interessati e soddisfatti, in modo da ridurre il tasso di abbandono.
+__Retention__: si tratta della fase in cui __gli utenti continuano a utilizzare il prodotto__ o il servizio nel tempo. In questa fase è importante mantenere gli utenti interessati e soddisfatti, in modo da ridurre il tasso di abbandono.
 
-Referral (__Referral__): si tratta della fase in cui __gli utenti parlano del prodotto o del servizio__ ai loro amici e conoscenti. In questa fase è importante creare un prodotto o un servizio che sia talmente soddisfacente da spingere gli utenti a consigliarlo ad altre persone.
+__Referral__: si tratta della fase in cui __gli utenti parlano del prodotto o del servizio__ ai loro amici e conoscenti. In questa fase è importante creare un prodotto o un servizio che sia talmente soddisfacente da spingere gli utenti a consigliarlo ad altre persone.
 
-Revenue (__Revenue__): si tratta della fase in cui __gli utenti generano entrate__ per l'azienda attraverso l'acquisto di prodotti o servizi o attraverso altre forme di monetizzazione. In questa fase è importante individuare le fonti di revenue più efficaci e implementare strategie per aumentare le entrate.
+__Revenue__: si tratta della fase in cui __gli utenti generano entrate__ per l'azienda attraverso l'acquisto di prodotti o servizi o attraverso altre forme di monetizzazione. In questa fase è importante individuare le fonti di revenue più efficaci e implementare strategie per aumentare le entrate.
 
 ---
 
