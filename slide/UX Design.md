@@ -630,6 +630,12 @@ Le variabili tempi e costi sono sempre presenti in tutte le scelte. Occorre semp
 
 ---
 
+## Prima e dopo - Novara
+
+![center Prima e dopo width:700px](img/uoux-novara.jpg)
+
+---
+
 ## La UX Research è costosa: come posso ridurre i costi?
 
 ---
@@ -708,7 +714,7 @@ In genere, per ottenere risultati accurati e rappresentativi, __è consigliabile
 
 ![center width:700px](img/user-testing.jpg)
 
-Source: Jakob Nielsen's chart fro m his March 19 th , 2000 Alertbox Column.
+Source: Jakob Nielsen's chart fro m his March 19 th, 2000 Alertbox Column.
 
 ---
 
