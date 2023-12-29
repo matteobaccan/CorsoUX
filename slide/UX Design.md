@@ -3,9 +3,9 @@ theme: default
 _class: lead
 paginate: true
 backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
+backgroundImage: url('img/background.svg')
 marp: true
-footer: https://github.com/matteobaccan/CorsoUX
+footer: https://github.com/matteobaccan/CorsoUX versione del %date% %time%
 ---
 
 # Introduzione allo UX Design
@@ -18,6 +18,11 @@ footer: https://github.com/matteobaccan/CorsoUX
 img[alt~='center'] {
   display: block;
   margin: 0 auto;
+}
+h2 {
+    color: #e50000;
+    position: absolute;
+    top: 30px;
 }
 " -->
 
@@ -149,6 +154,8 @@ L'analisi dei dati prodotti nelle fasi del modello AARRR ci permette di evitare 
 Come devono essere strutturati i prodotti / servizi?
 
 ---
+
+## Design di prodotti / servizi - come strutturarli
 
 ### Design thinking
 
@@ -636,6 +643,12 @@ Le variabili tempi e costi sono sempre presenti in tutte le scelte. Occorre semp
 
 ---
 
+## Prima e dopo - Novara - Parco dei bambini
+
+![center Prima e dopo width:700px](img/uoux-novara2.jpg)
+
+---
+
 ## La UX Research è costosa: come posso ridurre i costi?
 
 ---
@@ -1005,7 +1018,9 @@ Il principio di Hick-Hyman viene spesso utilizzato in progettazione dell'interfa
 
 ---
 
-![center width:800px](img/1%20jtKKnoipDSeT___fFxpaEA.png)
+## Il principio di Hick-Hyman - visuale
+
+![center width:750px](img/Hick-Hyman.png)
 
 <https://bootcamp.uxdesign.cc/beginners-guide-to-hicks-law-3d855bbb3e8c>
 

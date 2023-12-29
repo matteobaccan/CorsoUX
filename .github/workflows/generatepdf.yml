@@ -17,8 +17,18 @@ jobs:
     - name: generate pdf
       run: | 
         cd slide
-        docker run --rm --init -v $PWD:/home/marp/app/ -e LANG="it_IT.UTF-8" -e MARP_USER="$(id -u):$(id -g)" marpteam/marp-cli "UX Design.md" --pdf --allow-local-files
-        docker run --rm --init -v $PWD:/home/marp/app/ -e LANG="it_IT.UTF-8" -e MARP_USER="$(id -u):$(id -g)" marpteam/marp-cli "UX Design domande.md" --pdf --allow-local-files
+        cp 'UX Design.md' 'UX Design-backup.md'
+        sed -i "s/%date%/$(date +'%Y-%m-%d')/g" 'UX Design.md'
+        sed -i "s/%time%/$(date +'%H:%M')/g" 'UX Design.md'
+        npx @marp-team/marp-cli@latest 'UX Design.md' --pdf --allow-local-files --pdf-outlines --pdf-outlines.pages=false
+        rm 'UX Design.md'
+        mv 'UX Design-backup.md' 'UX Design.md'
+        cp 'UX Design domande.md' 'UX Design domande-backup.md'
+        sed -i "s/%date%/$(date +'%Y-%m-%d')/g" 'UX Design domande.md'
+        sed -i "s/%time%/$(date +'%H:%M')/g" 'UX Design domande.md'
+        npx @marp-team/marp-cli@latest 'UX Design domande.md' --pdf --allow-local-files --pdf-outlines --pdf-outlines.pages=false
+        rm 'UX Design domande.md'
+        mv 'UX Design domande-backup.md' 'UX Design domande.md'
       
     - name: commit & push
       run: |
