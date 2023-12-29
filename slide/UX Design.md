@@ -1320,3 +1320,5 @@ Riferimenti
 ### Disclaimer
 
 L'autore ha generato questo testo in parte con GPT-3, il modello di generazione del linguaggio su larga scala di OpenAI. Dopo aver generato la bozza della lingua, l'autore ha rivisto, modificato e rivisto la lingua a proprio piacimento e si assume la responsabilità  ultima del contenuto di questa pubblicazione.
+
+L'immagine di sfondo è stata generata con <https://app.haikei.app>

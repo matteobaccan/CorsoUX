@@ -3,12 +3,10 @@ theme: default
 _class: lead
 paginate: true
 backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
+backgroundImage: url('img/background.svg')
 marp: true
-footer: https://github.com/matteobaccan/CorsoUX
+footer: https://github.com/matteobaccan/CorsoUX versione del %date% %time%
 ---
-<!-- _paginate: false -->
-<!-- _footer: "" -->
 
 # UX Design
 
@@ -16,9 +14,23 @@ Domande di approfondimento
 
 ![bg right](img/matteo-baccan.jpg)
 
+<!-- _paginate: false -->
+<!-- _footer: "" -->
+<!-- style: "
+img[alt~='center'] {
+  display: block;
+  margin: 0 auto;
+}
+h2 {
+    color: #e50000;
+    position: absolute;
+    top: 30px;
+}
+" -->
+
 ---
 
-# Test di autovalutazione
+## Test di autovalutazione
 
 Di seguito alcune domande alle quali provare a rispondere dopo aver letto le slide del corso
 
@@ -43,3 +55,9 @@ Di seguito alcune domande alle quali provare a rispondere dopo aver letto le sli
 - Quali sono alcuni dei principi dell'interaction design?
 - Quali sono le tipologie di servizi?
 - Quali sono alcuni strumenti per capire gli utenti in una fase di service design?
+
+---
+
+## Disclaimer
+
+L'immagine di sfondo è stata generata con <https://app.haikei.app>
