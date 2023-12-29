@@ -621,7 +621,7 @@ Quali sono i motivi che ci spingono a fare una UX research?
 
 ---
 
-## Quando fare o non fare UX Reserch
+## Quando fare o non fare UX Research
 
 Per valutare se è conveniente fare o meno una determinata attività, è importante considerare sia il __tempo__ che verrà impiegato sia i __costi__ che questa comporterà.
 
